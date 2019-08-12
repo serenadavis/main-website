@@ -1,4 +1,5 @@
 import React from "react"
+import { Link } from "gatsby"
 
 export default () => (
 <div>
@@ -13,7 +14,7 @@ export default () => (
             </div>
         
             <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6" >
-                <a className="no-decoration no-underline" href="{% url 'index' %}"> <h1 className="main-title">The Harvard Advocate</h1></a>
+                <Link className="no-decoration no-underline" to="/"> <h1 className="main-title">The Harvard Advocate</h1></Link>
             </div>
             <div className="col-xs-12 col-sm-12 col-md-3 col-lg-3 top-line" style={{paddingLeft : '13px'}}>
                 <div className="form-group search-group">
@@ -49,7 +50,7 @@ export default () => (
         <div className="collapse navbar-collapse navbar-ex1-collapse ">
         <div className="nav-header"> </div>
             <ul className="nav navbar-nav">
-                <li ><a href="{% url 'about'%}">ABOUT</a></li>
+                <li ><Link to="/about">ABOUT</Link></li>
                 <li ><a href="{% url 'issues'%}">ISSUES</a></li>
                 <li ><a href="{% url 'art'%}">ART</a></li>
                 <li ><a href="{% url 'fiction'%}">FICTION</a></li>
