@@ -8,7 +8,9 @@ export default ({ data }) => {
         <div class = "container">
             <article class="{post.frontmatter.section}">
                 <h1 class="article-title">{post.frontmatter.title}</h1>
-                    <a href="" class="no-decoration"> <h2 class="article-author"> {post.frontmatter.authors[0]}</h2></a>
+                    {post.frontmatter.authors.map(author=>(
+                        <a href="" class="no-decoration"> <h2 class="article-author"> {author}</h2></a>
+                    ))}
                 <div dangerouslySetInnerHTML={{ __html: post.html }} />
             </article>
         </div>
