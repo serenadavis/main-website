@@ -11,6 +11,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       edges {
         node {
           excerpt
+          html
           frontmatter {
             title
             authors
@@ -31,7 +32,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
 
     res.data.all.edges.forEach(({ node }) => {
       createPage({
-        path: node.frontmatter.slug,
+        path: 'content/'+node.frontmatter.slug,
         component: postTemplate,
         context: { slug: node.frontmatter.slug}
       })
