@@ -28,7 +28,7 @@ export default () => (
 
                     <ul className="search-form-links list-unstyled">
                         <li>
-                        <a className="no-decoration top-line" href="{% url 'submit' %}">Submit</a>
+                        <Link className="no-decoration top-line" to="/submit">Submit</Link>
                         <a className="no-decoration top-line" href="{% url 'subscribe' %}">Subscribe</a>
                         <a className="no-decoration top-line" href="{% url 'shop' %}">Shop</a>
                         <Link className="no-decoration top-line" to="/donate">Donate</Link>
