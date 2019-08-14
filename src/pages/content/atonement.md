@@ -1,0 +1,20 @@
+---
+title: "Atonement"
+slug: "atonement"
+issue: "Commencement"
+year: "2010"
+authors: ['Loren Galler Rabinowitz']
+section: "poetry"
+audio: []
+main_image: ""
+banner_image: ""
+images: []
+---
+And this is how we seek atonement. From its plastic chrysalis we unfurled
+
+ a kite. A ribbon off the transverse axis dragged the industrial sand meant to offset
+
+ the inward press of oceanic plates. The smallest, the narrow runner, holds the diamond by its belly and begins. The eldest stands anchored, remembering the dressmaker’s grizzled husband who fell off his motorcycle, his beard matted with wax. The eldest wraps the line round her palms and pulls in hard against the wind. We’re up,
+
+ we’re up. The middle child stands in the surf and searches among the mollusks and wrappers for three unbroken shells she’d string into amulets.
+

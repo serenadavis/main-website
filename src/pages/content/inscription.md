@@ -1,0 +1,64 @@
+---
+title: "Inscription"
+slug: "inscription"
+issue: "Winter"
+year: "2011"
+authors: ['Dan Chiasson']
+section: "poetry"
+audio: []
+main_image: ""
+banner_image: ""
+images: []
+---
+Things traced by what they trace: the flashlight,
+
+ not the slingshot...as though to orbit was the point.
+
+  
+
+ As though going round and round reiterating
+
+ were a form of argument; the way a globe is spun;
+
+  
+
+ the way, cleaving the air, the boomerang must zip
+
+ whatever it unzipped, the carousel horse gallop
+
+  
+
+ idiotically to its tune, its smile painted on.
+
+ As though a beat was an adventure. The insufficient margin.
+
+  
+
+ The margin in all things makes them too valuable to be
+
+ any value at all, the inscription To Chester, from Wystan
+
+  
+
+ that surplus in the chastity, To Chester; a line
+
+ ruining, by embodying it, its potential power;
+
+  
+
+ remembered looking forward, as though not one minute more
+
+ on the planet won’t be, and it won’t be, the undoing
+
+  
+
+ of everything I did, the boomerang returning, its limit shot,
+
+ From Wystan, its limit never met, the horizon near
+
+  
+
+ my body worn as a light sweater, something thrown on
+
+ on a cold night, getting colder, near the end of summer.
+

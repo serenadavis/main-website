@@ -1,0 +1,26 @@
+---
+title: "On Nothing"
+slug: "on-nothing"
+issue: "Winter"
+year: "2018"
+authors: ['Joanna Klink']
+section: "poetry"
+audio: []
+main_image: ""
+banner_image: ""
+images: []
+---
+  
+I wanted to know there was nothing.  
+I kept knocking. When I touched  
+the door with my palm the wood froze.  
+When I called your name you slept behind  
+drifts of rain for nine hours.  
+There was snow in everything I spoke.  
+Your eyes filled with the green paralysis of  
+trees, months of wind at our lips.  
+Please don’t worry. The bell  
+that once rose from my throat  
+in breath below you blurs into the night.  
+I have less than I had when I first saw you.
+

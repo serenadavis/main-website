@@ -1,6 +1,8 @@
 import React from "react"
 import { Link } from "gatsby"
 
+/* eslint-disable */
+
 export default () => (
 <div>
     <header className="container">

@@ -1,0 +1,45 @@
+---
+title: "I am filling the creases"
+slug: "i-am-filling-the-creases"
+issue: "Spring"
+year: "2009"
+authors: ['Olga Moskvina']
+section: "poetry"
+audio: []
+main_image: ""
+banner_image: ""
+images: []
+---
+I am filling the creases on your neck   
+and your palms, from which sand
+
+once rose, as from the creases of   
+a sidewalk where a parched wind
+
+wrestles. The unfolding of   
+your back revels in its grace as though
+
+it were a sickness, or falling   
+leaves curling around
+
+a current of air. My hands   
+falling on yours, my hands
+
+on your unfolding back,   
+especially on your unfolding back, 
+
+become poplar leaves. That I cannot   
+hide in a crease your smile
+
+makes in your cheek is   
+my one regret as I let my eyes
+
+shut out the light: unseen,   
+it will dissolve the gentle weight
+
+of distances. I know how to   
+stop and start at the brim.   
+  
+  
+
+

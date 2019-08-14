@@ -1,0 +1,156 @@
+---
+title: "The Piano Lesson"
+slug: "the-piano-lesson"
+issue: "Spring"
+year: "2012"
+authors: ['Matt Aucoin']
+section: "poetry"
+audio: []
+main_image: ""
+banner_image: ""
+images: []
+---
+            after Henri Matisse
+
+  
+
+ I. 
+
+ Hope of the boy’s 
+
+ hidden hands that they meet
+
+  
+
+ at the final triangle’s 
+
+ point, the key
+
+  
+
+ II. 
+
+ The twice-painted women 
+
+ are strung silent.
+
+  
+
+ The boy sits in air’s 
+
+ clear fire between
+
+  
+
+ wrought music stand, 
+
+ wrought railing. The scene
+
+  
+
+ orients around 
+
+ the unseen bodiless
+
+  
+
+ dancer the women 
+
+ are bodies of.
+
+  
+
+ III. 
+
+ The wrought railing 
+
+ strains for the world 
+
+ of green the world 
+
+ of time – in this house
+
+  
+
+ sheer cliffs, the window’s 
+
+ slice of green a slice 
+
+ of time, a sharp absent 
+
+ point on the burnt piano-top 
+
+ where the metronome mocks 
+
+ the candle, taps
+
+ its own candlelife out 
+
+ in unlovely coughs
+
+ as the candle lost 
+
+ in its shining locks 
+
+ is too much song, 
+
+ is not hope
+
+  
+
+ IV. 
+
+ The two mothers guard 
+
+ the depthless walls 
+
+ of the past he purges 
+
+ now in song:
+
+  
+
+ with the rest 
+
+ of the brightened dead 
+
+ they inhabit hope –
+
+  
+
+ V. 
+
+ And now his fierce eye 
+
+ confounds its shape 
+
+ in a shadow honing
+
+  
+
+ into evening, 
+
+ narrowing, lengthening 
+
+ into nothing
+
+  
+
+ VI. 
+
+ Must I misshape time? 
+
+ To another canyon, 
+
+ another imagined point?
+
+  
+
+ O say the boy’s hands, 
+
+ strong with gathered gaze, 
+
+ meet that backwards eye
+
+  
+

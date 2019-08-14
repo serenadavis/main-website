@@ -1,0 +1,47 @@
+---
+title: "Mothlight"
+slug: "mothlight"
+issue: "Commencement"
+year: "2013"
+authors: ['Tyler Richard']
+section: "poetry"
+audio: []
+main_image: ""
+banner_image: ""
+images: []
+---
+Until the moth takes  
+wing light on dark  
+on your dark eye  
+ I cannot express.
+
+Hold up a flashlight  
+to things themselves;  
+separate the body  
+into day and night.
+
+Across your screen  
+the moth wings  
+are many and pressings  
+wrinkled hands cupping
+
+and dropping the dark.  
+Overhead a light  
+aurora performs its  
+handless weavings.
+
+ These are our angels:  
+the luminous who sing  
+in light of things  
+ as they truly are.
+
+That your dark eye  
+wing light on dark  
+might tear a part  
+for the daytime
+
+ I reach overhead.  
+ I caress the mothlight  
+and with its dust  
+I mark my breath.
+

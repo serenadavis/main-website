@@ -1,0 +1,42 @@
+---
+title: "Elegy"
+slug: "elegy"
+issue: "Winter"
+year: "2018"
+authors: ['Cameron McGill']
+section: "poetry"
+audio: []
+main_image: ""
+banner_image: ""
+images: []
+---
+ 
+
+  
+
+ Morning expands one rib at a time  
+speaks through the pinktops of pines        On the porch  
+I write to a friend whose mother has passed  
+Blue fog is a doe that startles  
+at my cough        I drink black water from its eye
+
+   
+This isn't about half-dreamt things  
+The veil over the lake about to boil a man  
+It's too quiet to answer anything but the tongue-colors  
+of the east        fern-light slices from a mandoline
+
+   
+My words are bad acreage  
+I think of taking my friend’s grief     for him holding it  
+above my head & wading out     It is clear I can see the sand  
+I tell myself this is helping    this is what the heart looks like working
+
+   
+Each step     the outbreath  
+There is a boat & a man moving his line  
+He’s throwing longer & longer threads  
+to the still dark  
+  
+
+

@@ -1,0 +1,60 @@
+---
+title: "Last Winter"
+slug: "last-winter"
+issue: "Commencement"
+year: "2010"
+authors: ['Cora Currier']
+section: "poetry"
+audio: []
+main_image: ""
+banner_image: ""
+images: []
+---
+There is no winter but she saved
+
+ two pomegranates for me
+
+ from the deer and the salt
+
+ winds. They grew into the window.
+
+  
+
+ Each year there are more fields
+
+ let go to seed. She cannot
+
+ stop planting even as the green
+
+ up and envelopes her.
+
+  
+
+ I must count each leaf, stroke
+
+ each new moss and name each.
+
+ I must sit in one place until
+
+ I have named and kissed each
+
+  
+
+ thing and then I turn to the next
+
+ in my orderly radius and they keep
+
+ sprouting exuberant and I
+
+ am weary of counting the wildness.
+
+  
+
+ I do not know the seasons
+
+ any longer coming as they do
+
+ endlessly or never: here I am
+
+ left counting the small and kind. 
+
