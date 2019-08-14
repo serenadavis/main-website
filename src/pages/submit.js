@@ -6,11 +6,9 @@ export default () => (
         <div class="container">
             <h1 class="header">SUBMISSION GUIDELINES</h1>
             <p><i>The Harvard Advocate</i> accepts submissions of art, fiction, and poetry of any form or length created by members of the Harvard community, as well as outside contributors at our discretion. All submissions are considered anonymously. Submissions may be uploaded online:</p>
-            <p>We are currently accepting submissions for our Summer 2019 issue. Our spring review period ends on April 26, 2019.</p>
             <div class="center"> 
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdHCYzDkX4ZAuip4NwjCeWXODfQSrheQDGEcgFApdhLrF35sg/viewform?usp=sf_link" class="btn btn-primary btn-150th" target="_blank">FICTION</a>
             </div>
-            <p><span style={{fontWeight: 400}}>Send us your short stories or stand-alone novel excerpts! All submissions by current Harvard undergraduates will be up for consideration for the 2019 Begley Prize, judged by Jia Tolentino.</span></p>
             <ul>
             <li style={{fontWeight: 400}}><span style={{fontWeight: 400}}>We have no minimum or maximum word counts, but the work we publish tends to be between 700 and 7000 words.</span></li>
             <li style={{fontWeight: 400}}><span style={{fontWeight: 400}}>Please include a cover letter and brief third-person biographical statement with your submission.</span></li>
@@ -25,7 +23,6 @@ export default () => (
             <div class="center"> 
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfMcuyiu8TM0AUSnOjCvUvA59lWIfVYgvJ-8uX_RgIRjKuypA/viewform?usp=sf_link" class="btn btn-primary btn-150th" target="_blank">POETRY</a>
             </div>
-            <p><span style={{fontWeight: 400}}>Send us your poetry!</span></p>
             <ul>
             <li style={{fontWeight: 400}}><span style={{fontWeight: 400}}>We have no minimum or maximum word counts.</span></li>
             <li style={{fontWeight: 400}}><span style={{fontWeight: 400}}>If you&rsquo;d like to, you may include a message to the editor with your submission. In this message you can describe your work, if you like, or give any background necessary to understand it.</span></li>
