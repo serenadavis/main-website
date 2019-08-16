@@ -5,7 +5,7 @@ import { graphql } from "gatsby"
 
 export const query = graphql`
 {
-    allMarkdownRemark(filter: {frontmatter: {section: {eq: "poetry"}}}, limit: 5) {
+    allMarkdownRemark(filter: {frontmatter: {section: {eq: "art"}}}, limit: 5) {
       edges {
         node {
           frontmatter {
@@ -13,6 +13,7 @@ export const query = graphql`
             authors
             slug
             section
+            images
           }
           excerpt(pruneLength: 2000)
         }

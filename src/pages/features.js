@@ -17,12 +17,17 @@ export const query = graphql`
           excerpt(pruneLength: 2000)
         }
       }
-    }
+    },
+    metadata: site {
+      siteMetadata {
+          mediaUrl
+      }
+  }
 }
 `
 
 export default ({data}) => (
-    <Layout>
-        <FeaturedArticlesComponent data={data}/>
-    </Layout>
+  <Layout>
+      <FeaturedArticlesComponent data={data} metadata={data.metadata}/>
+  </Layout>
 )

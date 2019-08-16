@@ -17,6 +17,11 @@ export const query = graphql`
           excerpt(pruneLength: 2000)
         }
       }
+    },
+    metadata: site {
+        siteMetadata {
+            mediaUrl
+        }
     }
 }
 `

@@ -20,6 +20,7 @@ class FeaturedArticlesComponent extends React.Component {
 
     render(){
         const data = this.props.data;
+        const metadata = this.props.metadata;
         const featured = this.state.featured ? this.state.featured : data.allMarkdownRemark.edges[0];
         return (
             <div className="container">
@@ -45,8 +46,15 @@ class FeaturedArticlesComponent extends React.Component {
                             <a href="">{author}</a>
                         ))}</span>
                         <span class="title-underline"></span>
-                        {/* <div class="item-sample">{% if article.photo %}<a href="{% url 'content' article.id %}"><img src="{{ MEDIA_URL }}{{article.photo}}" /></a>{% else %}{% autoescape off %}{{ article.body }}{% endautoescape %}{% endif %}</div> */}
-                        <div class="item-sample">{featured.node.excerpt}</div>
+                        { featured.node.frontmatter.section === "art" ?
+                            <div class="item-sample">
+                                <Link to={"/content/"+featured.node.frontmatter.slug}>
+                                    <img src={metadata.siteMetadata.mediaUrl + featured.node.frontmatter.images[0]} />
+                                </Link>
+                            </div>
+                            :
+                            <div class="item-sample">{featured.node.excerpt}</div>
+                        }
                         <div class="shadow"></div>
                         <div class="item-continue-reading"><Link to={"/content/"+featured.node.frontmatter.slug}>See More ></Link></div>
                     </div>
