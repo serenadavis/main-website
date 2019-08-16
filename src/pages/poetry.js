@@ -5,7 +5,7 @@ import { graphql } from "gatsby"
 
 export const query = graphql`
 {
-    allMarkdownRemark(filter: {frontmatter: {section: {eq: "fiction"}}}, limit: 5) {
+    allMarkdownRemark(filter: {frontmatter: {section: {eq: "poetry"}}}, limit: 5) {
       edges {
         node {
           frontmatter {

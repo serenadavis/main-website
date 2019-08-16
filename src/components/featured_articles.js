@@ -19,14 +19,12 @@ class FeaturedArticlesComponent extends React.Component {
     }
 
     render(){
-        console.log(this.props)
         const data = this.props.data;
         const featured = this.state.featured ? this.state.featured : data.allMarkdownRemark.edges[0];
-        console.log(featured)
         return (
             <div className="container">
                 <h3 class="section-title">
-                Featured fiction
+                Featured {featured.node.frontmatter.section}
                 </h3>
                 <div class="features fiction-page">
                 <ul class="featured-item-links">
