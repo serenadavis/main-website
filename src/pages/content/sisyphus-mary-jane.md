@@ -3,12 +3,14 @@ title: "Sisyphus & Mary Jane"
 slug: "sisyphus-mary-jane"
 issue: "Spring"
 year: "2015"
+date: "2015-03-01"
 authors: ['Margot Grenade']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: ['sites/default/files/margotgr.png']
+videos: []
 ---
    *What do we do now, now that we are happy? *
 

@@ -3,12 +3,14 @@ title: "Running Amok"
 slug: "running-amok"
 issue: "Spring"
 year: "2009"
+date: "2009-03-01"
 authors: ['brittany benjamin']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

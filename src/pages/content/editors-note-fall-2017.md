@@ -3,12 +3,14 @@ title: "Editor's Note: Fall 2017"
 slug: "editors-note-fall-2017"
 issue: "Fall"
 year: "2017"
+date: "2017-09-01"
 authors: ['Lily Scherlis', 'Lev Mamuya']
 section: "notes"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 L: Four times a year, our printer deposits a mountain of
 

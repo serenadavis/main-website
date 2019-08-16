@@ -3,12 +3,14 @@ title: "[The sunset-red boy]"
 slug: "the-sunset-red-boy"
 issue: "Commencement"
 year: "2011"
+date: "2011-06-01"
 authors: ['Stephanie Newman']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The sunset-red boy in his little canoe
 

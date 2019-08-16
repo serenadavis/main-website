@@ -3,12 +3,14 @@ title: "Envoy: To Build a Deck"
 slug: "envoy-to-build-a-deck"
 issue: "Winter"
 year: "2011"
+date: "2011-01-01"
 authors: ['Mark Chiusano']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 When I was eleven there was a real push in my family to build a deck over our backyard, out from the kitchen on the second floor. This was a real motion, like the time when my father said that he was considering getting a dog for my brother and me, though that never actually materialized. But the building of the deck looked real, obstacled only by the old-man berry tree in the garden plot and the basketball hoop whose base was filled with sand. Joe, who lived next door, had promised to help us build it. Or else he knew a guy.
 

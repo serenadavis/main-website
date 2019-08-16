@@ -3,12 +3,14 @@ title: "A Matter of Taste"
 slug: "a-matter-of-taste"
 issue: "Fall"
 year: "2012"
+date: "2012-09-01"
 authors: ['Ezra Huang Stoller']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 **  In Natalie Babbitt’s children’s classic  The Search for Delicious, a fictional, chapter book kingdom dissolves into civil war over a dictionary entry. At the outset, Gaylen, the young protagonist, does not see the need for battle. “Why don’t you leave Delicious out of the dictionary entirely?” he asks. What follows is his pursuit of the elusive definition of Delicious, a quest to objectively   
 characterize a word that is wholly a matter of taste. **

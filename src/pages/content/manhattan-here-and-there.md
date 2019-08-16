@@ -3,12 +3,14 @@ title: "Manhattan, Here and There"
 slug: "manhattan-here-and-there"
 issue: "Spring"
 year: "2010"
+date: "2010-03-01"
 authors: ['Rebecca Cooper']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Contributor’s note: Rebecca Cooper wrote this in the Year of Dairy Products from the American Heartland, give or take some subsidized time.
 

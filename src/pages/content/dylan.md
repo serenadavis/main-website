@@ -3,12 +3,14 @@ title: "Dylan"
 slug: "dylan"
 issue: "Commencement"
 year: "2013"
+date: "2013-06-01"
 authors: ['Alexander Traub']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

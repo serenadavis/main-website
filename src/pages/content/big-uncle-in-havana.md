@@ -3,12 +3,14 @@ title: "Big Uncle In Havana"
 slug: "big-uncle-in-havana"
 issue: "Fall"
 year: "2017"
+date: "2017-09-01"
 authors: ['Emily Zhao']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 In Mandarin, the word for your father’s oldest brother is Big-Uncle-on-Father’s-Side. When I was eleven and Alaina was nine, we went to Havana with Big Uncle during his Chinese New Year vacation. Cuba was Dad’s idea even though no one but me spoke Spanish and, besides visiting family in China, we never ventured further than Nashville. Big Uncle could have stayed with us—he had hosted us twice—but maybe Dad didn’t want to give him the chance to compare Shanghai and Indiana, or didn’t want him in our home, even with so little time left. Maybe he was only trying to display some American adventurousness.
 

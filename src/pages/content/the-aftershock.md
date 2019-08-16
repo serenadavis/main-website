@@ -3,12 +3,14 @@ title: "The Aftershock"
 slug: "the-aftershock"
 issue: "Commencement"
 year: "2014"
+date: "2014-06-01"
 authors: ['Moeko Fujii']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 “That’s how high it came,” the lady says, pointing at a faint brown line drawn straight by the waves, high across the exterior of her broken house. She gives us water and lukewarm orange juice, and we do our work. 
 

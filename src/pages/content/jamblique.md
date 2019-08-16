@@ -3,12 +3,14 @@ title: "Jamblique"
 slug: "jamblique"
 issue: "Winter"
 year: "2018"
+date: "2018-01-01"
 authors: ['William Fuller']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
     
 

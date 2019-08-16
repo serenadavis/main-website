@@ -3,12 +3,14 @@ title: "W.G. Sebald: Writing around Destruction"
 slug: "wg-sebald-writing-around-destruction"
 issue: "Fall"
 year: "2015"
+date: "2015-09-01"
 authors: ['Bailey Trela']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I. Destruction and Silence
 

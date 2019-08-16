@@ -3,12 +3,14 @@ title: "On Names Recurring"
 slug: "on-names-recurring"
 issue: "Fall"
 year: "2011"
+date: "2011-09-01"
 authors: ['Victoria Baena']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
   
 

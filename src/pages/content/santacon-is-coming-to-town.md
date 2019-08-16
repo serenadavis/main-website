@@ -3,12 +3,14 @@ title: "SantaCon is Coming to Town"
 slug: "santacon-is-coming-to-town"
 issue: "Winter"
 year: "2014"
+date: "2014-01-01"
 authors: ['Sam Reynolds']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
    Nothing says happy holidays like a trip to the mall. Drooping garlands swaying to a decaying cassette player, bleary-eyed consumers everywhere, holiday spirit in the air; the most wonderful time of the year. In between stops and swipes, a child’s will and insistence drags his family onto a different kind of line, to a path striped with candy canes straight to the North Pole. Each step leaves an imprint in plastic snow, all leading toward the big man at the end. For every child, this time is the most important part of the holidays, the moment to speak face-to-face, man-to-man, with Santa Claus himself.  
     The Mall Santa does not appear to a kid as just another minimum wage impostor. Even Jews flock to this icon for a moment on Santa’s lap (I know from personal experience). To someone with baby teeth, regardless of this man’s height, weight, skin color, odor, he is one of a kind, the imagination realized and rationalized.  

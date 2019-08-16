@@ -3,12 +3,14 @@ title: "\"Watch Me\""
 slug: "watch-me"
 issue: "Spring"
 year: "2015"
+date: "2015-03-01"
 authors: ['Anna Hagen']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 In the end, we settled on gingerbread and baked brown rice for Karen’s birthday party. Gingerbread because we had woken to a world alive with snow, the windows flailed by frost and moaning with wind, outside the street and sky identical white. The radiators hissed. We hoarded the heat. We looked outside and watched the street, which could have been from any age. We flicked on all the lamps, not to fight the shadows but to deny the glow of the storm. We gravitated to the halos of lamplight. My parents settled on opposite ends of the couch, balancing their laptops, whose screens gave off the same light as the snow. I found myself under the kitchen’s battered steel hanging lamp, a relic from our apartment’s past life as a factory. I wanted to crank the oven to high and eat all the forbidden things. I said I would do the baking myself, and as I beat the butter I imagined kissing Jakey.
 

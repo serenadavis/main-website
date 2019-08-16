@@ -3,12 +3,14 @@ title: "A Mechanical Scrutiny"
 slug: "a-mechanical-scrutiny"
 issue: "Fall"
 year: "2008"
+date: "2008-09-01"
 authors: ['Justin Keenan']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  It is a hot day in the city on the edge of summer, the sun shining clear and crisp like a giant overhead lamp. Two boys sit on a bench. The first is tall and thin, with masculine shoulders and hair made of the straw he used to roll in and that his mother eventually gave up trying to remove. His face would be almost perfectly formed were it not for his nose which hasn’t been even since an older boy smashed it in grade school. He leans with elbows jutting outward and hands cupped over kneecaps, his eyes idly following the motion of the street but not focused on anything in particular. Later that night he will meet up with his girlfriend from the state college across town because someone cut her bike lock the previous weekend, which means for going all the way out to see her he should be able to expect at least a blowjob. He exhales and runs his hand through his hair. These thoughts occupy his mind as he turns to his roommate who is busy watching people on the street. He has narrow shoulders and wears khakis even during the summer because he’s embarrassed of his thin legs. His frame is slight, his height concealed by a mild hunch. He breathes loudly, as if he thinks his brain needs more oxygen than other brains. Later that night he will go for a long walk across town and through the park, alone, hoping to find a way to clean out his insides before returning to the apartment where he will lie in bed all night, trying to stare through the ceiling into the room above him. He taps his fingers against the table.
 

@@ -3,12 +3,14 @@ title: "Complete Strangers (Excerpt)"
 slug: "complete-strangers-excerpt"
 issue: "Commencement"
 year: "2009"
+date: "2009-06-01"
 authors: ['Jesse Barron']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

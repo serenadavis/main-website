@@ -3,12 +3,14 @@ title: "Good Fences Make Good Neighbors"
 slug: "good-fences-make-good-neighbors"
 issue: "Fall"
 year: "2014"
+date: "2014-09-01"
 authors: ['Olivia Munk']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 There is an urban legend commonly whispered among schoolchildren in southeast Queens, New York City, that goes like this: A high school girl has been babysitting for some kids in her neighborhood. (In local retellings, it’s usually Bayside, Glen Oaks, or Bellerose.) One day, she’s putting the kids to bed and sees a life-size clown statue in the corner of the room. She inspects it and concludes it’s just a recent, unpleasant addition to the nursery. Satisfied that her charges are safely asleep in their beds, she heads to the den and flips on the TV. A news channel announces: Escaped Mental Patient On The Loose from Creedmoor Psychiatric Center, Believed To Be Dressed As Clown. 
 

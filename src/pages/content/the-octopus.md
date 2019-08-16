@@ -3,12 +3,14 @@ title: "The Octopus"
 slug: "the-octopus"
 issue: "Spring"
 year: "2018"
+date: "2018-03-01"
 authors: ['Julia Lee']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 My mother can only fall asleep with a hitachi wand tucked between her legs. It is big and white—the thick handle alone is the size of an adult humerus bone, and atop it rests a large bulb the size of an adult’s fist. The bulb is made of a material that is probably plastic but feels like leather, and has myriads of small indentations that collect dirt, fluid—i.e. color, yellow-brown dots that, when the hitachi is turned on to the low setting, make the whole head appear yellow, like a crude pointillism; but on the high setting the opposite effect occurs, somehow the vigorous high speed vibrations, which are so rapid as to be insensible, like strobe lights which give you the impression that a rotating object is actually perfectly still, cause the discolorations to vanish completely, and the bulb is all white, pure white all over, the same color as the handle. My mother, I know, prefers the low setting—but even so I worry that overuse will make her completely numb, which would be a disaster, since it is the only way that she can fall asleep.
 

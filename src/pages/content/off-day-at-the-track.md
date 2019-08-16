@@ -3,12 +3,14 @@ title: "Off Day At the Track"
 slug: "off-day-at-the-track"
 issue: "Winter"
 year: "2012"
+date: "2012-01-01"
 authors: ['Eric Roff Brewster']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 On the ground rests a slip of paper worth $96. A janitor, mop and cigarette in one hand, kneels down and studies the fine print. CALDER LEG 1: 4, 6, 7; LEG 2: 3.
 

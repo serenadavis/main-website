@@ -3,12 +3,14 @@ title: "Last Winter"
 slug: "last-winter"
 issue: "Commencement"
 year: "2010"
+date: "2010-06-01"
 authors: ['Cora Currier']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 There is no winter but she saved
 

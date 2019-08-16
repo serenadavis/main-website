@@ -3,12 +3,14 @@ title: "Myrddin Wilt, Myrddin Emrys, Merlinus Silvestri,  Merlinus Celidonus, Me
 slug: "myrddin-wilt-myrddin-emrys-merlinus-silvestri-merlinus-celidonus-merlinus-ambrosius-merlin-a-bestiary-entry"
 issue: "Winter"
 year: "2010"
+date: "2010-01-01"
 authors: ['Sanders Bernstein']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Myrddin Wilt, if he does yet breathe, can be found in the Forest of Celyddon. Although some say he is merely a figure of legend, it may be less than prudent to concur with the doubters. After all, they were the men who dismissed the story of Myrddin’s magicking of Stonehenge from across the seas and we know now that the monument’s stone came from a quarry that is indeed across a sea, across the Cardigan Bay, on the southern coast of Wales. Such disbelief, however, is not uncommon in the treatment of this man of the woods. His life, to this point, has not been one of ease, but has been marked, yes, by madness but also by a never-ending struggle against those who would sleight his essential nature, even going so far as to attempt to kill him for it.
 

@@ -3,12 +3,14 @@ title: "Tribute to Seamus Heaney"
 slug: "tribute-to-seamus-heaney"
 issue: "Fall"
 year: "2013"
+date: "2013-09-01"
 authors: ['The Harvard Advocate & Robert Kiely']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  In celebration of Seamus Heaney, we include here a tribute read at a service in Harvard Yard’s Memorial Church honoring the life and work of the poet. Professor Robert Kiely, who served as Master of Adams House from 1972 until 1999, read “Seamus at Adams House” as an introduction to “Anniversary Verse”. Heaney himself had composed and read “Anniversary Verse” for the 50th Anniversary of Adams House, where he often stayed during his years at Harvard. Adams House was known as the Left Bank of undergraduate life back when students were allowed to choose their Houses: the vibrant center of the arts on campus. We include Professor Kiely’s portrait of the poet during his Harvard years in remembrance of Heaney the teacher, and Heaney the friend: the Heaney who guides us still.
 

@@ -3,12 +3,14 @@ title: "Dugout"
 slug: "dugout"
 issue: "Fall"
 year: "2010"
+date: "2010-09-01"
 authors: ['Mark Chiusano']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
      It looks just like a real dugout at first, until you notice certain things: the donkeys out in left, the patio where the mental outpatients sit, asking why you’re not allowed to kick the ball when it comes your way. The outpatients live in the psychiatric facility behind the third-base line, next to the stable sitting in home-run territory. Behind home plate is a refugee asylum, where little Eastern-European children ride tricycles out of their sandboxes toward the bleachers when there are games. One of the players brings a blowup tent that he puts over the stands, and there’s a plastic sign somewhere: Ballpark PZ Hard Embrach, home of the Embrach Mustangs, second-best semi-professional baseball team in Switzerland.  
      It’s a perfect dugout, even if it is above ground. A banner hanging from the top says in garish font: Home of the Embrach Rainbows. (No longer the organization’s name—there was a change after the Americans on the team explained the insinuation—but old habits die hard). The bench inside is splinter-free; the section closer to home plate has bunkers for helmets and gloves. The concrete floor is spitted with sunflower seeds, happily strewn. You can pretend that you’re in some forgotten corner of America where this plot of land was all that was left to build a baseball field on. You can overlook everything, the bumps at third base, the soccer goal in center—but it’s impossible to glance towards the first-base line and ignore the conspicuous lack of an away-team dugout.

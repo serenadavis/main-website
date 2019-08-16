@@ -3,12 +3,14 @@ title: "An Interview with Issey Miyake"
 slug: "an-interview-with-issey-miyake"
 issue: "Fall"
 year: "2008"
+date: "2008-09-01"
 authors: ['brittany benjamin']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I was eighteen the time I wore an ISSEY MIYAKE dress, and it immediately struck me: there was too much fabric. The sleeves were three times the length of my arms—the neck, intended for a giraffe. It fit me like a glove, but it flowed past the floor, pooling around my feet. But procuring some scissors, the shop girls explained: “Make of it what you want.” They pointed to some lines deftly hidden in the fabric. “There are many options.” And just like that, the consumer becomes the creator and the boutique becomes a personal workshop.
 

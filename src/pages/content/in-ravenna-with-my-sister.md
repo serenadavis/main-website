@@ -3,12 +3,14 @@ title: "In Ravenna with My Sister"
 slug: "in-ravenna-with-my-sister"
 issue: "Fall"
 year: "2016"
+date: "2016-09-01"
 authors: ['Sam Reiss']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *For LR*
 

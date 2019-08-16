@@ -3,12 +3,14 @@ title: "[for soul is this]"
 slug: "for-soul-is-this"
 issue: "Winter"
 year: "2013"
+date: "2013-01-01"
 authors: ['Stephanie Newman']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Sanctuary, I am light within  
 your innermost organ: whitened

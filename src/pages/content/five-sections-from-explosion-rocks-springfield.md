@@ -3,12 +3,14 @@ title: "five sections from Explosion Rocks Springfield"
 slug: "five-sections-from-explosion-rocks-springfield"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Rodrigo Toscano']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

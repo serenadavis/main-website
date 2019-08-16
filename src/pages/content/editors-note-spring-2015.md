@@ -3,12 +3,14 @@ title: "Editor's Note: Spring 2015"
 slug: "editors-note-spring-2015"
 issue: "Spring"
 year: "2015"
+date: "2015-03-01"
 authors: ['The Advocate Editorial Board']
 section: "notes"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 April, at 21 South Street, is far from the cruelest month. But melting snow reveals spring breeding: birthing dormant lilacs from our archives, mixing institutional memory with a new, stirring rain. 
 

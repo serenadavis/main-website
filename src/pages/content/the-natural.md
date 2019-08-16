@@ -3,12 +3,14 @@ title: "The Natural"
 slug: "the-natural"
 issue: "Winter"
 year: "2018"
+date: "2018-01-01"
 authors: ['Lev Mamuya']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The natural street-musician will follow you once  
 you have dropped a coin into the hat. Because  

@@ -3,12 +3,14 @@ title: "[In my dream the old woman had a ribbon for the boy]"
 slug: "in-my-dream-the-old-woman-had-a-ribbon-for-the-boy"
 issue: "Fall"
 year: "2009"
+date: "2009-09-01"
 authors: ['Abram Kaplan']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 In my dream the old woman had a ribbon for the boy  
   

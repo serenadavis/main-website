@@ -3,12 +3,14 @@ title: "Poem in the Manner of Self-Help with a Moral"
 slug: "poem-in-the-manner-of-self-help-with-a-moral"
 issue: "Winter"
 year: "2017"
+date: "2017-01-01"
 authors: ['Michael Homolka']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
   When encountering an emotion
 

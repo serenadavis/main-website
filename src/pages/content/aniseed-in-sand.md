@@ -3,12 +3,14 @@ title: "Aniseed in sand"
 slug: "aniseed-in-sand"
 issue: "Winter"
 year: "2014"
+date: "2014-01-01"
 authors: ['Zo\xc3\xab Hitzig']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Comes on and quickly: A thin worm slips sylphlike  
               into the inner ear and spirals to line the cochlea  

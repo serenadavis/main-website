@@ -3,12 +3,14 @@ title: "Theme Park"
 slug: "theme-park"
 issue: "Spring"
 year: "2009"
+date: "2009-03-01"
 authors: ['Adam Scheffler']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 America tangle with me, hybrid with me   
 and what bored surveillance footage,   

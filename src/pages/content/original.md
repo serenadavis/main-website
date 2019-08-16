@@ -3,12 +3,14 @@ title: "Original"
 slug: "original"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['Fady Joudah']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Meaning a vocalist who doesn’t sing
 

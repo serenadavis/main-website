@@ -3,12 +3,14 @@ title: "[born: drops, of water, of]"
 slug: "born-drops-of-water-of"
 issue: "Spring"
 year: "2010"
+date: "2010-03-01"
 authors: ['Matt Aucoin']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 born: drops, of water, of
 

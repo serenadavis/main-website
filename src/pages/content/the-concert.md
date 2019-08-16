@@ -3,12 +3,14 @@ title: "The Concert"
 slug: "the-concert"
 issue: "Fall"
 year: "2009"
+date: "2009-09-01"
 authors: ['Matt Aucoin']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

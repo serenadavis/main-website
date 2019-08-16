@@ -3,12 +3,14 @@ title: "From the Google Maps Car"
 slug: "from-the-google-maps-car"
 issue: "Commencement"
 year: "2014"
+date: "2014-06-01"
 authors: ['Miles Hewitt']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 In the end, all maps, self-led by vestigial scent,
 

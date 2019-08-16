@@ -3,12 +3,14 @@ title: "Ciguapa"
 slug: "ciguapa"
 issue: "Winter"
 year: "2018"
+date: "2018-01-01"
 authors: ['Haris A. Durrani']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 “Maybe I will be more explicit about why is it that I am reticent to speak about love. It is because the discourse of love has continued absolutely unbroken through the transformation that interests me. America was conquered in the name of love. Today, people can be bombed in the name of love. So, if everything is love, if religion is love, and if love is everywhere, and, you know, all you need is love—then fine. It’s just that it appears that much more than religion and Church, people have killed each other in the name of love, in a way that is… brutal. And you would think by now it’s time that, rather than rave against the Church—not that there’s nothing to rave against, I am in agreement—why is it that no one is against love? Because it’s about time—no?—that we recognize the damages that love has done. Now please don’t construe me as some kind of pessimistic, solipseric whatever. But I don’t see any reason why it’s more justified today to criticize religion than it is to criticize love… I have people who tell me that they love so much that they will burn me to death. Then I say you have a peculiar way of love, but I’m not going to say, oh, you were lying. No, fine, this is your love. It’s one that burns and kills. You’re strange that way.”
 

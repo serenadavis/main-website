@@ -3,12 +3,14 @@ title: "LAOCOON"
 slug: "laocoon"
 issue: "Spring"
 year: "2019"
+date: "2019-03-01"
 authors: ['Thayer Anderson']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 What I need is a simple algorithm  
 for hearing myself.

@@ -3,12 +3,14 @@ title: "Alba"
 slug: "alba"
 issue: "Fall"
 year: "2010"
+date: "2010-09-01"
 authors: ['Erik Fredericksen']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The cottonwood was snowing
 

@@ -3,12 +3,14 @@ title: "Shadow of a cactus and an orchid on the wall next to Jacqueline"
 slug: "shadow-of-a-cactus-and-an-orchid-on-the-wall-next-to-jacqueline"
 issue: "Winter"
 year: "2017"
+date: "2017-01-01"
 authors: ['Daniela Muhleisen']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
   from above he focuses the lens on the spots under
 

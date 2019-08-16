@@ -3,12 +3,14 @@ title: "Why I Like Solving Puzzles"
 slug: "why-i-like-solving-puzzles"
 issue: "Fall"
 year: "2012"
+date: "2012-09-01"
 authors: ['My Ngoc To']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

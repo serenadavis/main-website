@@ -3,12 +3,14 @@ title: "Ambitions"
 slug: "ambitions"
 issue: "Winter"
 year: "2011"
+date: "2011-01-01"
 authors: ['Laura Kasischke']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Someone smashed last
 

@@ -3,12 +3,14 @@ title: "Broad City's Amorphous Partiality"
 slug: "broad-citys-amorphous-partiality"
 issue: "Spring"
 year: "2015"
+date: "2015-03-01"
 authors: ['Reina Gattuso']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Adrienne Rich was not writing in an age when women could video chat each other while riding their male partners cowgirl-style. But when she wrote about existence as a spectrum of decentralized pleasure—about the hands and the clit and the cunt, about the wrists and the toes rather than the vagina—she might as well have been writing about *Broad City*. 
 

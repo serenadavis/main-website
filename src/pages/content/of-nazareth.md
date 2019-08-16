@@ -3,12 +3,14 @@ title: "Of Nazareth"
 slug: "of-nazareth"
 issue: "Spring"
 year: "2019"
+date: "2019-03-01"
 authors: ['Owen Torrey']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Land lies, not for use of self. Very slowly do
 

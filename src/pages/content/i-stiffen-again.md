@@ -3,12 +3,14 @@ title: "[I stiffen: again]"
 slug: "i-stiffen-again"
 issue: "Spring"
 year: "2011"
+date: "2011-03-01"
 authors: ['Adam Palay']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I stiffen: again a shift,
 

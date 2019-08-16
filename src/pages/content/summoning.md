@@ -3,12 +3,14 @@ title: "Summoning"
 slug: "summoning"
 issue: "Winter"
 year: "2009"
+date: "2009-01-01"
 authors: ['Linda Liu']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 My father’s earliest memory was when he was five years old, looking outside into the darkness at the madwoman who lived a few yards down the dirt road, on the other side of the street. Every night she was there, he said. Every night she would sit outside in front of her house, a faceless silhouette sometimes backlit by the moon, slowly rocking back and forth. Every night for hours she would sit alone in the dark. She was crying out the name of her dead son, trying to call him home. “*Gou Er!*” she howled into the night. Her sorrowful voice rang out in the summer silence of the Chinese countryside. It echoed in the mountains. “*Hui lai!*”
 

@@ -3,12 +3,14 @@ title: "The Drop"
 slug: "the-drop"
 issue: "Spring"
 year: "2012"
+date: "2012-03-01"
 authors: ['My Ngoc To']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

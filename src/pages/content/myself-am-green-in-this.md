@@ -3,12 +3,14 @@ title: "[Myself am green in this:]"
 slug: "myself-am-green-in-this"
 issue: "Spring"
 year: "2010"
+date: "2010-03-01"
 authors: ['Erik Fredericksen']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Myself am green in this:
 

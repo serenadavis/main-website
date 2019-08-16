@@ -3,12 +3,14 @@ title: "Faith Noir: On Graham Greene and the Catholic Novel"
 slug: "faith-noir-on-graham-greene-and-the-catholic-novel"
 issue: "Fall"
 year: "2009"
+date: "2009-09-01"
 authors: ['Jessica Sequeira']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I. OUR MAN IN NOTTINGHAM
 

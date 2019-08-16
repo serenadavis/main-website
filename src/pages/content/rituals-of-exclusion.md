@@ -3,12 +3,14 @@ title: "Rituals of Exclusion"
 slug: "rituals-of-exclusion"
 issue: "Winter"
 year: "2017"
+date: "2017-01-01"
 authors: ['Madison Gonzalez']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
    A spindly peninsula juts off the northern coast of Greece like a bony nger exed in the Aegean. In pictures, it looks otherworldly: lush, lonely, and alpine, azure tides battering against ragged precipices. An edice that resembles a decaying fortress languishes at the edge of a cliff in sad decadence as if threatening to slump into the ocean. It looks like the sort of place you would expect to find the last living dinosaur, huge and decrepit. 
 

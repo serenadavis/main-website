@@ -3,12 +3,14 @@ title: "Origin: Editor's Note"
 slug: "origin-editors-note"
 issue: "Winter"
 year: "2013"
+date: "2013-01-01"
 authors: ['Alexander J.B. Wells']
 section: "news"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 In Werner Herzog’s wild film *Aguirre: The Wrath of God*, which we recently screened upstairs in the Advocate, the main man Aguirre goes mad in pursuit of the fabled city of gold, El Dorado. He co-opts a royal expedition on the Amazon and presses madly on down the river, drunk on pride and the scent of immortality.
 

@@ -3,12 +3,14 @@ title: "Twilight of the Libraries"
 slug: "twilight-of-the-libraries"
 issue: "Commencement"
 year: "2009"
+date: "2009-06-01"
 authors: ['Sanders Bernstein']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 In a famous episode of the television show, *The Twilight Zone*, Henry Bemis, “a bookish little man whose passion is the printed page but who is conspired against by…a world full of tongue-cluckers and the unrelenting hands of the clock,” miraculously survives a nuclear blast. The lone survivor, he despairs until he discovers that the entire book collection of the public library has been saved as well. Finally, the bibliophile can truly pursue his passion, uninterrupted by anything or anyone, with, as he declares “all the time I need, and all the time I want.” However, after arranging all of the books that he intends to read into perfectly ordered stacks, and situating himself on the steps of the library to begin his literary fete, his glasses slip from his nose and shatter on the stone. Within his grasp are all of the books that he could ever want to read, and yet, his access to them has been denied by a cruel quirk of fate. He can feel the texture of the books’ cover but cannot see what is inside of them. He knows they are there, but can never enter them, can never experience the magic of exploring their hidden worlds. With this terrible knowledge written large across his face, the camera zooms out, reducing Henry Bemis to just another heap on the library’s steps. The narrator delivers his inevitable verdict: “Mr. Henry Bemis [is] in the Twilight Zone.”
 

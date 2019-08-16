@@ -3,12 +3,14 @@ title: "Inscription"
 slug: "inscription"
 issue: "Winter"
 year: "2011"
+date: "2011-01-01"
 authors: ['Dan Chiasson']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Things traced by what they trace: the flashlight,
 

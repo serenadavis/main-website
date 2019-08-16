@@ -3,12 +3,14 @@ title: "Political Footnotes"
 slug: "political-footnotes"
 issue: "Fall"
 year: "2010"
+date: "2010-09-01"
 authors: ['Georgia Stasinopoulos']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 **I first heard about consulting in high school. One of my more serious compatriots casually said: “I’d like to be a speechwriter when I’m older. Or a consultant.” He nodded, his chin weighed down with the gravity of the task he imagined himself undertaking—consulting—and I nodded too. No idea what it meant.
 

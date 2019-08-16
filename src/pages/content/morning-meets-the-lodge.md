@@ -3,12 +3,14 @@ title: "Morning Meets the Lodge"
 slug: "morning-meets-the-lodge"
 issue: "Commencement"
 year: "2010"
+date: "2010-06-01"
 authors: ['Abram Kaplan']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Maui is across the finger of sea.  Four birds
 

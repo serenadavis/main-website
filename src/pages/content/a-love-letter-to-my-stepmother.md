@@ -3,12 +3,14 @@ title: "A Love Letter to My Stepmother"
 slug: "a-love-letter-to-my-stepmother"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['Indiana Seresin']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
     When he called from Italy to tell us, he phrased it like this:
 

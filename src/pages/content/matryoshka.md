@@ -3,12 +3,14 @@ title: "Matryoshka"
 slug: "matryoshka"
 issue: "Fall"
 year: "2012"
+date: "2012-09-01"
 authors: ['Ben Sobel']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

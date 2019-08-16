@@ -3,12 +3,14 @@ title: "Cartography and Memory"
 slug: "cartography-and-memory"
 issue: "Winter"
 year: "2009"
+date: "2009-01-01"
 authors: ['Alexander Fabry']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

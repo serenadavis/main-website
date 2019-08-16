@@ -3,12 +3,14 @@ title: "Hamlet: A Love Story"
 slug: "hamlet-a-love-story"
 issue: "Summer"
 year: "2016"
+date: "2016-06-01"
 authors: ['Olivia Munk']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *Hamlet *is not a romance. Nor is it a comedy. Its very structure defies the Shakespearian definition of one; as the deranged Dane cries to a bewildered Ophelia, “We will have no more marriages!” It ends, instead, in many deaths, fulfilling the requirements for a tragedy and leaving only poor Horatio behind to tell the tale of murderous uncles and ghostly requests. 
 

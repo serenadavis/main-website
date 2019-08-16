@@ -3,12 +3,14 @@ title: "Interview with Sheila Heti"
 slug: "interview-with-sheila-heti"
 issue: "Commencement"
 year: "2011"
+date: "2011-06-01"
 authors: ['Madeleine Schwartz']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 In 2007, *The New York Times Magazine *asked a group of young writers for essays about their college experiences. Most of the responses were predictable—addictions to good grades, new horizons abroad, the pleasures and terrors of youth activism. Then there was the piece by Sheila Heti, a Canadian writer who studied playwriting at the National Theatre School of Canada before attending the University of Toronto to study art history and philosophy. 
 

@@ -3,12 +3,14 @@ title: "We Were Very Merry"
 slug: "we-were-very-merry"
 issue: "Summer"
 year: "2016"
+date: "2016-06-01"
 authors: ['Edith Enright']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 To the Modern Reader, Edna St Vincent Millay’s poetry is-- in a word-- unfashionable. Certainly, he may be acquainted with a work or two of hers; likely he has seen a cute rhyme of hers somewhere. Most ubiquitous, perhaps, the “First Fig”:
 

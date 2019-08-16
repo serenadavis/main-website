@@ -3,12 +3,14 @@ title: "Netflix Morality"
 slug: "netflix-morality"
 issue: "Summer"
 year: "2016"
+date: "2016-06-01"
 authors: ['Colton Valentine']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Each day a requiem for zeal arrives in my gmail inbox: *The Harvard Crimson*’s Flyby-blog newsletter.
 

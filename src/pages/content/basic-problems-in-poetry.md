@@ -3,12 +3,14 @@ title: "Basic Problems in Poetry"
 slug: "basic-problems-in-poetry"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['William Fuller']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 While I was not thrilled to be made a scapegoat I knew my 
 

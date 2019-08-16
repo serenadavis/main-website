@@ -3,12 +3,14 @@ title: "Art, Power, and Sex (1986)"
 slug: "art-power-and-sex-1986"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Francine Prose']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 REPRINTED FROM DECEMBER 1986 ISSUE
 

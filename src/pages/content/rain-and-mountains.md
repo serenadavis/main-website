@@ -3,12 +3,14 @@ title: "Rain and Mountains"
 slug: "rain-and-mountains"
 issue: "Winter"
 year: "2011"
+date: "2011-01-01"
 authors: ['Henri Cole']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Sitting on a ledge,
 

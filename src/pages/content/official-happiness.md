@@ -3,12 +3,14 @@ title: "Official Happiness"
 slug: "official-happiness"
 issue: "Summer"
 year: "2015"
+date: "2015-06-01"
 authors: ['Michael M. Weinstein']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The cosmonaut returned to Earth said moonshine
 

@@ -3,12 +3,14 @@ title: "Harajuku Days"
 slug: "harajuku-days"
 issue: "Summer"
 year: "2015"
+date: "2015-06-01"
 authors: ['Faye Yan Zhang']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 At the age of thirteen, I went to my first concert. It was performed at the Qwest Center in Omaha, Nebraska by Gwen Stefani—Gwen, the modern blonde bombshell, fashion maven, and self-declared American ambassador of all things Harajuku. The performance was part of her Sweet Escape Tour. She slid up and down the stage, platinum hair set unwavering on top of her head, accompanied by four dollish Asian women who mouthed lyrics, fluttered hands, swayed their asses to the beat of “Wind It Up.” My then-best friend, who had invited me to the concert, waved her renegade camera in the air (no smartphones yet in 2007). To sneak it past security she’d hidden it in an empty tampon box. Her younger brother, forced upon us by her mother, fell asleep in the row in front of us.
 

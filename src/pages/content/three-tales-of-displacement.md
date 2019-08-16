@@ -3,12 +3,14 @@ title: "Three Tales of Displacement"
 slug: "three-tales-of-displacement"
 issue: "Spring"
 year: "2015"
+date: "2015-03-01"
 authors: ['Bailey Trela']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
    *Man is a god when he dreams and a beggar when he thinks.* –Friedrich Holderlin
 

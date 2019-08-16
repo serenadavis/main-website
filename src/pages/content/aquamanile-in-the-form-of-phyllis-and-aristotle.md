@@ -3,12 +3,14 @@ title: "Aquamanile in the Form of Phyllis and Aristotle"
 slug: "aquamanile-in-the-form-of-phyllis-and-aristotle"
 issue: "Spring"
 year: "2015"
+date: "2015-03-01"
 authors: ['Zo\xc3\xab Hitzig']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
      
 Consider also desired  

@@ -3,12 +3,14 @@ title: "Lost Things"
 slug: "lost-things"
 issue: "Spring"
 year: "2009"
+date: "2009-03-01"
 authors: ['Spencer Strubb']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Shauna left the apartment in her flip-flops and without a sweatshirt. It was Brian’s fault.
 

@@ -3,12 +3,14 @@ title: "Mother Damnable's Turned to Stone"
 slug: "mother-damnables-turned-to-stone"
 issue: "Fall"
 year: "2017"
+date: "2017-09-01"
 authors: ['Breslin Sibley']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The problem with frontiers is nobody can ever remember where the bodies are buried.
 

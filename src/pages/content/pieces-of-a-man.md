@@ -3,12 +3,14 @@ title: "Pieces of a Man"
 slug: "pieces-of-a-man"
 issue: "Winter"
 year: "2013"
+date: "2013-01-01"
 authors: ['Jesse Nee-Vogelman']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
   
 Though Katherine wanted to be a woman, wanted to butterfly out bright and kaleidoscopic onto the streets fully formed, complex and multitudinous, she found herself, upon each insistent inspection of her body, solidly still a girl. She blamed her mother, a girl’s mother, a sad mother, a mother who will remain for the rest of her life postpartum. She blamed her body, a girl’s body, and her clothes, still and girlish in her closet. In the formless dresses and little blouses she saw herself, the small tender swell of her breasts, the smooth slender fall of her hips into her thighs, an unblemished line, a child’s thin lips, a child’s thin arms, the girlish curls that unfurled blonde and bouncing from her forehead, and the odd dark tuft of hair a few inches below her navel, out of place and offering futile promises of nubility. She blamed her love, a girl’s romance planned in passed notes and notebook graffiti hearts, a romance that at fourteen had felt safe, and now, at fifteen, felt safer.  

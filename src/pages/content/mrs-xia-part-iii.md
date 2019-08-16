@@ -3,12 +3,14 @@ title: "Mrs. Xia, Part III"
 slug: "mrs-xia-part-iii"
 issue: "Commencement"
 year: "2012"
+date: "2012-06-01"
 authors: ['Kevin Hong']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The lesson ends when Mrs. Xia writes in the little notebook. She has given one to each of her students. Martin’s is light blue. The pages are crinkly with the impressions of her writing, the black and blue ink, as if someone spilled water on them and let them dry. Martin cranes his neck to see what she is writing on today’s page.
 

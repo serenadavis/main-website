@@ -3,12 +3,14 @@ title: "Ask"
 slug: "ask"
 issue: "Fall"
 year: "2013"
+date: "2013-09-01"
 authors: ['Matt Krane']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I hide in the family woods and  
 wait for it.  

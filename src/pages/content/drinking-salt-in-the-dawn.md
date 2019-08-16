@@ -3,12 +3,14 @@ title: "Drinking Salt in the Dawn"
 slug: "drinking-salt-in-the-dawn"
 issue: "Fall"
 year: "2013"
+date: "2013-09-01"
 authors: ['Moeko Fujii']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
     Someone once told me that the Shibuya Scramble intersection is organized chaos, a piece of Tokyo at its unrehearsed best. In the sidewalks, crowds of black wind and hair wait. The red traffic-light man waits too. Vehicles cross and rush, and still. Green-blue lights flicker on in every crossroad. Then comes pedestrian paradise.
 

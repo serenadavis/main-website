@@ -3,12 +3,14 @@ title: "Leafscape and Lullaby"
 slug: "leafscape-and-lullaby"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['Lara Zysman']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Once the leaves had drained of chlorophyll,
 

@@ -3,12 +3,14 @@ title: "The Letter"
 slug: "the-letter"
 issue: "Commencement"
 year: "2014"
+date: "2014-06-01"
 authors: ['WANJIKU MUNGAI']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I was nine years old when Wairimu, seventeen at the time, left the letter to our parents on the coffee table so that it was the first thing you saw as soon as you had entered the house. It was Easter weekend, so nobody saw it until Saturday morning when we returned from Good Friday overnight prayers at church, by which time Wairimu had filled a bag with her clothes, stolen the money kept in the kitchen for daily purchases and made her escape. 
 

@@ -3,12 +3,14 @@ title: "Out of Myself And To You"
 slug: "out-of-myself-and-to-you"
 issue: "Spring"
 year: "2017"
+date: "2017-03-01"
 authors: ['Grazie Sophia Christie']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I was slain by the spirit when I was only ten years old. This is not a story. This is not hyperbole. This is only the fact of a hand I can see and resee whenever I need to—a nun’s hand, looming softly, rippling towards my face as if on the quietest gust of candlelight. This is the last thing I remember before passing out.
 

@@ -3,12 +3,14 @@ title: "Faustian Facebook"
 slug: "faustian-facebook"
 issue: "Winter"
 year: "2017"
+date: "2017-01-01"
 authors: ['Marty Fitz']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
    Who exactly is responsible for indoctrinating the American people with the “fake news” that has become a fixture America’s Facebook feeds? Since the election to the presidency of President-Electoral Donald Trump, many Big Media pundits have blamed for the outcome (in part) Facebook and its sudden rise this election cycle as a news outlet. As has been often said, Facebook has become a medium for the spread of ‘fake news:’ factually incorrect headlines and stories shared and read across Facebook that are created for solely capitalistic purposes (rather than for any particular isomorphism to the truth). These pundits have been blaming Facebook’s ‘echo chamber’ for the proliferation of false information; however, Facebook is not an echo chamber, it is our slave. These headlines have (somewhat) undermined our democratic system. 
 

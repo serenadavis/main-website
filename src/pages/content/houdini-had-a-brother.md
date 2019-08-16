@@ -3,12 +3,14 @@ title: "Houdini Had a Brother"
 slug: "houdini-had-a-brother"
 issue: "Summer"
 year: "2018"
+date: "2018-06-01"
 authors: ['Caroline de Lacvivier']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Most people know about Houdini. He was the illusionist who locked himself up in a milk can, filled it with water, and advertised that failure meant a drowning death. Few people know about his brother, Theodore Hardeen, who continued to perform the act long after Houdini died of appendicitis, a protracted, unnecessary illness that could have been cured had Houdini not been too proud to seek treatment. I used to wonder if it was an act of love or hate that impelled Hardeen to replace his brother. Now, I know why he did it. He did it because he could not do otherwise. He had lost an un-loseable person.
 

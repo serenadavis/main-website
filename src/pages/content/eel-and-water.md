@@ -3,12 +3,14 @@ title: "Eel and Water"
 slug: "eel-and-water"
 issue: "Winter"
 year: "2010"
+date: "2010-01-01"
 authors: ['Erik Fredericksen']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Eel as   
 if there is a  

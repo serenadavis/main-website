@@ -3,12 +3,14 @@ title: "return"
 slug: "return"
 issue: "Winter"
 year: "2018"
+date: "2018-01-01"
 authors: ['Beth Bachmann']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
     
 

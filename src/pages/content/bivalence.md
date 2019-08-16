@@ -3,12 +3,14 @@ title: "Bivalence"
 slug: "bivalence"
 issue: "Fall"
 year: "2009"
+date: "2009-09-01"
 authors: ['Adam Palay']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Far back before the sun  
 made any sort of difference,  

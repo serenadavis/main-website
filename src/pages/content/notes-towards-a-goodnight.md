@@ -3,12 +3,14 @@ title: "Notes Towards a Goodnight"
 slug: "notes-towards-a-goodnight"
 issue: "Winter"
 year: "2017"
+date: "2017-01-01"
 authors: ['Tyler Richard']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
   Night yawns its dark
 

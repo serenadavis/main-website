@@ -3,12 +3,14 @@ title: "Addiction Takes a Postmodern Spin"
 slug: "addiction-takes-a-postmodern-spin"
 issue: "Summer"
 year: "2015"
+date: "2015-06-01"
 authors: ['Colton Valentine']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
    *Twenty-thirteen was the year I got super into SoulCycle. It’s gross but I don’t care because I need it and I love it (ha ha so gross). Actually, wait, that’s completely misleading because I only got into it two months ago. Whatever, it’s the best. *
 

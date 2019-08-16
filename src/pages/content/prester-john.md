@@ -3,12 +3,14 @@ title: "Prester John"
 slug: "prester-john"
 issue: "Fall"
 year: "2014"
+date: "2014-09-01"
 authors: ['Brad Bolman']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 He’s got utilization behavior problems, see, and so it’s no surprise to me that Garney is gonna fondle some sweet girl eventually. He’s done it before, even, so it’s not unexpected and far as I know there’s no resolving a mental situation like his, so sometimes he’s gonna automatically fix a spoke with tools no stopping and sometimes he’s gonna fondle a set of breasts and the fallout of the latter situation is where I come in with the mediation business. The former just ends up with useful hands, a fixed spoke and no need for mediation, so seems clear which of them I’d prefer. As they vow.
 

@@ -3,12 +3,14 @@ title: "An Interview With Etienne Balibar"
 slug: "an-interview-with-etienne-balibar"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['Harvard Advocate Staff']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
      
 Étienne Balibar is a French philosopher. As a student of Louis Althusser, he coauthored the influential *Reading Capital*. His extensive writings have analyzed the nation-state, race, citizenship, identity and, most recently, the problem of political violence. Balibar is a visiting Professor at Columbia University’s Institute for Comparative Literature and Society. *The Harvard Advocate*’s Art Editor, Brad Bolman, sat down with Balibar on the occasion of his lecture, “Violence, Civility, and Politics Revisited,” at Harvard’s Mahindra Humanities Center on November 5, 2014.  

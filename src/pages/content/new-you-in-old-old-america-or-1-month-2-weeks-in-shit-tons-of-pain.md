@@ -3,12 +3,14 @@ title: "New You in Old, Old America (or 1 Month & 2 Weeks in Shit Tons of Pain)"
 slug: "new-you-in-old-old-america-or-1-month-2-weeks-in-shit-tons-of-pain"
 issue: "Fall"
 year: "2016"
+date: "2016-09-01"
 authors: ['Owen Ojo']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 You are new to Georgetown when you arrive the first week of June. All you see are rainbows—flags of them, banners, geotags, advertisements, merchandise. Restaurants and clothing stores covered in streamers fluttering heavily in the thick humid air. It’s kind of South, you think, but Georgetown is so beautiful. Your mother had said, “Don’t walk alone here, people will wonder what you’re doing in this place.” She has already trained you to make a habit out of being very good. She thought it would protect your body from all the people who wanted to break it. But here in Georgetown, flags waving, colors streaming, you explore sidewalks in the daytime, awe-filled and fearless.
 

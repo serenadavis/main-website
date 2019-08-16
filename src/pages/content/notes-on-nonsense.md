@@ -3,12 +3,14 @@ title: "Notes on Nonsense"
 slug: "notes-on-nonsense"
 issue: "Fall"
 year: "2014"
+date: "2014-09-01"
 authors: ['Indiana Seresin']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The only language men ever speak perfectly is the one they learn in babyhood, when no one can teach them anything.
 

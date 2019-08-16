@@ -3,12 +3,14 @@ title: "Pop Adolescent: A Personal History, With Lawnmowers"
 slug: "pop-adolescent-a-personal-history-with-lawnmowers"
 issue: "Winter"
 year: "2009"
+date: "2009-01-01"
 authors: ['Richard Beck']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 It wasn’t until about the fourth time that I drove back from New England to the Philadelphia suburb where I grew up that I began to notice the thickening light. It’s a subtle phenomenon. The visual recalibration doesn’t really kick in for sure until I’m past New York City, driving down the New Jersey Turnpike, and watching pine trees rush by on either side of the car. In Boston, the sunlight is pure and thin, and in the late afternoons it comes slanting in at a low wintry angle and turns white steeples the color of cantaloupe flesh. Mid-Atlantic sunlight is more substantial stuff––yellower, too––and it’s rich with dust or pollen or rain vapor. I like each kind at different times. If I’ve been home for more than a few weeks I get anxious to leave, and the splashes of northern light that set the Maples ablaze every fall are refreshing to the point of disorientation or even joy. But the light holds more in Wallingford––more heat, more water, but also some twenty years of layered familiarities, all of which fan out and crowd in every time I drive back. Home is uncomfortable, but it’s my everyday jacket.
 

@@ -3,12 +3,14 @@ title: "Spinifex Fire"
 slug: "spinifex-fire"
 issue: "Commencement"
 year: "2009"
+date: "2009-06-01"
 authors: ['Margaret Ross']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 mosaic burning  
 We burn the rings. We burn the hummocks threaded up  

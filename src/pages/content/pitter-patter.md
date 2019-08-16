@@ -3,12 +3,14 @@ title: "Pitter Patter"
 slug: "pitter-patter"
 issue: "Summer"
 year: "2017"
+date: "2017-06-01"
 authors: ['Adrienne Celt']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The vacation was Charles’s idea, insisted upon despite – or more accurately because of – the fact that I was still waiting for my diagnosis. He’d always been quietly of the opinion that my illness was all in my head. Not that he said so, but the thought slipped in between us. In bed when he ran his fngers down my back and told me that my skin was beautiful, my skin was so perfect. When he handed me a cup of tea, along with a small dish of ice cubes to cool the water, and asked not how I was, but how I felt. It sat in that small sea of wrinkles between his eyebrows, giving him what looked, to all the world but me, like an expression of genuine concern.
 

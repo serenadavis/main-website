@@ -3,12 +3,14 @@ title: "Bitumen"
 slug: "bitumen"
 issue: "Fall"
 year: "2017"
+date: "2017-09-01"
 authors: ['Bronte Lim']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 StartFragment
 

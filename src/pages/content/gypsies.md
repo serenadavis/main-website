@@ -3,12 +3,14 @@ title: "Gypsies"
 slug: "gypsies"
 issue: "Winter"
 year: "2011"
+date: "2011-01-01"
 authors: ['Mark Chiusano']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 People used to call my Pops a geep when he got old, which was, in a way, accurate. He used to wear the black socks all around the house. I don’t know where the term comes from: something with guinea, maybe the G-P of grandpa. I used to tell him when he just had the ripped white tee on, Pops, get the hell back in the house before someone respectable sees you. Anyway, it’s something I’ve been thinking about now that I’m around that age. My wife Lola tells me karma’s bitchy. My back isn’t too good. Sometimes I dribble in my pants after I pee. But I’ll tell you one thing, I’m always wearing white socks when people are watching.
 

@@ -3,12 +3,14 @@ title: "Made of Vice"
 slug: "made-of-vice"
 issue: "Spring"
 year: "2009"
+date: "2009-03-01"
 authors: ['Mark Chiusano']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 In 1639 an Englishman known to history only as R. Willis writes an account of a morality play that he saw seventy years before.  At this time morality plays are widely popular and simply constructed, portraying not flesh and blood characters but Characteristics: Willis and his contemporaries watch spellbound as Mankind, World and Youth wander a stage hindered by Vice, All-For-Money, Riot.  This is Christian country—it is clear who wins in the end.  But for a short time the audience is allowed to cast off its strict morals.  Riot is funny, Vice is captivating.  They drag their innocent charges into taverns for drink, brothels for pleasure.  The attraction of evil and its comic buffoonery is exploited, allowed*.*
 

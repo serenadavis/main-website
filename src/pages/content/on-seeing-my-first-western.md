@@ -3,12 +3,14 @@ title: "On Seeing My First Western"
 slug: "on-seeing-my-first-western"
 issue: "Winter"
 year: "2009"
+date: "2009-01-01"
 authors: ['Daniel Wenger']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 **1 / Meeting Burt**  
   

@@ -3,12 +3,14 @@ title: "El Rio Magdalena"
 slug: "el-rio-magdalena"
 issue: "Summer"
 year: "2017"
+date: "2017-06-01"
 authors: ['Luisa Brando']
 section: "art"
 audio: []
 main_image: ""
 banner_image: ""
 images: ['sites/default/files/BrandoMagdalene.jpg']
+videos: []
 ---
 24"x10"
 

@@ -3,12 +3,14 @@ title: "All the World is Full of In"
 slug: "all-the-world-is-full-of-in"
 issue: "Summer"
 year: "2018"
+date: "2018-06-01"
 authors: ['Sam Reiss']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
     
 

@@ -3,12 +3,14 @@ title: "Pig Roast"
 slug: "pig-roast"
 issue: "Summer"
 year: "2017"
+date: "2017-06-01"
 authors: ['Mika Seifert']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  Under a waning moon, the climber climbed. We sat in the shadows, not twenty feet away, holding our breath. All things considered, a very fitting image, we thought: here was this perverted creature, putting left foot right foot left foot right foot on that porous rock, on which the Lord is my witness he did not slip once. The dull moonlight turned the image positively grisly, and we hoped that it was not only the half light of the day we were witnessing, but God willing also the last half hour or so in the life of this cursed being.
 

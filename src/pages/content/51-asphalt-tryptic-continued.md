@@ -3,10 +3,12 @@ title: "51 (asphalt tryptic), continued"
 slug: "51-asphalt-tryptic-continued"
 issue: "Commencement"
 year: "2012"
+date: "2012-06-01"
 authors: ['Scott Roben']
 section: "art"
 audio: []
 main_image: ""
 banner_image: ""
 images: ['sites/default/files/scott 3 resize.jpg']
+videos: []
 ---

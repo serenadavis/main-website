@@ -3,12 +3,14 @@ title: "With Chinese Characteristics"
 slug: "with-chinese-characteristics"
 issue: "Commencement"
 year: "2011"
+date: "2011-06-01"
 authors: ['Julian Gewirtz']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 In the fall of 2010, Fudan University in Shanghai announced that its Chinese department was about to revitalize the country’s literature. Creative writing was getting “a new face.” But rather than announcing a new faculty member or the winner of a literary prize, Fudan was planning the establishment of mainland China’s first MFA program in creative writing.
 

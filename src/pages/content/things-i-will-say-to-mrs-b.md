@@ -3,12 +3,14 @@ title: "Things I Will Say to Mrs. B."
 slug: "things-i-will-say-to-mrs-b"
 issue: "Spring"
 year: "2013"
+date: "2013-03-01"
 authors: ['Alexander Wells']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 When we finally get home and my mom unlocks the car, I leg it up the stairs to my dad’s room and tell him, “Dad, I’ve been losing so much weight these last weeks, maybe soon I’m not gonna be the fat kid any more.”  
 My dad looks up from his bed, and he smiles like he usually does. Like he wants to grin like a mad dog but he’s too tired to try, even.  

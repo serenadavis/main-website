@@ -3,12 +3,14 @@ title: "Justice"
 slug: "justice"
 issue: "Winter"
 year: "2017"
+date: "2017-01-01"
 authors: ['Mark Slouka']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
             In May, 1968, the Russian tanks hadn’t rolled into Prague, my mother hadn’t gone crazy yet, and out on Rt. 22, just down from the dairy farm that’s now a Carpet Warehouse, Sam’s Bait and Tackle held a fishing contest.
 

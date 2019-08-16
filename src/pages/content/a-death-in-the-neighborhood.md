@@ -3,12 +3,14 @@ title: "A Death in the Neighborhood"
 slug: "a-death-in-the-neighborhood"
 issue: "Spring"
 year: "2017"
+date: "2017-03-01"
 authors: ['Natasha Lasky']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

@@ -3,12 +3,14 @@ title: "Parents"
 slug: "parents"
 issue: "Spring"
 year: "2008"
+date: "2008-03-01"
 authors: ['Maria P. Vassileva']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 They tell the phone not to worry,
 

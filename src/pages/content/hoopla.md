@@ -3,12 +3,14 @@ title: "Hoopla"
 slug: "hoopla"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Lily Scherlis']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I was out of shape when I showed up. I had kind of thought I was done. I had already made it through the hoop that counted, the admissions hoop. I had stuck my landing; now I could relax. They don’t tell you when they accept you that hoop-jumping is the official sport of the College. Especially at the beginning, I had this sense that I was in fact a hoop-jumping recruit, a scholarship kid. I had to keep jumping to earn my spot here. I would later talk about the sport in terms of the fix: that dopamine rush as your toes have cleared and you realize *you’re through*.  In those first monthswe were all obsessed with recreating the experience of that first successful jump.
 

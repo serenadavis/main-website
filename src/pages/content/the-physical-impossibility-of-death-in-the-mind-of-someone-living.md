@@ -3,12 +3,14 @@ title: "The Physical Impossibility of Death in the Mind of Someone Living"
 slug: "the-physical-impossibility-of-death-in-the-mind-of-someone-living"
 issue: "Fall"
 year: "2017"
+date: "2017-09-01"
 authors: ['Byung Joon Lee']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *I’m playing a game with myself where I try to take the biggest steps that I can without collapsing onto my side like an aging racehorse. It suddenly occurs to me that he has been following me for some time. Perhaps, in my five-beer state, I am more interesting to the average bystander than I’d like to think. *
 

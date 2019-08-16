@@ -3,12 +3,14 @@ title: "Mirror, Mirror"
 slug: "mirror-mirror"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Faye Yan Zhang']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Upon a time,
 

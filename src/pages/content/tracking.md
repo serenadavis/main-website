@@ -3,12 +3,14 @@ title: "Tracking"
 slug: "tracking"
 issue: "Spring"
 year: "2009"
+date: "2009-03-01"
 authors: ['Liza Flum']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Crocus, dark   
 bulb starting a slim leaf,   

@@ -3,12 +3,14 @@ title: "The Inheritance"
 slug: "the-inheritance"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['Moeko Fujii']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
      I found out I was a man when I was nine years old.
 

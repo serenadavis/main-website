@@ -3,12 +3,14 @@ title: "Syllogistic"
 slug: "syllogistic"
 issue: "Commencement"
 year: "2014"
+date: "2014-06-01"
 authors: ['Daniel Schwartz']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I.
 

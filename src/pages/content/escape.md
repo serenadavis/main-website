@@ -3,12 +3,14 @@ title: "Escape"
 slug: "escape"
 issue: "Fall"
 year: "2013"
+date: "2013-09-01"
 authors: ['Daniel Schwartz']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 **Escape** 
 

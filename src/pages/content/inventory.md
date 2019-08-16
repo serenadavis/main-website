@@ -3,12 +3,14 @@ title: "Inventory"
 slug: "inventory"
 issue: "Winter"
 year: "2014"
+date: "2014-01-01"
 authors: ['Elliot Holt']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 1.The bikini I wore in Capri, the one you said made me look like a starlet. After one last swim, I rinsed it out, promised myself to retrieve it from the bathroom after I finished packing. But it was only when we were on the mainland that I remembered, already on our way to the airport. *I’m sure the hotel can send it*, you said. It was a five-star hotel, the most beautiful place either of us had ever stayed, with the sort of view you expect on a honeymoon. You were still married then—separated, but still married—and our affair had already lost its sheen. *You look like **a Hollywood starlet*, you said, watching me climb out of the pool. You wouldn’t swim with me and so I lapped in the water alone. And then, dripping, grateful to be noticed for a moment—because you had stopped noticing by then—I stood still, in that inky blue bikini, brand new, purchased before we left New York. *You look like a Hollywood starlet*, you said, but you were looking past me as if I were already a memory, a picture to be filed away. In the business class lounge in Rome, waiting for our flight back to New York, I emailed the hotel to ask about the bikini, and they said it was gone. No sign of it, they said, with deep regret.
 

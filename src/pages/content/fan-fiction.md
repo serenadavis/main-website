@@ -3,12 +3,14 @@ title: "Fan Fiction"
 slug: "fan-fiction"
 issue: "Fall"
 year: "2018"
+date: "2018-09-01"
 authors: ['Sam Gorenstein']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Talia’s in her booth at the con, bugging the bunny phone, but her father doesn’t pick up. She cradles her own phone close to her cheekbones, sweating on the metal in one hand and using the other to click refresh on the taskbar on the browser on her laptop. He’s on a list, she wants to tell him. He’s on one of those copypasta lists goose-steppers grow on Stormfront and /POL/ until the thorny burs are ready to fruit and spread to the undersides of YouTube videos and Facebook groups. The laptop fan whines inside the plastic casing as Talia tries to balance the machine on her jeans. She’s sure the screen is going to fritz out from the heat if she doesn’t first.              
 

@@ -3,12 +3,14 @@ title: "The Moon"
 slug: "the-moon"
 issue: "Commencement"
 year: "2013"
+date: "2013-06-01"
 authors: ['Katherine Damm']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
     Giacomo applies a pen to the paper napkin, sketching a circle and tearing the tissue at the ends of his marks.  
     “And like this?”  

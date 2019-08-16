@@ -3,12 +3,14 @@ title: "A Literary Mania (1920)"
 slug: "a-literary-mania-1920"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Stoddard B. Colby']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 REPRINTED FROM 1921 ISSUE
 

@@ -3,12 +3,14 @@ title: "Absolute Event"
 slug: "absolute-event"
 issue: "Winter"
 year: "2014"
+date: "2014-01-01"
 authors: ['Liz Magic Laser']
 section: "art"
 audio: []
 main_image: ""
 banner_image: ""
 images: ['sites/default/files/2014_1_06 Masterfile_Advocate_TRIAL.P033.png']
+videos: []
 ---
 (In order of appearance from top to bottom)
 

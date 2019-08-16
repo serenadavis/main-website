@@ -3,12 +3,14 @@ title: "Monocult"
 slug: "monocult"
 issue: "Fall"
 year: "2015"
+date: "2015-09-01"
 authors: ['Lily Scherlis']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Nebraska is a sea of land–flat and stretching in all directions like a Monsanto ocean. At dusk, hot orange radiates a full 180 degrees along the horizon. We are here to work, to raise this season’s crop of art, which will be fully organic, insufficiently subsidized, and only half-ripe when they cart it off to market.
 

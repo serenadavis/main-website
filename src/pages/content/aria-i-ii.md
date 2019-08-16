@@ -3,12 +3,14 @@ title: "Aria (I & II)"
 slug: "aria-i-ii"
 issue: "Spring"
 year: "2011"
+date: "2011-03-01"
 authors: ['David Wallace']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 **Aria (I)**
 

@@ -3,12 +3,14 @@ title: "[God is a set]"
 slug: "god-is-a-set"
 issue: "Fall"
 year: "2016"
+date: "2016-09-01"
 authors: ['N.F.']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
     *God is a set*
 

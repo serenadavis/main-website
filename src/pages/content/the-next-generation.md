@@ -3,12 +3,14 @@ title: "The Next Generation"
 slug: "the-next-generation"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['Robbie Burr Eginton']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 In the United Federation of Planets 
 

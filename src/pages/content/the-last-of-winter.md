@@ -3,12 +3,14 @@ title: "The last of winter"
 slug: "the-last-of-winter"
 issue: "Spring"
 year: "2012"
+date: "2012-03-01"
 authors: ['Stephanie Newman']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Sometimes, to avoid sadness, I ask 
 

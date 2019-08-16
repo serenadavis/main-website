@@ -3,12 +3,14 @@ title: "Sap II"
 slug: "sap-ii"
 issue: "Spring"
 year: "2015"
+date: "2015-03-01"
 authors: ['Anna Koeferl']
 section: "art"
 audio: []
 main_image: ""
 banner_image: ""
 images: ['sites/default/files/SapIIKoeferl.png']
+videos: []
 ---
   
 Ink on paper  

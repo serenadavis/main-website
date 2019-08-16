@@ -3,12 +3,14 @@ title: "Portraits of Mao"
 slug: "portraits-of-mao"
 issue: "Fall"
 year: "2014"
+date: "2014-09-01"
 authors: ['Faye Yan Zhang']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *Cryogenic*
 

@@ -3,12 +3,14 @@ title: "The meetings with the man on the toilet will end Thursday "
 slug: "the-meetings-with-the-man-on-the-toilet-will-end-thursday"
 issue: "Summer"
 year: "2016"
+date: "2016-06-01"
 authors: ['Daniela Muhleisen']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 It is the right of the student to leave his shoes 
 

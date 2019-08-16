@@ -3,12 +3,14 @@ title: "Epidemic"
 slug: "epidemic"
 issue: "Fall"
 year: "2017"
+date: "2017-09-01"
 authors: ['Jorge Olivera Castillo, trans. by Javi Arango']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 His cough kept him on the edge of a convulsion. It started with a sneeze and soon he was deep in a whirlwind of shudders, and he lost control of his body’s abrupt movements.
 

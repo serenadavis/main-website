@@ -3,12 +3,14 @@ title: "Slinging Mud"
 slug: "slinging-mud"
 issue: "Spring"
 year: "2017"
+date: "2017-03-01"
 authors: ['Tarpley Hitt']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *The ball shall be a sphere formed by yarn wound around a small core of cork, rubber or similar material, covered with two strips of white horsehide or cowhide, tightly stitched together. It shall weigh not less than five nor more than 51⁄4 ounces avoirdupois and measure not less than nine nor more than 91⁄4 inches in circumference. *
 

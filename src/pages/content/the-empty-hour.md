@@ -3,12 +3,14 @@ title: "The Empty Hour"
 slug: "the-empty-hour"
 issue: "Fall"
 year: "2018"
+date: "2018-09-01"
 authors: ['Sonya Larson']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The empty hour—the glorious hour—was six-oh-five to seven-oh-nine. Foon would sink into the velvet wingback, his stiff suit removed and blown open on the floor, as he raised his damp feet to air out atop the coffee table. Faint whiffs of Windex cooled the hairs inside his nose, from where the housecleaner had clarified the glass. He called Mah. He  parked his car. Outside the garage door was sealed and—like Foon—finished for the night. Nothing more was required of him.
 

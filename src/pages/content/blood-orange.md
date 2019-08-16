@@ -3,12 +3,14 @@ title: "Blood Orange"
 slug: "blood-orange"
 issue: "Fall"
 year: "2010"
+date: "2010-09-01"
 authors: ['Julian Gewirtz']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 He went into the names and found the forms.
 

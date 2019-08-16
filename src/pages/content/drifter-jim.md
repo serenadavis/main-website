@@ -3,12 +3,14 @@ title: "Drifter Jim"
 slug: "drifter-jim"
 issue: "Commencement"
 year: "2010"
+date: "2010-06-01"
 authors: ['David Rice']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The scene at the airport had fallen short of elegance, but it hadn’t lasted long. He didn’t come in with her because there was nowhere to leave the car; he double-parked near her airline and they got out, and he took her suitcase and her duffel bag out of the trunk, and then they climbed up the curb and stood near the big check-in hall windows where they each had a cigarette.
 

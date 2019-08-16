@@ -3,12 +3,14 @@ title: "Miscellaneous Poem"
 slug: "miscellaneous-poem"
 issue: "Summer"
 year: "2018"
+date: "2018-06-01"
 authors: ['Edith Enright']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Miscellaneous Poem1  
 *After Wang Wei and Sarah Howe*

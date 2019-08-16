@@ -3,12 +3,14 @@ title: "Interview with Mark Chiusano"
 slug: "interview-with-mark-chiusano"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Emma Adler']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *Mark Chiusano is a Features Board alumnus who, during his time on The Advocate, published six feature articles in the magazine, as well as six short stories. Following Chiusano’s graduation from Harvard in 2012, his creative thesis, the short story collection Marine Park,was published by Penguin and received an honorable mention for the PEN/Hemingway Award. Mark is currently an editorial writer for Newsday and amNew York (you can read his column at [www.amny.com/amexpress](http://www.amny.com/amexpress))and is at work on his second book. *
 

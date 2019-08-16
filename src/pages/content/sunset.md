@@ -3,12 +3,14 @@ title: "Sunset"
 slug: "sunset"
 issue: "Fall"
 year: "2015"
+date: "2015-09-01"
 authors: ['Alyssa Moore']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
                               Should it still be so
 

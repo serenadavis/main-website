@@ -3,12 +3,14 @@ title: "Taxonomy"
 slug: "taxonomy"
 issue: "Spring"
 year: "2012"
+date: "2012-03-01"
 authors: ['Naomi Funabashi']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
       I want to preface this by saying that scorpions have never really killed anyone. At least, not in Arizona. Not since the forties. And even then, there were probably other complications. I mean, I don’t know the specifics. I don’t even know if it was a man or a woman. But it’s easy to imagine. Sick, dehydrated. Probably got stung while out hiking. Inexperienced traveler, and all that. The kind that thinks you can climb South Mountain, no sweat, with no training and a small bottle of water. My dad used to call them “hippie climbers,” the ones who say your body is the source of all energy and a man can climb Olympus as soon as a tree in his own backyard.  
       My sister latches on to this last reference. “Exactly,” she says. “Hippie climbers. How do you know we’re not turning into hippie climbers?”  

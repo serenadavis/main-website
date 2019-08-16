@@ -3,12 +3,14 @@ title: "Will Not Come Back "
 slug: "will-not-come-back"
 issue: "Commencement"
 year: "2012"
+date: "2012-06-01"
 authors: ['Julian Gewirtz']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The jet-drone of the river
 

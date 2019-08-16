@@ -3,12 +3,14 @@ title: "[On wet grass]"
 slug: "on-wet-grass"
 issue: "Spring"
 year: "2013"
+date: "2013-03-01"
 authors: ['Stephanie Newman']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *On wet grass *
 

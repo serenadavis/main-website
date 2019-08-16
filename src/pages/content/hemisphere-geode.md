@@ -3,12 +3,14 @@ title: "Hemisphere (Geode)"
 slug: "hemisphere-geode"
 issue: "Spring"
 year: "2018"
+date: "2018-03-01"
 authors: ['Ariana Chaivaranon']
 section: "art"
 audio: []
 main_image: ""
 banner_image: ""
 images: ['sites/default/files/Hemispheregeode.jpg']
+videos: []
 ---
 Each 11.5” diameter
 

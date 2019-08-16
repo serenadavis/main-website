@@ -3,12 +3,14 @@ title: "Oblation"
 slug: "oblation"
 issue: "Fall"
 year: "2018"
+date: "2018-09-01"
 authors: ['Sophia Mautz']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 It’s hot in the middle of the storm. It’s humid  
 gray. Makes the dust bloat. I can hardly breathe in  

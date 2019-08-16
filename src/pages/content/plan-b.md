@@ -3,12 +3,14 @@ title: "Plan B"
 slug: "plan-b"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Neil Strauss']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I may or may not have flown to Toronto, Canada on July 18.
 

@@ -3,12 +3,14 @@ title: "At Home With Peter Bradley"
 slug: "at-home-with-peter-bradley"
 issue: "Spring"
 year: "2019"
+date: "2019-03-01"
 authors: ['Malaika Tapper']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Peter Bradley was one of two children formally adopted by a woman named Edith Ramsay Strange: he survives; the girl is dead. Edith Ramsay Strange took in 62 other foster children but she did not adopt any of them. Edith brought Peter to her home when he was three days old; Peter did not know from where. He did not know why he was adopted and the others were not but he did know that being adopted meant that he could paint. Peter had pocket money, his own room at the top of the house, and tailor-made clothing. None of the other children had these things and Peter could feel that his mother bestowed these privileges on him not because she favored him over the others, but as a shield against the taunts that would surely come from the children who Edith Ramsay Strange had not chosen to adopt. 
 

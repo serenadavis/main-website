@@ -3,12 +3,14 @@ title: "Antebellum Fauxstalgia"
 slug: "antebellum-fauxstalgia"
 issue: "Summer"
 year: "2015"
+date: "2015-06-01"
 authors: ['Julian Lucas']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Somewhere downriver in the nation’s conscience, magnolias are in bloom. Slavery is having a moment in American culture. It has made its presence felt across the arts, from plays such as Branden Jacobs-Jenkins' *An Octoroon* or Suzan-Lori Parks’s *Father Comes Home From the Wars*, to art installations like Kara Walker’s *Marvelous Sugar Baby*, an homage to the “unpaid and overworked Artisans” of plantations past. James McBride’s *The Good Lord Bird*, a picaresque retelling of the abolitionist John Brown’s raid on Harper’s Ferry, won last year’s National Book Award for Fiction—the same year that *12 Years a Slave* won the Academy Award for Best Picture, and just two years after the release of Quentin Tarantino’s *Django Unchained*. Louis C.K. has done slavery stand up, while in one recent sketch, Key and Peele went so far as to put themselves on the auction block. Slavery has even insinuated itself into video games, with the recent release of two new versions of *Assassin’s Creed* that make it a central subject. A century and a half after abolition, slavery has become—of all things—popular.
 

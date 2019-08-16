@@ -3,12 +3,14 @@ title: "American Dream"
 slug: "american-dream"
 issue: "Fall"
 year: "2016"
+date: "2016-09-01"
 authors: ['Faye Yan Zhang']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
    The past days I have spent falling into the blue vortex. What’s really scary about the internet is that it goes on forever. Websites— urls, bookmarks, forums—are only a method of organization, like chapters in a book or the Dewey decimal system. Scrolls disseminated human knowledge before books were able to organize them more efficiently. The Bible was a series of scrolls, lore and prayers merely, before some monks stitched it all together. If the entire collection of Widener Library was a scroll, I wouldn’t be surprised if it reached the moon. If the internet were a scroll, it would be an infinite expanse. I’ve been consuming news at a faster rate than I have ever before. I can’t stop clicking down my Facebook feed, I’ve started reading Twitter. I can’t sleep, and my wrists frequently itch. I see a conspiracy theory behind every virtual door. 
 

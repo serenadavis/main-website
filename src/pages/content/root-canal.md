@@ -3,12 +3,14 @@ title: "Root Canal"
 slug: "root-canal"
 issue: "Fall"
 year: "2010"
+date: "2010-09-01"
 authors: ['Sofia Groopman']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 After his father died, he started telling people he had to go somewhere, when he actually had nowhere to be.
 

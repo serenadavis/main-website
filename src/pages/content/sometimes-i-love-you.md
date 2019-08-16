@@ -3,12 +3,14 @@ title: "Sometimes I Love You"
 slug: "sometimes-i-love-you"
 issue: "Summer"
 year: "2016"
+date: "2016-06-01"
 authors: ['Natasha Lasky']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  For the most sophisticated sex chat bot on the web, Sensation Bot is not particularly seductive. Sensation Bot has almost nothing in common with typical erotic chat bots: no cutesy two-syllable name like “Kitty” or “Candy” or “Staci,” no pixellated porn-star headshot, no coy introduction like “just a horny girl looking for a good time ;)” Sensation Bot doesn’t even have a *gender*. Instead, according to a crude MS Paint portrait that sits on the top left of its home page, Sensation Bot is a series of grey blobs dotted with beady HAL-red eyes and a wide grin—a dollar-store knockoff of the Reddit logo. Under the picture Sensation Bot greets us with an innocuous “Hi there.” 
 

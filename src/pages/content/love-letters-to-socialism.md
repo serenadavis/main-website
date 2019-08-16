@@ -3,12 +3,14 @@ title: "Love Letters to Socialism?"
 slug: "love-letters-to-socialism"
 issue: "Spring"
 year: "2010"
+date: "2010-03-01"
 authors: ['Sophie Duvernoy']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The sidewalks of Rosenthaler Strasse are rainswept and empty. It's a particularly dreary day—the kind that leaves you despairing about life in any European capital, when a curtain of misty drizzle falls over the city and the streets are Sunday-bare. Neoclassical houses nestled side by side are reduced to shuttered displays, grey lattices over the glossy storefronts. Suddenly, a lone open store appears, a low-ceilinged cavernous affair in a 1960s concrete bunker building. Its orange display glows, crammed with pilot helmets made of cheap pleather, sequined belly-dancer costumes, and orange candles in the shape of the Berlin TV Tower. In the corner, Technicolor rooster-shaped egg-holders jostle each other next to plastic radios and floral dinnerware jumbled together in a colorful smorgasbord of retro kitsch. Iconography spills over countertops—hammer and sickle badges, *Sandmännchen* and Pittiplatsch* *themed kitchenware, once prized by East German children as they wolfed down dinner above their animated bedtime heroes. Each item in this store is just a bit out of the ordinary: the objects more folkloric in their brightness, the plastic more brittle around its edges, the pleather unabashedly declaring itself the best—and the only—luxury material of the time.
 

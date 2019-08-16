@@ -3,12 +3,14 @@ title: "Bread"
 slug: "bread"
 issue: "Commencement"
 year: "2010"
+date: "2010-06-01"
 authors: ['Molly Dektar']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 It was the first day of April when I took from a man of about my age (though, I noted, not as hot as my boyfriend at the time) the light burden of his left eye. It was an accident, or at least as much of an accident as it could have been.
 

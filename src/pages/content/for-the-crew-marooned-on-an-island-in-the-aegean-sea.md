@@ -3,12 +3,14 @@ title: "For The Crew Marooned On an Island in the Aegean Sea"
 slug: "for-the-crew-marooned-on-an-island-in-the-aegean-sea"
 issue: "Winter"
 year: "2014"
+date: "2014-01-01"
 authors: ['Matt Krane']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 At the chunk of rock  
                They moor their ship their only memory  

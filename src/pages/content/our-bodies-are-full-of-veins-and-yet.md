@@ -3,12 +3,14 @@ title: "[Our bodies are full of veins and yet]"
 slug: "our-bodies-are-full-of-veins-and-yet"
 issue: "Spring"
 year: "2009"
+date: "2009-03-01"
 authors: ['Sharon Wang']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Our bodies are full of veins and yet   
 we do not ever notice. The trees that came   

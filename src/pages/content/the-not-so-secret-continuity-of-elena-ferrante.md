@@ -3,12 +3,14 @@ title: "The not-so-secret continuity of Elena Ferrante "
 slug: "the-not-so-secret-continuity-of-elena-ferrante"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Yen Pham']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Among the theories that abound as to the authorship of Elena Ferrante is the suggestion that she is, in fact, a collective of writers. As with all matters surrounding the continually posed question of why she remains anonymous, Ferrante has an arsenal of analogies for such occasions. But we accept that Elsa Morante wrote both *House of Liars* and *Aracoeli*, she observed in the *Corriere della Sera*; Joyce, *Dubliners*, *Ulysses* and *Finnegans Wake*, in the *Paris Review*. We happily interpolate a career’s coherence where we are given someone to pin it to; in its absence, we flounder. Mercifully, the best recent criticism has been more attentive in conceiving of a kinship between Ferrante’s works that shouldn’t be difficult to see. In fact, Ferrante intimated a kind of unifying vision behind her early works over a decade ago in “La frantumaglia,” the last chapter in her non-fiction book of the same name (forthcoming in English this year). Reading those words now, with the Neapolitan quadrilogy behind us, offers another way to conceive of Ferrante’s evolution over time—lends it the appearance, even, of inevitability.
 

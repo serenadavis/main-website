@@ -3,12 +3,14 @@ title: "No Refunds"
 slug: "no-refunds"
 issue: "Fall"
 year: "2009"
+date: "2009-09-01"
 authors: ['Ryan Meehan']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The yellow light in the lobby moves through the door’s framed glass and out into the street at midnight. It understands my shape on the asphalt out front, with my outline propped delicately over the sidewalk, whose burnished edge looks weirdly razor-like in the glow. My hand is on the glass behind me, and the heat from my fingertips gets pulled off in moist prints on its surface. The door closes with a hard sound, and I take the three steps down slowly. The night is brisk and dry. All along the Seventh Avenue sidewalks, lampposts form a colonnade that guides the eye toward Flatbush Avenue on the right and the Prospect Expressway overpass on the left. Overhead, stars defy the bright communion of the metropolitan night, shining.
 

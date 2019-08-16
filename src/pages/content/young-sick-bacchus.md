@@ -3,12 +3,14 @@ title: "Young Sick Bacchus"
 slug: "young-sick-bacchus"
 issue: "Fall"
 year: "2012"
+date: "2012-09-01"
 authors: ['Julian Gewirtz']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 This light yellows  
 like a bruise  

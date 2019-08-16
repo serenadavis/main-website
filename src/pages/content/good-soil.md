@@ -3,12 +3,14 @@ title: "Good Soil"
 slug: "good-soil"
 issue: "Spring"
 year: "2010"
+date: "2010-03-01"
 authors: ['Tiffany Stanley']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The storm started coming through just then, the line pop popping with electricity, my mind wandering and thinking about sparks coming up through the holes in the receiver.  
 

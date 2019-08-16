@@ -3,12 +3,14 @@ title: "Interview with Toni Morrison"
 slug: "interview-with-toni-morrison"
 issue: "Summer"
 year: "2016"
+date: "2016-06-01"
 authors: ['Chloe Brooks']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
             Dr. Toni Morrison delivered six lectures on campus this spring as the 2016 Charles Eliot Norton Professor of Poetry. She has published 11 novels, most recently *God Help the Child *(2015) and various works of non-fiction criticism. Dr. Morrison won the Presidential Medal of Freedom in 2012, the National Humanities Medal in 2000, and the 1993 Nobel Prize in Literature for giving “life to an essential aspect of American reality.”
 

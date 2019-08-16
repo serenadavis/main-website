@@ -3,10 +3,12 @@ title: "Jia"
 slug: "jia"
 issue: "Summer"
 year: "2016"
+date: "2016-06-01"
 authors: ['Xenia Viragh']
 section: "art"
 audio: []
 main_image: ""
 banner_image: ""
 images: ['sites/default/files/Jia.jpg']
+videos: []
 ---

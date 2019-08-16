@@ -3,12 +3,14 @@ title: "Brief Reports"
 slug: "brief-reports"
 issue: "Fall"
 year: "2010"
+date: "2010-09-01"
 authors: ['Brandon Seah']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  1.Suspicions of Starfish
 

@@ -3,12 +3,14 @@ title: "At the Estuary"
 slug: "at-the-estuary"
 issue: "Fall"
 year: "2010"
+date: "2010-09-01"
 authors: ['Stephanie Newman']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Eelgrass flowing from the surface of the ocean
 

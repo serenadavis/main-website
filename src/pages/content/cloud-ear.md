@@ -3,12 +3,14 @@ title: "cloud ear"
 slug: "cloud-ear"
 issue: "Fall"
 year: "2018"
+date: "2018-09-01"
 authors: ['Edith Enright']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 the brick path worn deep into so a bruise of moss blooms out beneath
 

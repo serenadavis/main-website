@@ -3,12 +3,14 @@ title: "Likeness"
 slug: "likeness"
 issue: "Winter"
 year: "2018"
+date: "2018-01-01"
 authors: ['Cameron McGill']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
   
            Talking feels canceled when I stand alone  

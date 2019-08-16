@@ -3,12 +3,14 @@ title: "Climbing Flying Mountain"
 slug: "climbing-flying-mountain"
 issue: "Commencement"
 year: "2011"
+date: "2011-06-01"
 authors: ['Sophie Duvernoy']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Reinhold Messner and his brother Günther reached the summit of Nanga Parbat in June 1970. They were the third mountaineering team ever to do so. Nanga Parbat, located in Northern Pakistan, is the ninth-highest mountain in the world, and the deadliest after Annapurna. On their ascent, the brothers climbed up the Rupal face, one of the highest mountain faces on earth. It rises 4,600 meters above its base, and its peak fades into cold, distant clouds. Reinhold Messner later wrote a novel about their fateful ascent, which he called *The Naked Mountain*. The title is a literal translation of Nanga Parbat, but it resonates on other levels, too—the climber is always defenseless, at the mercy of 8,000 meters. 
 

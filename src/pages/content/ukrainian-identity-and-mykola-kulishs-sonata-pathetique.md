@@ -3,12 +3,14 @@ title: "Ukrainian Identity and Mykola Kulishs Sonata Pathetique"
 slug: "ukrainian-identity-and-mykola-kulishs-sonata-pathetique"
 issue: "Commencement"
 year: "2014"
+date: "2014-06-01"
 authors: ['Victoria Baena']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Mykola Kulish, Ukraine’s most famous 20th-century playwright, was known for his formal experimentation and dismissal of contemporary conceits. He was also among many Ukrainian writers forced to couch any reference to Ukrainian national identity in a teleology of socialist revolution, culminating, inevitably, in a Bolshevik victory. 
 

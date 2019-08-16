@@ -3,12 +3,14 @@ title: "Elegy Unearthed"
 slug: "elegy-unearthed"
 issue: "Spring"
 year: "2019"
+date: "2019-03-01"
 authors: ['Marie Ungar']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 My city, hardly a city, still
 

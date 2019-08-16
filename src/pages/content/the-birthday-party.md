@@ -3,12 +3,14 @@ title: "The Birthday Party"
 slug: "the-birthday-party"
 issue: "Commencement"
 year: "2013"
+date: "2013-06-01"
 authors: ['Sarah Hopkinson']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Long red cuts ripple along the contours of Mona’s face as she blows out the ten candles on her birthday cake. Three are extinguished, trails of smoke emerging like fingers. She blows again and the final seven flames collapse. 
 

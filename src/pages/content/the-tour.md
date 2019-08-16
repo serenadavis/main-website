@@ -3,12 +3,14 @@ title: "The Tour"
 slug: "the-tour"
 issue: "Winter"
 year: "2013"
+date: "2013-01-01"
 authors: ['Katherine Damm']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  Even at forty years old, Leo indulged his younger brother. He stood at the kitchen counter and loaded a Hi8 tape into the Handycam that he and Charlie had found when they were packing up the basement. Leo pressed the cassette compartment back into the camera, and the metal frame set the black tape into place. Charlie clutched a candlestick and stared into the lens with the expectant attention of a newscaster. “Do you have to do that?” asked Leo.  
 Charlie grinned. “Is it on?”  

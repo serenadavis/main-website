@@ -3,12 +3,14 @@ title: "William Topaz McGonagall and the Disaster over Tay: What Happened in tha
 slug: "william-topaz-mcgonagall-and-the-disaster-over-tay-what-happened-in-that-life-and-on-that-day"
 issue: "Fall"
 year: "2011"
+date: "2011-09-01"
 authors: ['Eric Roff Brewster']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
   
 I.

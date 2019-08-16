@@ -3,12 +3,14 @@ title: "Witness -> Translation -> Adjective Verse?"
 slug: "witness-translation-adjective-verse"
 issue: "Fall"
 year: "2015"
+date: "2015-09-01"
 authors: ['Robbie Burr Eginton']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Look at the opening of Anna Akhmatova’s “Requiem,” her monument or memorial to the years of Stalin’s Terror:   
   

@@ -3,12 +3,14 @@ title: "Six Reissued Plates, by Bing & Grndahl"
 slug: "six-reissued-plates-by-bing-grndahl"
 issue: "Spring"
 year: "2017"
+date: "2017-03-01"
 authors: ['Christopher Merkner']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
    Outside the Lighted Window ∙ (1919, 2013)
 

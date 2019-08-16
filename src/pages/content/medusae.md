@@ -3,12 +3,14 @@ title: "medusae"
 slug: "medusae"
 issue: "Winter"
 year: "2010"
+date: "2010-01-01"
 authors: ['Maria P. Vassileva']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 underwater they are terribly  
 farsighted, your body blurs  

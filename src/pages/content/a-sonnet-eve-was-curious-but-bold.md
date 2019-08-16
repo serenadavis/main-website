@@ -3,12 +3,14 @@ title: "[A sonnet. Eve was curious but bold.]"
 slug: "a-sonnet-eve-was-curious-but-bold"
 issue: "Spring"
 year: "2010"
+date: "2010-03-01"
 authors: ['Abram Kaplan']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 A sonnet.  Eve was curious but bold.
 

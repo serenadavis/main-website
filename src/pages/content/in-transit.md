@@ -3,12 +3,14 @@ title: "In Transit"
 slug: "in-transit"
 issue: "Winter"
 year: "2013"
+date: "2013-01-01"
 authors: ['Warner James Wood']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 In Mongolia, only the women are permitted to consume the sheep’s testicles.
 

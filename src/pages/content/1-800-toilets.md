@@ -3,12 +3,14 @@ title: "1-800-TOILETS"
 slug: "1-800-toilets"
 issue: "Spring"
 year: "2015"
+date: "2015-03-01"
 authors: ['Sam Reynolds']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
    I called it my porta-potty. That rectangular prism next to my mailbox. The contractor left it one day, wrapped in the excuse that every building under construction in the state of California must support a portable toilet if the project lasts longer than three days. A quick online cross-reference revealed there is no porta-potty-law; it’s just a practice in decency, courtesy, and efficiency to leave a monolith out there as a temporary outhouse. 
 

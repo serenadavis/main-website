@@ -3,12 +3,14 @@ title: "The Snare (I & II)"
 slug: "the-snare-i-ii"
 issue: "Commencement"
 year: "2011"
+date: "2011-06-01"
 authors: ['David Wallace']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 **The Snare (I)**
 

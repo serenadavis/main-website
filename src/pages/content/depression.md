@@ -3,12 +3,14 @@ title: "Depression"
 slug: "depression"
 issue: "Winter"
 year: "2014"
+date: "2014-01-01"
 authors: ['Dorothea Lasky']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Depression—it’s a public feeling
 

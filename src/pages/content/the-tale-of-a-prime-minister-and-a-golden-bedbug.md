@@ -3,12 +3,14 @@ title: "The Tale of a Prime Minister and a Golden Bedbug"
 slug: "the-tale-of-a-prime-minister-and-a-golden-bedbug"
 issue: "Fall"
 year: "2013"
+date: "2013-09-01"
 authors: ['Victor Fet']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

@@ -3,12 +3,14 @@ title: "Ape Song"
 slug: "ape-song"
 issue: "Winter"
 year: "2018"
+date: "2018-01-01"
 authors: ['Leslie Jamison']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 We are writing to you in the first-person plural. We may or may not be named Stacy, Laura, Genevieve. We are apes and we are soldiers. We may or may not be kidding. Our spokesperson is named Sally Sprout. She is happy to tell you why we won’t tell you our names: *They want to be seen as people. They want to emphasize that they are not anti-male, anti-family, anti-children ... They want to emphasize that they are sisters, daughters, wives, and mothers. *We want to be seen as people, so we dress up as gorillas. That way we are less particular. Why our costumes? *Dismiss the essence if people knew who individuals. Stop worrying about children. No personal gains, only intangibles.* We aren’t confessional. We aren’t secreting our lives through our pores or our poems. We aren’t making this personal. We just want to make ourselves known, we want to make ourselves un-ignorable. We want to make ourselves—not ourselves. We want to wear masks instead. We want to MAKE, period. *What’s the matter with you—you having your period—you’ve never had one.* We sign our notes, *with love and bananas.*
 

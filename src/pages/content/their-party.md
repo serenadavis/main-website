@@ -3,12 +3,14 @@ title: "Their Party"
 slug: "their-party"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['Lily Scherlis']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I
 

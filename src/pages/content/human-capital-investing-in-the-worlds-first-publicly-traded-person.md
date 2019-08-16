@@ -3,12 +3,14 @@ title: "Human Capital: Investing in the Worlds First Publicly Traded Person"
 slug: "human-capital-investing-in-the-worlds-first-publicly-traded-person"
 issue: "Spring"
 year: "2018"
+date: "2018-03-01"
 authors: ['Hansen Shi']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Three years after the Supreme Court declared corporations are people too, a 44-year-old sometimes entrepreneur named Mike Merrill is trying to prove the opposite. Merrill became the world’s first “publicly traded person” in 2008, when he created 100,000 shares of himself and sold them to friends and strangers at $1/share through a website called KMikeyM. On Mike’s website, you can purchase shares in “him,” which entitle you to the same number of votes on Mike’s day-to-day and life decisions, such as whether or not to grow a beard, register as a Republican, get a vasectomy, or date somebody. Every couple of weeks, Mike posts life updates and new decisions for his investors to vote on. I purchased 5 shares in Mike at $5.10 each; given recent, dramatic developments in his life, I think I got a good deal.
 

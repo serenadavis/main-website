@@ -3,12 +3,14 @@ title: "Self-Portrait in a Flat Screen"
 slug: "self-portrait-in-a-flat-screen"
 issue: "Spring"
 year: "2012"
+date: "2012-03-01"
 authors: ['Julian Gewirtz']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

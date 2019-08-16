@@ -3,12 +3,14 @@ title: "Headwaters"
 slug: "headwaters"
 issue: "Winter"
 year: "2013"
+date: "2013-01-01"
 authors: ['Ben Cosgrove']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Sometime last spring, I was driving through northern Minnesota when the road I was on passed over a small waterway. It was an unremarkable little brook lazily worming through the forest, but a sign on the shoulder identified it as the “Mississippi River.” I pulled over and reversed back to the bridge in an extended double-take. There it was, though. The mightiest vein of the continent. From here it would grow dramatically as it moved southward and its tributaries flooded in from across the country, giving life to Minneapolis, St. Louis, Memphis, New Orleans, and countless settlements in between. But up here in Paul Bunyan country, it was just an unmajestic trickle. It was oddly thrilling to see so mighty a river in such an undeveloped and vulnerable state, almost like walking in on a head of state without his clothes on. Without much further reflection I drove on, inflated by a sense of having been granted a window into the inner life of the Mississippi River, a feeling that I knew it better than most because I had seen it like this.
 

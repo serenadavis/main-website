@@ -3,12 +3,14 @@ title: "Kollini Played the Two Sticks"
 slug: "kollini-played-the-two-sticks"
 issue: "Summer"
 year: "2015"
+date: "2015-06-01"
 authors: ['Kate Massinger']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Like all great genesis stories, this one begins with words.
 

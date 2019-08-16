@@ -3,12 +3,14 @@ title: "Nothing"
 slug: "nothing"
 issue: "Winter"
 year: "2018"
+date: "2018-01-01"
 authors: ['Eliya Smith']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 My mother raised me on spoonfuls of musical theater soundtracks.
 

@@ -3,12 +3,14 @@ title: "The Feasting"
 slug: "the-feasting"
 issue: "Spring"
 year: "2014"
+date: "2014-03-01"
 authors: ['My Ngoc To']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I.
 

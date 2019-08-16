@@ -3,12 +3,14 @@ title: "Motel"
 slug: "motel"
 issue: "Spring"
 year: "2013"
+date: "2013-03-01"
 authors: ['Georgina Parfitt']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *Day 1*
 

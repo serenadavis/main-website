@@ -3,12 +3,14 @@ title: "Love on the Installment Plan"
 slug: "love-on-the-installment-plan"
 issue: "Summer"
 year: "2015"
+date: "2015-06-01"
 authors: ['Erica X Eisen']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 There are many reasons why you would choose a mail-order bride. The first of which––loneliness––is one that you would not admit to yourself, or at least not without careful repackaging. You’re just so busy; you don’t have *time* for dating. And the women in the area don’t understandyou. Maybe that’s why you fear them. Although that, too, you would never admit.
 

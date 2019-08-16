@@ -3,12 +3,14 @@ title: "Mothlight"
 slug: "mothlight"
 issue: "Commencement"
 year: "2013"
+date: "2013-06-01"
 authors: ['Tyler Richard']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Until the moth takes  
 wing light on dark  

@@ -3,12 +3,14 @@ title: "The Watchmaker"
 slug: "the-watchmaker"
 issue: "Spring"
 year: "2009"
+date: "2009-03-01"
 authors: ['Courtney Bowman']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 If it were my house, I would have opened the pantry and said something to the effect of, “make yourselves some soup.” But it was not my house and not my child, so I cooked up Mac-n-Cheese as instructed. I could tell it was not Kraft by the thickness of the noodles and the banal hue of the cheese sauce. Mrs. Wilkey had made the macaroni herself, which I was very grateful for but obligated to decline. I am not 25 any longer, and my metabolism isn’t what it used to be. It is now the metabolism of a 28 year-old post-sexual woman of some scholarship.
 

@@ -3,12 +3,14 @@ title: "Love Me Til I'm Dead"
 slug: "love-me-til-im-dead"
 issue: "Winter"
 year: "2017"
+date: "2017-01-01"
 authors: ['Danniel Schoonebeek']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
   Wasn’t that 12th street
 

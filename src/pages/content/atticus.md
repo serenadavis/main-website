@@ -3,12 +3,14 @@ title: "Atticus"
 slug: "atticus"
 issue: "Winter"
 year: "2010"
+date: "2010-01-01"
 authors: ['Andrew Nunnelly']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Marcy finished picking up after the dogs and tied the plastic grocery bag with two simple knots. The three greyhounds barked when they saw she was done because they wanted treats.
 

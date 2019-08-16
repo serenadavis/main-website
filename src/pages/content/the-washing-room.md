@@ -3,12 +3,14 @@ title: "The Washing Room"
 slug: "the-washing-room"
 issue: "Spring"
 year: "2011"
+date: "2011-03-01"
 authors: ['My Ngoc To']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I.
 

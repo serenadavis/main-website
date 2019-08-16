@@ -3,12 +3,14 @@ title: "Notes From 21 South Street: Art in Hand: A Conversation with Lawrence Vo
 slug: "notes-from-21-south-street-art-in-hand-a-conversation-with-lawrence-voytek-and-peter-ballantine"
 issue: "Fall"
 year: "2009"
+date: "2009-09-01"
 authors: ['Madeleine Schwartz']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Artists have always had assistants—Greek sculpture was carved in workshops, and Rembrandt painted with aides whose anonymity continues to cause curatorial headaches. But the figure of the “fabricator” is a relative newcomer in the history of art production. The fabricator was born only a half a century ago, when a push toward the use of modern materials and bigger, more complex projects meant that the art waiting to be created was unrealizable without a trained hand.
 

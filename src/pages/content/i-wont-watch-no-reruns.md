@@ -3,12 +3,14 @@ title: "I Wont Watch No Reruns"
 slug: "i-wont-watch-no-reruns"
 issue: "Commencement"
 year: "2013"
+date: "2013-06-01"
 authors: ['Tyler Richard']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *Read the full blog post at [Notes from 21 South Street](http://theadvocateblog.net/2013/09/20/i-wont-watch-no-reruns/).*
 

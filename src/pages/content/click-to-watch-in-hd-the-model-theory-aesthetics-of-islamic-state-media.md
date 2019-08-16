@@ -3,12 +3,14 @@ title: "Click to Watch in HD: The Model, Theory, & Aesthetics of Islamic State M
 slug: "click-to-watch-in-hd-the-model-theory-aesthetics-of-islamic-state-media"
 issue: "Summer"
 year: "2015"
+date: "2015-06-01"
 authors: ['Kurt Slawitschka']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 By now, the Islamic State’s (IS) deft command of media is well recognized. The group, previously known as ISIS or ISILI, began receiving widespread attention for its publicity campaign in the summer of 2014. In June, the group established the al-Hayat Media Center, a production agency aimed at reaching Western audiences. Shortly thereafter, the new center released its first video titled, “There Is No Life Without Jihad.”1 The video is a thirteen minute plus production featuring three Western jihadists who urge devout Muslims worldwide to join and fight for the Islamic State. The video is long, somewhat overproduced, and absolutely gorgeous. Since then, the Islamic State has released countless texts, videos, and images that display increasing technical and strategic proficiency in what some have termed, “The Jihadi War of Ideas.”2
 

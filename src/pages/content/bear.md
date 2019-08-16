@@ -3,12 +3,14 @@ title: "Bear"
 slug: "bear"
 issue: "Commencement"
 year: "2010"
+date: "2010-06-01"
 authors: ['Mary Catherine Curley']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Two days before she left, my mother pinned a newspaper clipping to the corkboard in our kitchen.
 

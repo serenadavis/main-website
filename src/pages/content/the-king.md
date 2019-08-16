@@ -3,12 +3,14 @@ title: "The King"
 slug: "the-king"
 issue: "Spring"
 year: "2019"
+date: "2019-03-01"
 authors: ['Eli Zuzovsky']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *2003*
 

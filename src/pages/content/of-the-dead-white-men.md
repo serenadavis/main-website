@@ -3,12 +3,14 @@ title: "Of the Dead White Men"
 slug: "of-the-dead-white-men"
 issue: "Winter"
 year: "2011"
+date: "2011-01-01"
 authors: ['Laura Kasischke']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Because some of them crawled on broken
 

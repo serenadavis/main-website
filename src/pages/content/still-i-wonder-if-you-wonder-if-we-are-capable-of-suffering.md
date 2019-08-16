@@ -3,12 +3,14 @@ title: "still, i wonder if you wonder if we are capable of suffering?"
 slug: "still-i-wonder-if-you-wonder-if-we-are-capable-of-suffering"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Danez Smith']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I don’t want to bring it up
 

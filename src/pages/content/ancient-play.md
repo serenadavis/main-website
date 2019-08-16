@@ -3,12 +3,14 @@ title: "Ancient Play"
 slug: "ancient-play"
 issue: "Spring"
 year: "2018"
+date: "2018-03-01"
 authors: ['Marella Gayla']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 With its sandy expanses and climbable pyramids, the Ancient Playground was designed to evoke empire. As a kid, I spent countless afternoons ducking through the piss-fragrant tunnels of the Giza-inspired play structures. During the summer, I’d dash through the sprinkler as if Moses himself had just cracked it open. In all seasons, teenagers made out behind the concrete obelisk.
 

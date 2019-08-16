@@ -3,12 +3,14 @@ title: "Epidemia"
 slug: "epidemia"
 issue: "Fall"
 year: "2017"
+date: "2017-09-01"
 authors: ['Jorge Olivera Castillo']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 La tos lo mantenía al borde de una convulsión. Comenzó con un estornudo y en breve estaba inmerso en un torbellino de espasmos sin poder dominar la brusquedad de los movimientos corporales.
 

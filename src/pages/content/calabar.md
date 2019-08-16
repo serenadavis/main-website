@@ -3,12 +3,14 @@ title: "Calabar"
 slug: "calabar"
 issue: "Spring"
 year: "2018"
+date: "2018-03-01"
 authors: ['Owen Ojo']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 When I learn about the homeland for the first time, nobody tells me that I should see *home*. A teacher pulls down the map of the world, then the map of the continent, and taps with the black tip of her pointer. “Africa,” she says, and like magic the classroom turns a Sahara-sun yellow, something called tribal print bordering the walls, my sister said, pointing through the doorway; and in a few months she is learning to say jambo, we are beating pellet drums against our legs, she is sent home with a letter to give to our parents asking them to bring African food on World Culture Day. I sit on the floor by the stove, my tongue to the hard scratchy surface of the pellet drum, smoky-tasting, hide-flavored, and worriedly watch my mother make a rice that will be served to our classmates at school in the cafeteria, in huge aluminum pans, in front of the teacher who pulls down maps of the world and its continents, who sent home the letter. (Can your family make us some African food?)
 

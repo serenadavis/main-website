@@ -3,12 +3,14 @@ title: "Feminology (1893)"
 slug: "feminology-1893"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Henry H. Chamberlin, Jr. ']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 REPRINTED FROM DECEMBER 1893 ISSUE
 

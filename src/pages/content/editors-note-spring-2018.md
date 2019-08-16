@@ -3,12 +3,14 @@ title: "Editor's Note: Spring 2018"
 slug: "editors-note-spring-2018"
 issue: "Spring"
 year: "2018"
+date: "2018-03-01"
 authors: ['The Harvard Advocate']
 section: "notes"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Spring at the Advocate is a time for leaving.  
 School wanes, days get hotter. People trickle  

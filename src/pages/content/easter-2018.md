@@ -3,12 +3,14 @@ title: "EASTER 2018"
 slug: "easter-2018"
 issue: "Spring"
 year: "2018"
+date: "2018-03-01"
 authors: ['Donald Revell']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

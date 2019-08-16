@@ -3,12 +3,14 @@ title: "Room Service"
 slug: "room-service"
 issue: "Spring"
 year: "2016"
+date: "2016-03-01"
 authors: ['Frankie Zwick']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Zoe was standing at the valet trying to bum a cigarette off Vince. She’d just gotten off work and it was pouring, but Beverly Hills was even more beautiful in the rain. In the dark the yellow headlights glinted off Sunset Boulevard like a shining warped record. Vince was leaning with his back against the valet booth not paying much attention to Zoe, probably because he knew she really was just after the nicotine and wasn’t even flirting with him. But Zoe wasn’t shy about asking for favors, and she knew Vince liked that about her. He straightened his bowtie and pulled out a pack of Parliaments. Wet palm fronds whacked the pink stucco of the hotel.
 

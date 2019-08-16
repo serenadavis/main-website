@@ -3,12 +3,14 @@ title: "Interview with George Saunders"
 slug: "interview-with-george-saunders"
 issue: "Winter"
 year: "2014"
+date: "2014-01-01"
 authors: ['Harvard Advocate Staff']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 George Saunders is the author of two novellas and four short story collections, including *Civil War Land in Bad Decline* (1996) and his most recent work, *Tenth of December* (2013). A New York Times bestselling author and the recipient of a Guggenheim Fellowship and MacArthur “Genius Grant,” his career has been met with both popular and critical success. He now teaches creative writing at Syracuse University’s MFA program. This fall, *Advocate* Features Board member Warner James Wood conducted this interview over email. It has been edited for concision and clarity.
 

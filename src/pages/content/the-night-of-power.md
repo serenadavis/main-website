@@ -3,12 +3,14 @@ title: "The Night of Power"
 slug: "the-night-of-power"
 issue: "Summer"
 year: "2018"
+date: "2018-06-01"
 authors: ['Aisha Bhoori']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Layla-tul-Qadr—that’s what the Qur’an calls it. The Night of Power. On the twenty-seventh of Ramadan each year, Muslims mark its beginning with a vigil. After breaking their fasts at sunset, they retreat into deep and solemn worship until sunrise the next morning, imploring Allah to forgive all their past and future sins. It is the only night when those who pray five times a day, or three times, or no times, all congregate. On this night, Allah revealed the first verse of the Qur’an—the injunction “Read!”—to the Prophet Muhammed. On this night, He writes in His Book of Decrees every event to occur in the next twelve months, from natural disasters to the falling of a leaf. On this night, the gates of heaven swing open and the gates of hell swing shut. Angels descend. 
 

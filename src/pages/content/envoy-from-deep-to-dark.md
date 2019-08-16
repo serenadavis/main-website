@@ -3,12 +3,14 @@ title: "Envoy: From Deep to Dark"
 slug: "envoy-from-deep-to-dark"
 issue: "Commencement"
 year: "2011"
+date: "2011-06-01"
 authors: ['Spencer Burke']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Hidden away from view behind unassuming doors, under humming fluorescent lights and encased in corrugated steel, rest most of the six million objects in the collection of the Peabody Museum of Archaeology and Ethnology. The place is deliberately hard to find. If you’re lucky enough to be taken inside, it’s hard not to be reminded of the last scene in *Raiders of the Lost Ark*. After two hours of fisticuffs and truck chases, Indy rescues the Ark of the Covenant from nefarious Nazis and hands it over to the government. The relic is crated and wheeled through a vast storage facility, eventually disappearing into anonymity among thousands of identical boxes containing who-knows-what other priceless treasures.
 

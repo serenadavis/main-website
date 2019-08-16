@@ -3,12 +3,14 @@ title: "Friendship as a Way of Life"
 slug: "friendship-as-a-way-of-life"
 issue: "Winter"
 year: "2018"
+date: "2018-01-01"
 authors: ['Lily Scherlis']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 My first TV was the size of a microwave, with one of those bubble-like screens. It was relegated to the family Volvo after we got the new one (which was somewhat larger). My dad strapped it to a milk crate with bungee cords and permanently converted its signal to induction. It stayed there for years, lodged in the space between the driver’s and passenger’s seats. All of this so that my siblings and I would stay quiet on the five hour drives to my grandparents’ house in Baltimore. 
 

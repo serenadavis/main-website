@@ -3,12 +3,14 @@ title: "Spring Break"
 slug: "spring-break"
 issue: "Commencement"
 year: "2012"
+date: "2012-06-01"
 authors: ['Mark Chiusano']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The spring break of my junior year of college I spent entirely at home on Avenue R, while my mother and father were at work and my brother was at school.  I was thinking Big Thoughts over that spring break: I had brought a shoulder-bag full of books home, many of them hardcover, stuffed between two pairs of jeans and my baseball glove.  I wore my own jeans and my brother’s t-shirts, that week.  We had become the same size, nearly exactly, leveling off around maturity.  Our shoulders, in the mirror, were the same width. 
 

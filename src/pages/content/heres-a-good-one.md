@@ -3,12 +3,14 @@ title: "Here's a Good One"
 slug: "heres-a-good-one"
 issue: "Winter"
 year: "2014"
+date: "2014-01-01"
 authors: ['Eric Brewster']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
    You’ve got to hear about this. Crazy stuff.  
     It begins in 400 BC, when a guy who probably isn’t real goes for a run that probably doesn’t happen. The guys who write about this kind of thing back then call him Pheidippides, which is at least a real name. Athens is playing Persia on the battlefield when the home team wins and our runner is tasked with delivering the news—a straight shot to Athens to let the head honchos know they’re good to go in the Battle of Marathon. And so we have ourselves a race.  

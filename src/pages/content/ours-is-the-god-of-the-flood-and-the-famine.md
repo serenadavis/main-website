@@ -3,12 +3,14 @@ title: "Ours is the God of the Flood and the Famine"
 slug: "ours-is-the-god-of-the-flood-and-the-famine"
 issue: "Spring"
 year: "2010"
+date: "2010-03-01"
 authors: ['Dwight Livingstone Curtis']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The first time my mother ran away from home, she was eleven.  At some point early in the morning, while her parents and a few other men from the neighborhood drank in the kitchen, she went through her mother’s purse and then let herself out the front door of the apartment.  She took thirty dollars, a pack of Pall Malls, and a tube of lipstick.  She stuck to the alleys until she got to the Marcy Avenue subway station, and in the stairwell up to the platform she put on the lipstick and smoked a cigarette.  Then she jumped the fence onto the platform and hid under a bench until the train came.
 

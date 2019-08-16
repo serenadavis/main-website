@@ -3,12 +3,14 @@ title: "Pythagoreans"
 slug: "pythagoreans"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['Grant Ginder']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Straight vs. Crooked
 

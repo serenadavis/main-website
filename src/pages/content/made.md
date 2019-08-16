@@ -3,12 +3,14 @@ title: "MADE"
 slug: "made"
 issue: "Spring"
 year: "2012"
+date: "2012-03-01"
 authors: ['Alexander J.B. Wells']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

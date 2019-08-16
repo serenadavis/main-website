@@ -3,12 +3,14 @@ title: "Dixon"
 slug: "dixon"
 issue: "Winter"
 year: "2017"
+date: "2017-01-01"
 authors: ['Bret Anthony Johnston']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 A star-smeared night, the usual briny and humid haze of the brush country in August, and Dixon was hauling twenty cases of stolen toys up from the Rio Grande Valley.  They were in the bed of his truck under a blue tarp.  He took care to drive the speed limit and flash his blinker.  If the border patrol at the Sarita checkpoint asked, he’d claim a delivery mix-up.  If the guards were white, he’d blame it on Mexicans.
 

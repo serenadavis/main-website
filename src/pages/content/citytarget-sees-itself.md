@@ -3,12 +3,14 @@ title: "CityTarget Sees Itself"
 slug: "citytarget-sees-itself"
 issue: "Fall"
 year: "2015"
+date: "2015-09-01"
 authors: ['Matthew Browne']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 A few short steps from the entrance escalator in Boston’s new CityTarget stands a section called Local Pride. It is filled with t-shirts whose heathery fabric gives an appearance of wear and fade—a style CityTarget calls vintage. They are emblazoned with catchphrases, figures, and logos meant to invoke the spirit of Boston: How Bout Them Apples runs overtop a clover, Capt. Carl Yastrzemski surrounds an image of the beloved Red Sox great taking a swing, faded logos of Cape Cod potato chips and Marshmallow Fluff sit just beneath the chest of two v-necks. There are baseballs, water bottles, tote bags, and Moleskines adorned with the phrase Local Boston Pride. Yellow, green, and red foam fingers litter a display stand. Their erect indexes display a #1 and their palms read Local Boston Pride. Yellow drink cozies proudly offer the phrase We Are Boston.  
 Boston’s CityTarget has hawked this version of Local Pride since its opening on July 26th of this year. The three-floor, 160,000 square-foot retail megacenter is the ninth in a line of Target stores designed to offer, according to a company press release, “customized assortments and services to meet the needs of guests who are increasingly moving into urban centers.” Local Pride is just one fixture of this customization—an attempt to situate CityTarget in a specific urban context.

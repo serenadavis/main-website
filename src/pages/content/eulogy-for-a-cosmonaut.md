@@ -3,12 +3,14 @@ title: "Eulogy for a Cosmonaut"
 slug: "eulogy-for-a-cosmonaut"
 issue: "Winter"
 year: "2014"
+date: "2014-01-01"
 authors: ['Noah Pisner']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
    Believing himself still young, a ditchdigger in the town where I once lived abandoned his dog so that he could travel the world and see what was what. I was only six years old at the time, beloved, and oblivious to the old mongrel’s lonesomeness when we took her in.  
     In the mornings she’d rush in, ailing and enthusiastic, pummeling my bare legs with her front paws to wake me out of bed, as if kneading a window for escape: *Up, up!* And in the evenings, when I’d run her down the pavement, she’d scatter gravel underneath her abdomen, clocking particles of airborne terrain across my sight: floured leaf, insect bone, grits of carbon, silt, sod, some clay. I’d fan for a warm breath, catch flashes of the moon eating dusk on the alternating pages.  

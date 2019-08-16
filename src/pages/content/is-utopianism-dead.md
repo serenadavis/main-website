@@ -3,12 +3,14 @@ title: "Is Utopianism Dead?"
 slug: "is-utopianism-dead"
 issue: "Winter"
 year: "2011"
+date: "2011-01-01"
 authors: ['Simon Critchley']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 We are living through a long anti-1960s. The various anti-capitalist experiments in communal living and collective existence that defined that period seem to us either quaintly passé, laughably unrealistic or dangerously misguided. Having grown up and thrown off such seemingly childish ways, we now think we know better than to try and bring heaven crashing down to earth and construct concrete utopias. To that extent, despite our occasional and transient enthusiasms and Obamaisms, we are all political realists; indeed most of us are passive nihilists and cynics. This is why we still require a belief in something like original sin, namely that there is something ontologically defective about what it means to be human. The Judaeo-Christian conception of original sin finds its modern analogues in Freud’s variation on the Schopenhauerian disjunction between desire and civilization, Heidegger’s ideas of facticity and fallenness, and the Hobbesian anthropology that drives Carl Schmitt’s defense of authoritarianism and dictatorship, which has seduced significant sectors of the Left hungry for Realpolitik. Without the conviction that the human condition is essentially flawed and dangerously rapacious, we would have no way of justifying our disappointment; nothing gives us a greater thrill than satiating our sense of exhaustion and ennui by polishing the bars of our prison cell by reading a little John Gray. Gray represents a very persuasive Darwinian variant on the idea of original sin: it is the theory of evolution that explains the fact that we are homo sapiens. Nothing can be done about it. Humanity is a plague.
 

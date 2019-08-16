@@ -3,12 +3,14 @@ title: "No Trouble"
 slug: "no-trouble"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Joe Byrne']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Phaedra Byrd, or Faye, likes to get high on PCP. She picks up from Cowboy, who spends nights hanging near the Carver Terrace stairs. Sometimes when she gets high, she looks at pictures of herself and her younger half-sister as children. Now, attempting to text a man with a black SUV who lives in the suburbs, Faye accidentally sends a video message of herself mumbling *“**You like it, babe?” *to her half-sister.
 

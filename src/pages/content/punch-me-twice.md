@@ -3,12 +3,14 @@ title: "Punch Me Twice"
 slug: "punch-me-twice"
 issue: "Summer"
 year: "2017"
+date: "2017-06-01"
 authors: ['Sophia Emmons-Bell']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  Sam looks mean enough and he’s taller than most boys, but his arms don’t reach past the row of seats in front of us. I think he’d punch like a joke. If he got up in that ring I think he’d run himself out of balance, put his weight behind the wrong arm, maybe just trip up and duck back out through the ropes. It’s not his fault but he’s a controlled person, slow and careful with his movements, no explosiveness in his entire body. Seems like the ring’s too big for a fourteen-year-old with thin arms. These men we’re watching, they fight in jumps. They’re sweating like the match is deadly and their punches are stinging through the boxing gloves. The view is patchy from our seats but the top-lights are sterilizing and I can see shadows on the boxers’ cheeks as they dodge. I can’t stop watching them move, twitch, spin. They jump around like it’s random. They fight like it’s not the arms but the timing’s what matters. 
 

@@ -3,12 +3,14 @@ title: "Narcissus"
 slug: "narcissus"
 issue: "Spring"
 year: "2013"
+date: "2013-03-01"
 authors: ['Julian Gewirtz']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The body near the screen tests itself, rests on itself, akimbo as windowcurtains pinned  
 back, just a touch, green kimono cinched in pale rope, as one might flinch if  

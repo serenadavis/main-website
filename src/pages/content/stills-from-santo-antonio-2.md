@@ -3,12 +3,14 @@ title: "Stills from Santo Antonio 2"
 slug: "stills-from-santo-antonio-2"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['Joao Pedro Rodrigues']
 section: "art"
 audio: []
 main_image: ""
 banner_image: ""
 images: ['sites/default/files/Winter2015Final16small.jpg']
+videos: []
 ---
   
 Four channel audiovisual installation

@@ -3,12 +3,14 @@ title: "Seem Tame"
 slug: "seem-tame"
 issue: "Fall"
 year: "2012"
+date: "2012-09-01"
 authors: ['Julian Gewirtz']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Falls blue. Time, it is that small  
 silver weight in my hand, cool  

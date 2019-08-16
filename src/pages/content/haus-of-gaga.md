@@ -3,12 +3,14 @@ title: "Haus of Gaga"
 slug: "haus-of-gaga"
 issue: "Winter"
 year: "2011"
+date: "2011-01-01"
 authors: ['Eva DeLappe']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 It is 1923 and we are in Weimar, birthplace of the Republic.
 

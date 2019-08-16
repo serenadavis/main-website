@@ -3,12 +3,14 @@ title: "The 450-Year-Old-Man"
 slug: "the-450-year-old-man"
 issue: "Spring"
 year: "2014"
+date: "2014-03-01"
 authors: ['Sam Reynolds']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Age 370—1934  
   

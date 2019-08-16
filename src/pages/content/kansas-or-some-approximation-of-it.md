@@ -3,12 +3,14 @@ title: "Kansas (Or Some Approximation of It)"
 slug: "kansas-or-some-approximation-of-it"
 issue: "Winter"
 year: "2017"
+date: "2017-01-01"
 authors: ['Byung Joon Lee']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 “I’ll be shattered by then but now I’m not and can also picture white clouds ... faded sunlight falling across the picture ... I’ll go out for a drink with one of my demons tonight they are dry in Colorado 1980 spring snow.” - Ted Barrigan, A Certain Slant of Sunlight
 

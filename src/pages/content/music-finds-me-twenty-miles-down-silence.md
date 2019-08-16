@@ -3,12 +3,14 @@ title: "[Music finds me twenty miles down silence]"
 slug: "music-finds-me-twenty-miles-down-silence"
 issue: "Fall"
 year: "2010"
+date: "2010-09-01"
 authors: ['Matt Aucoin']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Music finds me twenty miles down silence
 

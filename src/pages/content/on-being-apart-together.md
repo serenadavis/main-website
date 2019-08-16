@@ -3,12 +3,14 @@ title: "On Being Apart Together"
 slug: "on-being-apart-together"
 issue: "Summer"
 year: "2017"
+date: "2017-06-01"
 authors: ['Zahra Safaverdi']
 section: "art"
 audio: []
 main_image: ""
 banner_image: ""
 images: ['sites/default/files/A2ibf.jpg']
+videos: []
 ---
 A2 (420 x 594 mm)
 

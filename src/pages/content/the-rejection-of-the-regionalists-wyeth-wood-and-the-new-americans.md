@@ -3,12 +3,14 @@ title: "The Rejection of the Regionalists: Wyeth, Wood, and the New Americans"
 slug: "the-rejection-of-the-regionalists-wyeth-wood-and-the-new-americans"
 issue: "Commencement"
 year: "2009"
+date: "2009-06-01"
 authors: ['Emily Chertoff']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
           In Andrew Wyeth’s winter landscapes, Pennsylvania seems to groom itself with a cold gray tongue. Down it sweeps, over wide brown plains and farms, over towns and small cities. It gentles the cows that graze in fenced-in fields, the light-eyed farmers who bring them out to pasture, and the crows that guard them both. It smoothes the wheat that covers its body like a winter fur. The state is cleaning, making ready for the spring, when the sunlight will reveal all its dirty and dusty corners without mercy.
 

@@ -3,12 +3,14 @@ title: "What I Said, Where I Said It, and Why"
 slug: "what-i-said-where-i-said-it-and-why"
 issue: "Fall"
 year: "2017"
+date: "2017-09-01"
 authors: ['Sara Nicholson']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 To hear myself say it
 

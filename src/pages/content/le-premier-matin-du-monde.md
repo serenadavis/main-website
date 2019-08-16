@@ -3,12 +3,14 @@ title: "Le premier matin du monde"
 slug: "le-premier-matin-du-monde"
 issue: "Fall"
 year: "2014"
+date: "2014-09-01"
 authors: ['Jerome Karsenti']
 section: "art"
 audio: []
 main_image: ""
 banner_image: ""
 images: ['sites/default/files/Fall2014final-15_small.jpg']
+videos: []
 ---
 Silicon carbide ink on canvas  
 190 x 300 cm

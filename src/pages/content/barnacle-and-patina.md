@@ -3,12 +3,14 @@ title: "Barnacle and Patina"
 slug: "barnacle-and-patina"
 issue: "Winter"
 year: "2014"
+date: "2014-01-01"
 authors: ['Tyrone Williams']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Call me drag  
    

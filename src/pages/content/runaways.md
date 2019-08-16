@@ -3,12 +3,14 @@ title: "Runaways"
 slug: "runaways"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['Glenn Ligon']
 section: "art"
 audio: []
 main_image: ""
 banner_image: ""
 images: ['sites/default/files/winter2015final24.jpg']
+videos: []
 ---
      
 1993   

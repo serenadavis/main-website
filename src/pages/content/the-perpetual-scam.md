@@ -3,12 +3,14 @@ title: "The Perpetual Scam"
 slug: "the-perpetual-scam"
 issue: "Winter"
 year: "2017"
+date: "2017-01-01"
 authors: ['Marella Gayla']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Joanne wants you girls to know that she’s a real messy bitch: a liar, a scammer. “I love robbery and fraud,” she drawls with scandalized bourgeois affect, flipping her blonde wig with a vigor that threatens whiplash. “And I’m a messy bitch who lives for drama.” 
 

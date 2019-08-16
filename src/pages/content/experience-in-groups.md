@@ -3,12 +3,14 @@ title: "Experience in Groups"
 slug: "experience-in-groups"
 issue: "Spring"
 year: "2017"
+date: "2017-03-01"
 authors: ["Geoffrey G. O'Brien"]
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 What is language is a new needed
 

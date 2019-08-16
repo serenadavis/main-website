@@ -3,12 +3,14 @@ title: "N? Catharsis"
 slug: "n-catharsis"
 issue: "Commencement"
 year: "2009"
+date: "2009-06-01"
 authors: ['Allison Keeley']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 He enters the stage with a relaxed heart, looking afar. He is an old man. And he has found a way to be graceful while old, to show his desire to be young in his footsteps. He dances. And he accepts that his legs disobey but this acceptance of tangible impermanence does not surface in his demeanor. He is an old man, who knows he is old, and tries to look young.   
   

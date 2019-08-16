@@ -3,12 +3,14 @@ title: "Disorder/Rabbit"
 slug: "disorderrabbit"
 issue: "Commencement"
 year: "2009"
+date: "2009-06-01"
 authors: ['Abram Kaplan']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I wore her  
 disorder as a  

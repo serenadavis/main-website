@@ -3,12 +3,14 @@ title: "Small American Fires"
 slug: "small-american-fires"
 issue: "Spring"
 year: "2019"
+date: "2019-03-01"
 authors: ['Caroline Tsai']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Years from now, she will remember the ash that followed her. The cities charred and smoldered behind her, plumes of smoke like storm clouds in the rearview. The air was dense and syrupy with car exhaust and ash, vermillion sunsets like something out of science fiction, electric and strange. Wildfire tinged each grapevine in the Sonoma vineyards, boiling the grape juice on site and disrupting the ferment. In every cabernet bottled that year, the faint edge of smoke cut through like rot. 
 

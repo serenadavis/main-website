@@ -3,12 +3,14 @@ title: "Glittering Pie (1935)"
 slug: "glittering-pie-1935"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Henry V. Miller']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *Perhaps the most infamous piece ever published in *The Advocate*’s pages was Henry V. Miller’s “Glittering Pie,” a re-titled excerpt of what would become *Aller Retour New York*. Its controversial history is recounted below in a piece that accompanied its 1965 reprinting. Remarkably, even the 1935 original included extensive self-censorship, marked by a smattering of em-dashes. Even those details left behind, however, were deemed aesthetically and morally depraved enough to incite resignations and other dramatics. For *Danger*,** we have footnoted what we presume to be the originally-intended crass words as recovered from *Aller Retour New York*. By doing so, we hope to offer a more complete historical picture of what Miller and his contemporaries considered to be risky writing.*
 

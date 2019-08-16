@@ -3,12 +3,14 @@ title: "Birds"
 slug: "birds"
 issue: "Commencement"
 year: "2012"
+date: "2012-06-01"
 authors: ['Vincent Craig Wright']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 When I was little the way the shine on the hood of a cool car blinded me made me feel like something was on its way. All I had to do was be ready. And I tried. For a long time I held fast, tightened my fists in my pockets and walked on when someone called my name.
 

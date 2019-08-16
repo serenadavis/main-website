@@ -3,12 +3,14 @@ title: "The Urban Colony"
 slug: "the-urban-colony"
 issue: "Spring"
 year: "2013"
+date: "2013-03-01"
 authors: ['Ezra Huang Stoller']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 A gallon of honey weighs about twelve pounds. In a single worker bee’s life, she will produce about one twelfth of a teaspoon of honey. Before venturing out of the hive, she will be promoted through a series of jobs. After cleaning cells, nursing the young, and producing wax, she will finally depart. The bees we often see flying alone, buzzing through flowers and trees, could easily be in the last days or hours of their lives. 
 

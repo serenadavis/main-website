@@ -3,12 +3,14 @@ title: "Three Garden Clubs"
 slug: "three-garden-clubs"
 issue: "Winter"
 year: "2017"
+date: "2017-01-01"
 authors: ['Lily Scherlis']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
                                                 *“The very word culture meant ‘place tilled’ in Middle English, and the same word goes back to Latin colere, ‘to inhabit, care for, till, worship’ and cultus, ‘A cult, espe- cially a religious one.’ To be cultural, to have a culture, is to inhabit a place sufciently intensive to cultivate it—to be responsible for it, to respond to it, to attend to it caringly,”*
 

@@ -3,12 +3,14 @@ title: "Snarking Towards Bethlehem: The Gawker Manifesto That Wasnt"
 slug: "snarking-towards-bethlehem-the-gawker-manifesto-that-wasnt"
 issue: "Winter"
 year: "2014"
+date: "2014-01-01"
 authors: ['Alexander Wells']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
     A specter is haunting the World Wide Web—the specter of smarm.   
     Or so Tom Scocca, features editor at Gawker, would have it. His bombastic opinion piece “On Smarm” took the online literary world  by storm last December, drawing not just affirming nods from fellow smarm-conspiracy theorists but replies from big names like Maureen Dowd and Malcolm Gladwell as well. (It also drew a fair number of unique page views: more than “I Can’t Stop Looking At This Weird Chinese Goat,” but less than “Two Minutes Of Nothing But Goats Yelling Like Humans,” which is fairly strong on the Gawker scale of buzz).   

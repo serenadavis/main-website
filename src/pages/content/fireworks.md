@@ -3,12 +3,14 @@ title: "Fireworks"
 slug: "fireworks"
 issue: "Fall"
 year: "2009"
+date: "2009-09-01"
 authors: ['Justin Keenan']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The funeral home clutches the side of the highway outside of town, about ten minutes past the Tastee Freez. The attendees consist mainly of Dwight, forty-two and newly aware of his own mortality, and his family—his wife, Marie, and their two children, Jordan and Luke—the preacher, whom the funeral home had called when Dwight revealed that his father hadn’t been in church since the Truman administration, and the large, black nurses who stand silently behind their lolling, wheelchair-bound VA hospital charges. An old private with a trucker’s hat covered in pins complains that he needs to go to the bathroom. His nurse tells him to hush and be respectful. He grumbles a response.
 

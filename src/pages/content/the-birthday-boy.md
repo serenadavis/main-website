@@ -3,12 +3,14 @@ title: "The Birthday Boy"
 slug: "the-birthday-boy"
 issue: "Fall"
 year: "2015"
+date: "2015-09-01"
 authors: ['Robert Kim']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Lucy hasn’t been able to get even a word in with her boyfriend Tom and she’s just about had enough, though of course the birthday boy was always going to be the center of attention, birthday aside, what with the moody indigo blazer and the black button down and bolo tie and the fake golden crown to which he’s glued a plastic eyeball where the center jewel ought to be, with his charismatic conversational virtuosity and his sizable mental library of anecdotes and his appetite for attention. Here’s a little bit about Lucy: Lucy’s got those big eyes that turn heads and inspire double-takes, eyes complexly hazel with droplets of jealous green and melancholic blue mixed in those oceanic irides; her aesthetic can best be described as carefully careless, though tonight she’s paid particular attention to the first part, strutting her stuff in her tea-length shimmering dress with a pattern like the night sky and her bold eyeliner decisions; she’s exceptionally pretty but doesn’t feel that way about herself, and because of this she’s got a complicated relationship with compliments and mirrors, to give you a sense of the girl.
 

@@ -3,12 +3,14 @@ title: "The Moth Garden"
 slug: "the-moth-garden"
 issue: "Commencement"
 year: "2014"
+date: "2014-06-01"
 authors: ['Kevin Hong']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  There was something about Peter’s clothes that attracted the moths. It was his scent, he thought. It had changed: there was some new chemical he released into the air. His most recent bedmates had com-mented on the aroma of his skin.  
  “Like Sweet Tarts,” one had said.   

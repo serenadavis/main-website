@@ -3,12 +3,14 @@ title: "Censorship with a Smile: How Play-Doh and Puppies Endanger Americas Coll
 slug: "censorship-with-a-smile-how-play-doh-and-puppies-endanger-americas-college-students"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Nico Perrino', 'Alex Morey', 'Foundation for Individual Rights in Education (FIRE)']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Against the tyranny of time and politics, imagine us the way we sometimes didn’t dare to imagine ourselves: in our most private and secret moments, in the most extraordinarily ordinary instances of life, listening to music, falling in love, walking down the shady streets or reading Lolita in Tehran. And then imagine us again with all this confiscated, driven underground, taken away from us. - Azar Nafisi, Reading Lolita in Tehran
 

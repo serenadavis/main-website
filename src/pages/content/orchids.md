@@ -3,12 +3,14 @@ title: "Orchids"
 slug: "orchids"
 issue: "Winter"
 year: "2009"
+date: "2009-01-01"
 authors: ['Carolyn Gaebler']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Laelia’s father steered her across the room. He held champagne in the kind of glass that is supposed to look like Marie Antoinette’s breast, and as he walked, the golden liquid kept sloshing over the edge. “Paul, this is my daughter, Laelia. Laelia, my colleague, Dr. Gibson.” He said. “Laelia just got into Columbia. She dances.” Laelia smiled modestly. “Dr. Gibson” – he paused for effect – “is an actor.” Her dad turned, champagne splashing, and walked away. He always introduced people well.
 

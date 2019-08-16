@@ -3,12 +3,14 @@ title: "Lagomorph"
 slug: "lagomorph"
 issue: "Spring"
 year: "2014"
+date: "2014-03-01"
 authors: ['MICHAEL THORBJ\xc3\x98RN FEEHLY']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
   
 I’m really a fan of the rabbits, of slender ears  

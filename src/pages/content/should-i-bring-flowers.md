@@ -3,12 +3,14 @@ title: "Should I Bring Flowers"
 slug: "should-i-bring-flowers"
 issue: "Spring"
 year: "2010"
+date: "2010-03-01"
 authors: ['Mark Chiusano']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 On the first day, I told Shadman that his true love left the house every morning at seven thirty three in order to empty the garbage.  She stepped gingerly over the double layer of bricks that separated the pavement from her family’s garden, in whose corner there was a trash can where she deposited the remains from last night’s meal.  Usually the plastic Key Food bag would leak grease at the bottom and have noodles hanging off the over-stretched handles.  At seven thirty seven she’d be outside again in order to lock the door and run around to the front of the house to catch the seven thirty nine bus which carried her to Kings Highway and, I presume, beyond, but I didn’t tell that part to Shadman because it wasn’t part of our promise.
 

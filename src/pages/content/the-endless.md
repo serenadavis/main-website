@@ -3,12 +3,14 @@ title: "The Endless"
 slug: "the-endless"
 issue: "Spring"
 year: "2013"
+date: "2013-03-01"
 authors: ['Mika Seifert']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

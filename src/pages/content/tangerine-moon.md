@@ -3,12 +3,14 @@ title: "Tangerine Moon"
 slug: "tangerine-moon"
 issue: "Summer"
 year: "2016"
+date: "2016-06-01"
 authors: ['Faye Yan Zhang']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  the avenue throws flat teeth at the moon:
 

@@ -3,12 +3,14 @@ title: "Asymbolia"
 slug: "asymbolia"
 issue: "Fall"
 year: "2016"
+date: "2016-09-01"
 authors: ['Margot Grenade']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 “I’ll go first,” I say.
 

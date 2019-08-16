@@ -3,12 +3,14 @@ title: "Catching Proteus"
 slug: "catching-proteus"
 issue: "Commencement"
 year: "2010"
+date: "2010-06-01"
 authors: ['Mark Chiusano']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 John Wallis sits at his desk in Oxford, England, surrounded by books and mathematical instruments. It is 1655. At the top of a piece of paper he writes the words “Proposition 190” again, hovers over the area underneath, and stops. Out of habit, he crosses the words out. At this point he stands up and sighs, looks out the window, and thinks about his simple, code-breaking youth, before Parliament “honored” him with this Professorship and Chair of Geometry—it really is a terribly drafty workspace. He wonders if these three years of blank pages could have been spent any differently.
 

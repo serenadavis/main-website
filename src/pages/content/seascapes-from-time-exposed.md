@@ -3,12 +3,14 @@ title: "seascapes from time exposed"
 slug: "seascapes-from-time-exposed"
 issue: "Commencement"
 year: "2013"
+date: "2013-06-01"
 authors: ['Zo\xc3\xab Hitzig']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 water hangs low,  
 rarely falls.  

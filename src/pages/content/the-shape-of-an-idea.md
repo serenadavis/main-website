@@ -3,12 +3,14 @@ title: "The Shape of an Idea"
 slug: "the-shape-of-an-idea"
 issue: "Spring"
 year: "2017"
+date: "2017-03-01"
 authors: ['Marty Fitz']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 In 2013, Tom Berninger released the seminal documentary *Mistaken For Strangers*: a chronicle of his brother’s rock band, The National. It was a film about a band, or, about a band of brothers, or two brothers, fighting. The film is a personal narrative about two brothers, not a band, but a banding together. 
 

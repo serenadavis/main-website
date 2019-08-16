@@ -3,12 +3,14 @@ title: "The January Tunnel"
 slug: "the-january-tunnel"
 issue: "Winter"
 year: "2014"
+date: "2014-01-01"
 authors: ['Kathryn Davis']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Excerpt from The Beast of Gévaudan, a novel  
          It suddenly started raining and the only place the Archivist could find to park his car was on the other side of campus. Rain hadn’t been predicted; the sky was clear when he left his apartment, the late spring constellations clustering brightly overhead. He couldn’t see them until he came out from under the trees, though. The Archivist’s street was lined with hawthorns, a fact he would remain ignorant of for the rest of his life, being uninterested for the most part in the living world. Like the stars, the hawthorns’ white flowers were in clusters. Everything was clear and bright, the air so sweet it made him sneeze. Where on earth was the moon? Behind something else. He was trying to locate it when the heavens opened.  

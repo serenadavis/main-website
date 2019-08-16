@@ -3,12 +3,14 @@ title: "Above Ground"
 slug: "above-ground"
 issue: "Commencement"
 year: "2011"
+date: "2011-06-01"
 authors: ['Carolyn Gaebler']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
       Aunt Sophie broke her hip tying back the peonies. There is a big vegetable garden out back, now mostly overgrown, that my great-grandmother planted with asparagus for her exacting husband during the lean years between the wars. Out front, she also trained wisteria vines up the porch and planted peony bushes at the top of the hill. Aunt Sophie felt responsible for keeping the front of the house, if nothing else, looking neat. And when the peonies bloomed in May, like they do every year, too big and heavy for their stems, she went in with a ball of twine to restrain them and tripped on a root and fell.
 

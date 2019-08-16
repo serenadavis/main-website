@@ -3,12 +3,14 @@ title: "Editor's Note: Summer 2015"
 slug: "editors-note-summer-2015"
 issue: "Summer"
 year: "2015"
+date: "2015-06-01"
 authors: ['The Advocate Editorial Board']
 section: "notes"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Summer is the most languorous season. Boundaries deliquesce and bleed into each other the way the calendar warps, slowing toward the crescendo of heat and gathering speed with crisper weather’s approach. Accordingly, the newly renamed summer issue is an envoy to be savored slowly, stretched between May and September, lounging in extended afternoons until the fireflies come out. Suitable to sinusoidal sun waves and climate-controlled cabins alike, the summer issue travels with you. Like many in the estival months, the issue indulges in self-analysis, trending towards meta-reflections on media, narrative, and representation. Columns offer: an examination of how the cultural reappearance of slavery supplants contemporary issues of race, a polemic on the commodification of women writers, and two cautionary analyses—one of our postmodern addiction to SoulCycle, the other of click-happy social media activism. 
 

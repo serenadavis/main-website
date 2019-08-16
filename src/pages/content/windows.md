@@ -3,12 +3,14 @@ title: "Windows"
 slug: "windows"
 issue: "Spring"
 year: "2016"
+date: "2016-03-01"
 authors: ['Bree Lalor']
 section: "art"
 audio: []
 main_image: ""
 banner_image: ""
 images: ['sites/default/files/LalorWindowsadvocate.jpg']
+videos: []
 ---
 Oil on canvas
 

@@ -3,12 +3,14 @@ title: "from \"The Fly-Bottle\""
 slug: "from-the-fly-bottle"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Ron Silliman']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *358° of *Universe
 

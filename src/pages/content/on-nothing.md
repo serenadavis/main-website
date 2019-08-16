@@ -3,12 +3,14 @@ title: "On Nothing"
 slug: "on-nothing"
 issue: "Winter"
 year: "2018"
+date: "2018-01-01"
 authors: ['Joanna Klink']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
   
 I wanted to know there was nothing.  

@@ -3,12 +3,14 @@ title: "And It'll Haunt You Forever"
 slug: "and-itll-haunt-you-forever"
 issue: "Summer"
 year: "2017"
+date: "2017-06-01"
 authors: ['Byung Joon Lee']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

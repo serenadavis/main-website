@@ -3,12 +3,14 @@ title: "The Cock"
 slug: "the-cock"
 issue: "Fall"
 year: "2015"
+date: "2015-09-01"
 authors: ['Sydney Bradley ']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I must not have behaved during my first go around. The half-formed sin from humanhood lingers in my gizzard, curdling like gasoline putty. Truth be told, I can’t recall that life or what I did to land myself here. Now my existences last eight weeks, and they’re coming by the thousands. For instance, yesterday I was born in Gibbon, Nebraska. I am a Nebraskan, and Hell goes by Orlin Ranch around here, or so the canvas feed bags suggest.
 

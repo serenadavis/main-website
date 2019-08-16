@@ -3,12 +3,14 @@ title: "Dollar Dollar Bill"
 slug: "dollar-dollar-bill"
 issue: "Winter"
 year: "2014"
+date: "2014-01-01"
 authors: ['Josh  Bell']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 One more Jacobean kiss  
 and you’ll wind up related to me.  

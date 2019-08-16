@@ -3,12 +3,14 @@ title: "Cypress scepters in the rocks, paint-green water..."
 slug: "cypress-scepters-in-the-rocks-paint-green-water"
 issue: "Spring"
 year: "2015"
+date: "2015-03-01"
 authors: ['Ben Blumstein']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Cypress scepters in the rocks, paint-green water 
 

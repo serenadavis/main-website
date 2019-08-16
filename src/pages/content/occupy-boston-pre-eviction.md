@@ -3,12 +3,14 @@ title: "Occupy Boston: Pre-Eviction"
 slug: "occupy-boston-pre-eviction"
 issue: "Winter"
 year: "2012"
+date: "2012-01-01"
 authors: ['Madeleine Schwartz']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  On Thursday, December 8, Mayor Menino announced that he would be evicting Occupy Boston. I heard about it  first on Twitter, where people were upset. Boston was one of the last places an Occupy settlement had not yet been forced out, and a restraining order had been protecting the site from police interference. In the newspapers, the announcement was framed as a success for Menino— finally he would be able to take action against a movement that had “tested his patience.” I got a few emails—the occupiers were demanding that as many people come as possible to support the movement. “You don’t have to get arrested,” they said.
 

@@ -3,12 +3,14 @@ title: "Two Mornings"
 slug: "two-mornings"
 issue: "Spring"
 year: "2018"
+date: "2018-03-01"
 authors: ['Nica Franklin']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
     *1*
 

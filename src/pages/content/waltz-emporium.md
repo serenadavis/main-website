@@ -3,12 +3,14 @@ title: "Waltz Emporium"
 slug: "waltz-emporium"
 issue: "Winter"
 year: "2014"
+date: "2014-01-01"
 authors: ['Adam Fitzgerald']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 That the sequelae of  
  such love has no  

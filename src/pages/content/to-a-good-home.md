@@ -3,12 +3,14 @@ title: "To A Good Home"
 slug: "to-a-good-home"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Bret Johnston']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Crimson flyers feather the mailboxes on both sides of Up River Road. There are acres of tall blue-stem grass sprawling between the houses, but the emptiness seems to have contracted with the chilled air. November in Texas. In the morning sun, the hills are ochre and rust and dry green. My husband is already at work, an hour’s drive away. My son and I have come out to scatter corn and sunflower seeds for the deer. They’re waiting in the brush, over a dozen of them, mostly whitetail doe and their fawns, but also bucks and dark, huffing Sika. Maybe Uno is with them, maybe not. When Old Man Landry drives by in his pickup, the flyers lift and fall like they’re on disturbed water. If he waves to us, I miss it.
 

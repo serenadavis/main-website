@@ -3,12 +3,14 @@ title: "Good Night"
 slug: "good-night"
 issue: "Commencement"
 year: "2012"
+date: "2012-06-01"
 authors: ['Matt Aucoin']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Walking from where
 

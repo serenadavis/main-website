@@ -3,12 +3,14 @@ title: "Just Say No"
 slug: "just-say-no"
 issue: "Commencement"
 year: "2014"
+date: "2014-06-01"
 authors: ['Paul C. Taylor']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
      I’m here to answer questions about men’s urinals, not about heroin addiction. That’s what I should have said. I should have said that, and put a ‘sir’ at the end, and then cut the call off, or referred it to my supervisor. And then I should have gone back to wait for the next blinking light on my screen to ask about replacement flushometers for our discontinued wall-hung models.   
      I could say the guy sounded really desperate and I couldn’t just do nothing, but that would make me seem like a better person than I am. Or I could say what Marla says, though not the way she says it.* A girl like you*, she says, by which she means me, *with problems like yours*, by which she means Ray,* needs someone to talk to*, by which she means someone other than her. Whatever it was, this guy called up and my screen blinked and I answered and I stayed on the line.  

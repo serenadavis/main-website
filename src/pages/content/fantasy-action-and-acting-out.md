@@ -3,12 +3,14 @@ title: "Fantasy, Action, and Acting Out"
 slug: "fantasy-action-and-acting-out"
 issue: "Spring"
 year: "2015"
+date: "2015-03-01"
 authors: ['Daniel Schwartz']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 As a child, I often fantasized about killing Hitler. Many of these fantasies involved gruesomely humiliating him—and this, more than his death, seemed to be their salient aspect. As I remember it, when I felt emotionally paralyzed—beset by an uncomprehending nausea at the magnitude and inventiveness of evil—these fantasies distracted and pacified me. Oddly, in these imaginings I never quite appeared or acted; I pictured the violent scenes in such a way that the perpetrator remained anonymous. This anonymity shielded me from the painful irony that I had unwittingly stumbled upon the same violent fantasies in myself that I detested in others. Perhaps then, the true horror stemmed not from my inability to comprehend the subterranean roots of evil but from sensing these roots in myself and grappling with the possibility that forbidden, half- conscious impulses could be acted on.
 

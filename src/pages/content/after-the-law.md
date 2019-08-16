@@ -3,12 +3,14 @@ title: "After the Law"
 slug: "after-the-law"
 issue: "Winter"
 year: "2011"
+date: "2011-01-01"
 authors: ['Sophie Duvernoy']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Joseph P. wanders through the *Salle des Pas Perdus*—the room of lost steps. People pace back and forth; it is a place to wait. Train stations, government buildings, edifices of the law: all force those who enter to surrender themselves to their own irrelevance. You must abide, they command.
 

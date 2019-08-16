@@ -58,7 +58,7 @@ export default () => (
                 <li ><Link to="/fiction">FICTION</Link></li>
                 <li ><Link to="/features">FEATURES</Link></li>
                 <li ><Link to="/poetry">POETRY</Link></li>
-                <li ><a href="{% url 'columns'%}">COLUMNS</a></li>
+                <li ><Link to="/columns">COLUMNS</Link></li>
                 <li> <a href="{% url 'blog_home'%}" >BLOG</a></li>
                 <li> <a href="https://womens.theharvardadvocate.com" >WOMEN'S ISSUE</a></li>
             </ul>

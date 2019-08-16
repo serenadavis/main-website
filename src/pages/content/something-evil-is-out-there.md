@@ -3,12 +3,14 @@ title: "Something Evil Is Out There"
 slug: "something-evil-is-out-there"
 issue: "Winter"
 year: "2018"
+date: "2018-01-01"
 authors: ['Charles Simic']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
   
 That’s what the leaves are telling us tonight.  

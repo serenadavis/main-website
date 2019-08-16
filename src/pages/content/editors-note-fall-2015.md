@@ -3,12 +3,14 @@ title: "Editor's Note: Fall 2015"
 slug: "editors-note-fall-2015"
 issue: "Fall"
 year: "2015"
+date: "2015-09-01"
 authors: ['The Advocate Editorial Board']
 section: "notes"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Fall finds The Harvard Advocate floating and spinning in good foliar form: physical injuries abound, new locks and lists are rendered irrelevant by infenestrated revelers, and those prone to suspicion let anxieties take the reigns as winter looms. Still, dizziness marks maturation, and a closer look shows our green chlorophyll acquiring elder hues of red and gold.
 

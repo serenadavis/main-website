@@ -3,12 +3,14 @@ title: "The Smut Spectrum"
 slug: "the-smut-spectrum"
 issue: "Spring"
 year: "2015"
+date: "2015-03-01"
 authors: ['Ethan Loewi ']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Aiden's porn addiction began, unsurprisingly, with porn. For the first fifteen years of his life—or really just the past three, in this context—he'd had to make do with his imagination, a few war-torn issues of *Penthouse *inherited from Uncle Rico, and a copy of Anaïs Nin's *Delta of Venus *that his parents had overlooked in their curation of the family shelves.
 

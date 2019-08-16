@@ -3,12 +3,14 @@ title: "A King and a Mistress"
 slug: "a-king-and-a-mistress"
 issue: "Commencement"
 year: "2012"
+date: "2012-06-01"
 authors: ['Victoria Baena']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The caravan was burning. What would later be called a tragedy was still, for now, just a fire.  With a flicker of orange and a tiny *pop *the paper celluloid flowers burst, sold so cheaply and aflame so easily.  These would not make it to their marketplace, the Parisian cemeteries. Django was late coming back from a gig, so his wife Florine had stayed up waiting. She distracted herself with her work.
 

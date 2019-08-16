@@ -3,12 +3,14 @@ title: "grace and dignity (self-maintenance)"
 slug: "grace-and-dignity-self-maintenance"
 issue: "Winter"
 year: "2017"
+date: "2017-01-01"
 authors: ['Lev Mamuya']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

@@ -3,12 +3,14 @@ title: "Antaeus"
 slug: "antaeus"
 issue: "Winter"
 year: "2009"
+date: "2009-01-01"
 authors: ['Marta Figlerowicz']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 At Harvard’s Houghton Library, you can examine a telegraph Marcel Proust sent to one of his friends during the Dreyfus Affair. Dozens of words, several lines, all of it one convoluted sentence forced to a halt at the bottom right margin of the blue form. All capitals, the lines typed up crookedly, it seems to shout at you with clumsy, irate long-windedness: the perfect parody and the perfect antithesis of Proust’s easily ignited, well-worded sensitivity. A draft of Thomas Hardy’s Two on a Tower scribbled in a rapid, nervous hand, then overwritten with corrections. On one of the first pages, Hardy describes the novel’s eponymous tower. In the initial draft, the tower affords the protagonist a glorious view of five neighboring counties. Looking closer, we note that the first half-line has been crossed out in reconsideration—the number five replaced by a more modest three. In another one of Houghton’s indigo carrier boxes are several notebooks of drafts and sketches by E. E. Cummings, replete with joyous doodles and happy faces. 
 

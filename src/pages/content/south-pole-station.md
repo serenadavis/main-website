@@ -3,12 +3,14 @@ title: "South Pole Station"
 slug: "south-pole-station"
 issue: "Winter"
 year: "2009"
+date: "2009-01-01"
 authors: ['Abram Kaplan']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
         “There is no darkness  
 behind the sun” you say, you who have not  

@@ -3,12 +3,14 @@ title: "Burning Wheat"
 slug: "burning-wheat"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Perhat Tursun']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I am that comet you all have cursed,
 

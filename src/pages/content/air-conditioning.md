@@ -3,12 +3,14 @@ title: "Air Conditioning"
 slug: "air-conditioning"
 issue: "Winter"
 year: "2012"
+date: "2012-01-01"
 authors: ['Mark Chiusano']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 For a while there was only one air-conditioner in our house. It was in the living room, and we put it on during birthdays or the fourth of July. It covered the heat in the kitchen from my mother burning things, like the half-sausages, the hot ones, which had a black crust on the bottom from where they were touching the pan for too long.
 

@@ -3,12 +3,14 @@ title: "As Good As Real"
 slug: "as-good-as-real"
 issue: "Summer"
 year: "2016"
+date: "2016-06-01"
 authors: ['Fan Li']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Lintong is about twenty miles from Xi’an and my father lives six miles outside the town. Out here in the country the farmers wear no watches. Seeing them estimate the hour with their noses in the air, you might think time were a scent spread across the day.
 

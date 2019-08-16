@@ -3,12 +3,14 @@ title: "A Man Dispatched"
 slug: "a-man-dispatched"
 issue: "Winter"
 year: "2011"
+date: "2011-01-01"
 authors: ['Jessica Sequeira']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Even the contemplative life is only an effort, Nora my dear, to hide the body so the feet won’t stick out.
 

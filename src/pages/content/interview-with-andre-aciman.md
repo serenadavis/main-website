@@ -3,12 +3,14 @@ title: "Interview with Andre Aciman"
 slug: "interview-with-andre-aciman"
 issue: "Commencement"
 year: "2013"
+date: "2013-06-01"
 authors: ['Harvard Advocate Staff']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *In his new novel, *Harvard Square*, André Aciman revisits the place he called home as a Harvard Ph.D. student in the 1970s and ‘80s. On April 26, 2013, during one of his physical returns to the Square, *The Harvard Advocate’s* fiction editor emeritus, Patrick Lauppe, sat down with Aciman for an original interview. An Egyptian-American memoirist and novelist, Aciman has written numerous works of fiction and nonfiction, including *Out of Egypt, Call Me by Your Name, and Eight White Nights*. His most recent novel, *Harvard Square*, was released in April. Here is the transcript of *The Harvard Advocate’s* conversation with him:*
 

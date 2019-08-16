@@ -3,12 +3,14 @@ title: "Real Person"
 slug: "real-person"
 issue: "Spring"
 year: "2019"
+date: "2019-03-01"
 authors: ['Katherine Liu']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I met Qiuhai on a fall day in a harbor city—a manner fitting for her name, although I wouldn’t have said this out loud. Names were flexible and wishful like that. You could create a beautiful memory out of any name. For Qiuhai, I chose to preserve where we met and the conditions of it: how our small classroom was framed by a specific time in the year and, further away where we couldn’t notice it, the sea. 
 

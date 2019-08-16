@@ -3,12 +3,14 @@ title: "Winter Sketch"
 slug: "winter-sketch"
 issue: "Commencement"
 year: "2012"
+date: "2012-06-01"
 authors: ['Erik Fredericksen']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Leaf carried
 

@@ -3,12 +3,14 @@ title: "One Left Clog"
 slug: "one-left-clog"
 issue: "Winter"
 year: "2018"
+date: "2018-01-01"
 authors: ['Isa Flores-Jones']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 By the time you realize the shoe is gone, the party is over and there’s no sign of the three-legged man. Your friends are falling or leaning into one another, zipping their coats under the red-purple light of the borrowed projector. The pile of shoes is a shrinking hillock next to the bed. People pull on boots, tie up laces. *Mine, yours, mine, yours. Mine? *Walking home through the snow you pass a taco place and women in tiny dresses pulling on enormous puffy coats. Recruitment season or a party. Two people kissing next to a fancy tea shop. Cold.
 

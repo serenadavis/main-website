@@ -3,12 +3,14 @@ title: "Atonement"
 slug: "atonement"
 issue: "Commencement"
 year: "2010"
+date: "2010-06-01"
 authors: ['Loren Galler Rabinowitz']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 And this is how we seek atonement. From its plastic chrysalis we unfurled
 

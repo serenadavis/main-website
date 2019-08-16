@@ -3,12 +3,14 @@ title: "24 Trials"
 slug: "24-trials"
 issue: "Winter"
 year: "2014"
+date: "2014-01-01"
 authors: ['Warner James Wood']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *The incident reported below took place on July 1, 2011, at 11:41 p.m. In Blue Ridge, GA. Jim Callihan has been indicted with charges of vehicular homicide, among others. His trial is set for spring 2014. Names have been redacted out of sensitivity to the family.*
 

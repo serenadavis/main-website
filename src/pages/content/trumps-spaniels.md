@@ -3,12 +3,14 @@ title: "Trump's Spaniels"
 slug: "trumps-spaniels"
 issue: "Summer"
 year: "2016"
+date: "2016-06-01"
 authors: ['David Kurlander']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 ** ****I.**        **HALF MOON BAY: 2016**
 

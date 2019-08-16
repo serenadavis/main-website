@@ -3,12 +3,14 @@ title: "The Wit and Wisdom of Donald Hall (1966)"
 slug: "the-wit-and-wisdom-of-donald-hall-1966"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Donald Hall']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 REPRINTED FROM 1966 ISSUE
 

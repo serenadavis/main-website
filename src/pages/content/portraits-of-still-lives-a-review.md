@@ -3,12 +3,14 @@ title: "Portraits of Still Lives: A Review"
 slug: "portraits-of-still-lives-a-review"
 issue: "Fall"
 year: "2013"
+date: "2013-09-01"
 authors: ['Liza Batkin']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
     In J.D. Salinger’s *Catcher in the Rye*, Manhattan serves as a catalyst for Holden Caulfield’s maturation. In Sylvia Plath’s *The Bell Jar*, literary ambition joins forces with New York in the development (and descent) of Esther Greenwood. In Marjane Satrapi’s *Persepolis*, assimilation into a Western culture independent from her parents’ Iran is essential to Marji’s self-realization.
 

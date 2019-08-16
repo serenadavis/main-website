@@ -3,12 +3,14 @@ title: "10,000 Chairs of Harvard"
 slug: "10000-chairs-of-harvard"
 issue: "Winter"
 year: "2013"
+date: "2013-01-01"
 authors: ['D.T. Max']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *This story was originally written for a national magazine at the turn of the century but never printed. In the intervening fifteen years, regrettably if inevitably, some of the participants have died, elders being the repository of communal memory. I have made no note of this fact, nor of any other events of the past decade and a half. The article is printed here, all but unchanged, a sort of literary bogman—or like the Advocate itself.*  
 – D.T. Max ’83

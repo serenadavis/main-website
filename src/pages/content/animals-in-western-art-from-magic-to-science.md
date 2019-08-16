@@ -3,12 +3,14 @@ title: "Animals in Western Art: From Magic to Science "
 slug: "animals-in-western-art-from-magic-to-science"
 issue: "Winter"
 year: "2010"
+date: "2010-01-01"
 authors: ['Bruce Boucher']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Adam was given dominion over all animals in the *Book of Genesis*, but there was a sting in the tail – the serpent’s tail. While animals provided food, work, and companionship, they also harbored other traits, which threatened danger in the form of wild beasts or evil as in the snake-like form assumed by the devil in the Garden of Eden. In art, animals figure among the earliest known representations: the painted bison in the caves of Lascaux, or a coyote head fashioned from the pelvis bone of an extinct species of llama in Mexico, or the earliest Egyptian stele with their processions of falcons and other beasts.  A common feature of these earliest representations was a combination of direct observation and magical invocation; with cave paintings, in particular, the undulations of the rock form were employed by the artists to mimic the contours of the bodies of animals, and the carver of the coyote head must have seemed possessed with supernatural gifts to his or her contemporaries.
 

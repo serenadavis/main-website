@@ -3,12 +3,14 @@ title: "CCVA Theater #156"
 slug: "ccva-theater-156"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['Matt Saunders']
 section: "art"
 audio: []
 main_image: ""
 banner_image: ""
 images: ['sites/default/files/CCVATheater0156.jpg']
+videos: []
 ---
 2013  
 Unique silver gelatin print on fiber-paper  

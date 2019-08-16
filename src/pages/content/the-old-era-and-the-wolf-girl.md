@@ -3,12 +3,14 @@ title: "The Old Era and the Wolf Girl"
 slug: "the-old-era-and-the-wolf-girl"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Abduw\xc3\xa9li Ershidin Bozlan']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 You secretly try to howl my heart,
 

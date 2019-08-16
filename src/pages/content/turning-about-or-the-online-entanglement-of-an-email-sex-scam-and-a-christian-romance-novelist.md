@@ -3,12 +3,14 @@ title: "Turning About: or the online entanglement of an email sex scam and a Chr
 slug: "turning-about-or-the-online-entanglement-of-an-email-sex-scam-and-a-christian-romance-novelist"
 issue: "Summer"
 year: "2017"
+date: "2017-06-01"
 authors: ['Tarpley Hitt']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 There are enough uncertainties here that to do anything other than face them head on would be, at worst, disingenuous and at best, cowardly. This could all be hearsay, sort of. The leveling of voices brought on by the Internet has made it possible to peer across the room and eavesdrop on a conversation between strangers –– only the room is much bigger, and it may turn out that the strangers are estranged even to each other; they may not even know they are talking. This story follows one of those conversations, albeit a conversation in the most literal sense, as in the word’s latinate root, derived from the verb *conversari* meaning “to live with, to keep company with,” or literally, “turn about with.” This could be hearsay in the sense that it is my account of how two distant stories came to turn about with each other in the far reaches of the web, and that there is little other than the turning in question to go off of. 
 

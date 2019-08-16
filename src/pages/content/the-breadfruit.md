@@ -3,12 +3,14 @@ title: "The Breadfruit"
 slug: "the-breadfruit"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['Jamaica Kincaid']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 1.
 

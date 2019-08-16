@@ -3,12 +3,14 @@ title: "The Writer"
 slug: "the-writer"
 issue: "Winter"
 year: "2013"
+date: "2013-01-01"
 authors: ['Ben Loory']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

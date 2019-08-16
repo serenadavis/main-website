@@ -3,12 +3,14 @@ title: "Meme Politics"
 slug: "meme-politics"
 issue: "Winter"
 year: "2017"
+date: "2017-01-01"
 authors: ['Matthew Browne']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
    If the six-second video gives any indication, it’s a handsome July day in Cedar Rapids. It’s 2015 and it’s caucus season in Iowa, the polls still 7 months away from opening. Amidst the robocalls and canvassers, the politicians are here—in the flesh!— rubbing shoulders with the Hawkeyes. The Clinton campaign has stopped along the banks of the Iowa River. Somebody brandishes a phone. Who knows who it is, really. I imagine a dutiful young staffer, but maybe it’s HRC herself. Surely there’s a digital marketing team, social media specialists, an oblique hierarchy. Nevertheless, the impulse is clear: handsome moments in Iowa don’t go unseen. Not now. 
 

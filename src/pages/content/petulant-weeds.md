@@ -3,12 +3,14 @@ title: "Petulant Weeds"
 slug: "petulant-weeds"
 issue: "Summer"
 year: "2017"
+date: "2017-06-01"
 authors: ['Major Jackson']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Look at the sad people barely putting up
 

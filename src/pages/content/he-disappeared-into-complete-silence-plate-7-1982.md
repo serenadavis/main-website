@@ -3,12 +3,14 @@ title: "He Disappeared into Complete Silence, Plate 7 (1982)"
 slug: "he-disappeared-into-complete-silence-plate-7-1982"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Louise Bourgeois']
 section: "art"
 audio: []
 main_image: ""
 banner_image: ""
 images: ['sites/default/files/bourgeoisplate3.png']
+videos: []
 ---
 EXCERPTED FROM 1982 SUMMER ISSUE
 

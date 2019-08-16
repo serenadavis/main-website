@@ -3,12 +3,14 @@ title: "Against New Feminism"
 slug: "against-new-feminism"
 issue: "Winter"
 year: "2014"
+date: "2014-01-01"
 authors: ['Indiana Seresin']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
     Last September, the McNally Jackson bookstore in SoHo, New York, hosted an event to celebrate the publication of the critical edition of Chris Kraus’s *Aliens and Anorexia*. The event was called “Alien Insurrection: An Evening with Chris Kraus, Emily Gould, Ariana Reines, Kate Zambreno, and Others,” and Kraus and seven other women were to give readings of the book and discuss “new feminism,” which I had never heard of. The venue was packed, the whole bottom ­floor of the bookstore over­flowing with women: women wearing all black, women with notebooks, women with their hair heaped on top of their heads in the turn-of-the-century Gibson Girl style popular in the lit world. It was clearly an event that both the audience and the panel of readers had dressed up for, and everyone was eyeing each other up and down, unused, I think, to seeing so many other literary women in a room, uninterrupted by the presence of men.
 

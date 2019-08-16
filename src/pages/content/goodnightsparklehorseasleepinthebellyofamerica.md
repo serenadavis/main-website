@@ -3,12 +3,14 @@ title: "Goodnightsparklehorseasleepinthebellyofamerica"
 slug: "goodnightsparklehorseasleepinthebellyofamerica"
 issue: "Spring"
 year: "2010"
+date: "2010-03-01"
 authors: ['David Rice']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 In 1996, while on tour with Radiohead, Virginia-born singer Mark Linkous, leader and often sole member of the band Sparklehorse, all but died in his hotel room after a massive overdose. He lay for several weeks in a hospital bed, undergoing operations to save what was left of him. *Blanket … me, sweet nurse … and help me keep from burning*, he sings, in *Saint Mary*. The song, like all of Sparklehorse’s masterpieces, lingers in this hospital bed, the supreme dark place, a cradle of dreaming where he somehow touches death from both sides at once. Indeed, this simultaneous dimming and brightening of consciousness defines Sparklehorse’s musical universe.
 

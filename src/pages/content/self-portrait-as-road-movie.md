@@ -3,12 +3,14 @@ title: "Self Portrait as Road Movie"
 slug: "self-portrait-as-road-movie"
 issue: "Summer"
 year: "2018"
+date: "2018-06-01"
 authors: ['Chase Ferree']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
   
  Given my hero worship  

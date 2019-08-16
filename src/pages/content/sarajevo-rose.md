@@ -3,12 +3,14 @@ title: "Sarajevo Rose"
 slug: "sarajevo-rose"
 issue: "Spring"
 year: "2011"
+date: "2011-03-01"
 authors: ['Spencer Burke']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The call to prayer sounds more mournful in Sarajevo than in Istanbul or Beirut. Walking through the old city—a disorder of cobbled lanes, Moorish architecture, and bazaars spilling over with hammered copper pots, communist kitsch, and bright wool Bosnian kilims—the call of the muezzin comes softly at first. A single cry drifts in from the distance, then is joined by another, and another, lapping over each other, building to an eerie harmony, a song sung in round. 
 

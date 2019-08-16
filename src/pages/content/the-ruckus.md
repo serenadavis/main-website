@@ -3,12 +3,14 @@ title: "The Ruckus"
 slug: "the-ruckus"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Christine Legros']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *Quiero que mires por la ventana y me digas lo que veas,*
 

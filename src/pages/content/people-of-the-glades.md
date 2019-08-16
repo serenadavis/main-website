@@ -3,12 +3,14 @@ title: "People of the Glades"
 slug: "people-of-the-glades"
 issue: "Winter"
 year: "2010"
+date: "2010-01-01"
 authors: ['Rachael Goldberg']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *Save every bit of thread.*  
  *Have you a little chest to put the Alive in?* ****  

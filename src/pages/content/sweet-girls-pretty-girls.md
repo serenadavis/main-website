@@ -3,12 +3,14 @@ title: "Sweet Girls, Pretty Girls"
 slug: "sweet-girls-pretty-girls"
 issue: "Summer"
 year: "2017"
+date: "2017-06-01"
 authors: ['Sabrina Helen Li']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

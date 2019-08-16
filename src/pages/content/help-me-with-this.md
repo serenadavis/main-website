@@ -3,12 +3,14 @@ title: "Help Me With This"
 slug: "help-me-with-this"
 issue: "Winter"
 year: "2014"
+date: "2014-01-01"
 authors: ['Vincent Craig Wright']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Dante’s dad describes everything gone wrong in terms of what’s happened to Aerosmith. He’ll take it back to RunDMC and Walk this Way. 
 

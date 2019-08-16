@@ -3,12 +3,14 @@ title: "Weeknight News Reports"
 slug: "weeknight-news-reports"
 issue: "Spring"
 year: "2016"
+date: "2016-03-01"
 authors: ['Owen Ojo']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 We’ve climbed up on the roof before,
 

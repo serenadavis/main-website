@@ -3,12 +3,14 @@ title: "Ascent"
 slug: "ascent"
 issue: "Fall"
 year: "2017"
+date: "2017-09-01"
 authors: ['Devon Walker-Figueroa']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Down by the creek
 

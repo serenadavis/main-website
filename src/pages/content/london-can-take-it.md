@@ -3,12 +3,14 @@ title: "London Can Take It!"
 slug: "london-can-take-it"
 issue: "Commencement"
 year: "2013"
+date: "2013-06-01"
 authors: ['Indiana Seresin']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *“I can assure you, there is no panic, no fear, no despair in London town.”  
 **                            **London Can Take It!*, 1940

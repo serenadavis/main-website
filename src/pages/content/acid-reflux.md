@@ -3,12 +3,14 @@ title: "ACID REFLUX"
 slug: "acid-reflux"
 issue: "Fall"
 year: "2018"
+date: "2018-09-01"
 authors: ['Letitia Chan']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The way my doctor goes about it  
 seems to allude that anything is a well  

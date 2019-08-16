@@ -3,12 +3,14 @@ title: "COLD THROW"
 slug: "cold-throw"
 issue: "Fall"
 year: "2018"
+date: "2018-09-01"
 authors: ['Letitia Chan']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I can come but still I cannot meditate.  
 Before these months, when I saw a bathtub,  

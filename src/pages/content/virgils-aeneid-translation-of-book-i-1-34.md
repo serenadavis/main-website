@@ -3,12 +3,14 @@ title: "Virgil's Aeneid Translation of Book I. 1-34"
 slug: "virgils-aeneid-translation-of-book-i-1-34"
 issue: "Winter"
 year: "2013"
+date: "2013-01-01"
 authors: ['David Ferry']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I sing of arms and the man whom fate had sent  
 To exile from the shores of Troy to be  

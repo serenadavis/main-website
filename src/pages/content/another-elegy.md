@@ -3,12 +3,14 @@ title: "Another Elegy "
 slug: "another-elegy"
 issue: "Spring"
 year: "2017"
+date: "2017-03-01"
 authors: ["Geoffrey G. O'Brien"]
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I tried, you know, I wanted to,
 

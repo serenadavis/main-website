@@ -3,12 +3,14 @@ title: "The Piano Lesson"
 slug: "the-piano-lesson"
 issue: "Spring"
 year: "2012"
+date: "2012-03-01"
 authors: ['Matt Aucoin']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
             after Henri Matisse
 

@@ -3,12 +3,14 @@ title: "Noon"
 slug: "noon"
 issue: "Winter"
 year: "2018"
+date: "2018-01-01"
 authors: ['Samuel']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 1.
 

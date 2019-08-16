@@ -3,12 +3,14 @@ title: "The Motto and the Millennial "
 slug: "the-motto-and-the-millennial"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Colton Valentine', 'Kiara Barrow']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The reputation of today’s college students has, by now, been raked through the mud in the pages of most of America’s prominent publications. We’re coddled, spoiled, out of touch, addled by an overdose of political correctness, desiring nothing other than to be swathed in comfort, shielded from anything our social-media fueled, reactionary hysteria might deem “unsafe.” Heralding the death of both free speech and American excellence, pundits and writers of op-eds have sounded the alarm on what they see as a veritable epidemic; the prognosis is dim. 
 

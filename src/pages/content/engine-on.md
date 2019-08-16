@@ -3,12 +3,14 @@ title: "Engine On."
 slug: "engine-on"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['D. A. Powell']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I had a blow-up raft I used to ride. Down to the summer sea. Dolphins swam beside. Twice saved someone from drowning.
 

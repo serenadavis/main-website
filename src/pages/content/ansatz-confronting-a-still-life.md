@@ -3,12 +3,14 @@ title: "Ansatz: Confronting a Still Life"
 slug: "ansatz-confronting-a-still-life"
 issue: "Spring"
 year: "2014"
+date: "2014-03-01"
 authors: ['Zo\xc3\xab Hitzig']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I. 
 

@@ -3,12 +3,14 @@ title: "Routine Car Stop"
 slug: "routine-car-stop"
 issue: "Winter"
 year: "2014"
+date: "2014-01-01"
 authors: ['Mark Chiusano']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
            Officers Nebsky and Hallahan retrieved the money during a routine car stop, down Ocean Parkway coming off the Belt, heading west towards Coney Island. The car had been going 70 miles per hour at the end of the avenue, running three red lights. They had been nearly off-duty—they were already on their way back to the precinct—Officer Hallahan had never been in this situation before, and he did what Officer Nebsky told him. The money was in a black garbage bag in the trunk of the car. The driver, a lean man about 6 foot one, 6 foot two, from what they could estimate when he folded out of the car, was cool and collected, even when they asked to see license and registration, even when they asked if he minded if they took a look in his trunk. His name was Paulson Denihew, and he was, in fact, 6 foot four, according to his license. While Officer Nebsky ran Denihew’s license back in their squad car, Denihew asked Officer Hallahan if he might take off his suit jacket, though it was winter, the end of a day of cold sun. Officer Hallahan obliged this request, and Denihew carefully removed his jacket, revealing a perfectly pressed white dress shirt underneath it, the pearly textured kind that Officer Hallahan knew must have cost at least 400 or 500 dollars—he had uncles who worked on Wall Street. Denihew folded the jacket over his wrist and he and Officer Hallahan waited for Officer Nebsky.  
             If Officer Hallahan had to estimate, he’d think that there must have been 200,000 dollars in the garbage bag. The man Denihew didn’t ask any questions, and when Officer Nebsky didn’t return the bag, he got in his car and continued on his way. Officer Hallahan watched him run a yellow light on Neptune Avenue. The money was wrapped first in Ziploc bags and then a clear plastic one like maybe you put leaves in on an autumn afternoon; and then the garbage bag, angry and drab.  

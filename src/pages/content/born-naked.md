@@ -3,12 +3,14 @@ title: "Born Naked"
 slug: "born-naked"
 issue: "Spring"
 year: "2009"
+date: "2009-03-01"
 authors: ['Allison Keeley']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

@@ -3,12 +3,14 @@ title: "Saturation"
 slug: "saturation"
 issue: "Commencement"
 year: "2009"
+date: "2009-06-01"
 authors: ['Dwight Livingstone Curtis']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Two men, both shirtless, each holding an axe, and one, a gnarled saw, waded through waist-deep water toward a two-story house that emerged, strained, heavy with each waterlogged board and each rusted nail that pinned it together, from the soggy earth.  When they reached the doorway of the house, the first man laid his hand flat against the front door.  With effort, he pressed against the damp wood, and from the exposed upper hinge a shriek, the spoiled union of iron and air, echoed shrilly down an empty street, piercing the soft surfaces of damp wood and bouncing freely off the dark, swirling surface of the river. 
 

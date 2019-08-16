@@ -3,12 +3,14 @@ title: "In Defense of Oneself"
 slug: "in-defense-of-oneself"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Kate Massinger']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I stood in the backyard in Berkeley (behind the tree, next to Marion’s easel and paints) and flicked off the little red safety. 
 

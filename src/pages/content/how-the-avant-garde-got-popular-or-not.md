@@ -3,12 +3,14 @@ title: "How the Avant-Garde Got Popular (or Not)"
 slug: "how-the-avant-garde-got-popular-or-not"
 issue: "Commencement"
 year: "2009"
+date: "2009-06-01"
 authors: ['Richard Beck']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 In 1930, after receiving dozens of letters complaining about their “ultra-modern” radio broadcasts, the British Broadcasting Company published a set of listening instructions in *Radio Times*:
 

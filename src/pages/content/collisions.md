@@ -3,12 +3,14 @@ title: "Collisions"
 slug: "collisions"
 issue: "Spring"
 year: "2013"
+date: "2013-03-01"
 authors: ['My Ngoc To']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I.
 

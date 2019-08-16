@@ -3,12 +3,14 @@ title: "The Sea Beyond This World [translated]"
 slug: "the-sea-beyond-this-world-translated"
 issue: "Winter"
 year: "2011"
+date: "2011-01-01"
 authors: ['Kiwao Nomura']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *translated by Kyoko Yoshida and Forrest Gander*
 

@@ -3,12 +3,14 @@ title: "Arms"
 slug: "arms"
 issue: "Fall"
 year: "2011"
+date: "2011-09-01"
 authors: ['Molly Dektar']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 When my son had both his arms amputated, he was less anxious about the recovery and more anxious that people wouldn’t like him. 
 

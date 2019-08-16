@@ -3,12 +3,14 @@ title: "The One About Us"
 slug: "the-one-about-us"
 issue: "Spring"
 year: "2009"
+date: "2009-03-01"
 authors: ['Kathleen Hale']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The cutlery disappeared on Monday.  I was getting my breakfast ready the same way I always do it.  Bowl, Raisin Bran, whole milk, spoon.  But when the spoon part came, there weren’t any.  No forks or knives either.  Not in the drawers and not even in the dishwasher, and there’s *always *stuff in the dishwasher.  
 

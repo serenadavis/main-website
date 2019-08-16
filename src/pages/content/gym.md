@@ -3,12 +3,14 @@ title: "Gym"
 slug: "gym"
 issue: "Winter"
 year: "2017"
+date: "2017-01-01"
 authors: ['Michael Homolka']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *after Robert Pinsky and Heather Christle*
 

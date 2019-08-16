@@ -3,12 +3,14 @@ title: "No breath left to dissemble"
 slug: "no-breath-left-to-dissemble"
 issue: "Commencement"
 year: "2013"
+date: "2013-06-01"
 authors: ['Zo\xc3\xab Hitzig']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

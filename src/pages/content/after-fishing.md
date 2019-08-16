@@ -3,12 +3,14 @@ title: "After Fishing"
 slug: "after-fishing"
 issue: "Winter"
 year: "2017"
+date: "2017-01-01"
 authors: ['Tyler Richard']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
   Then take the hard right where blue river reeds
 

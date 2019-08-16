@@ -3,12 +3,14 @@ title: "Season's Greetings from the Moon"
 slug: "seasons-greetings-from-the-moon"
 issue: "Spring"
 year: "2016"
+date: "2016-03-01"
 authors: ['Sam Reynolds']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
             Dad has been dead for at least fifteen minutes, and all I have done during this time is sit on the other side of the room from his chilling corpse, repeating to myself, at least with him gone, no one can call me Junior. Excuse the vanity, but pain brings out the worst in me, like the pulsating acne I can already feel swelling around my lips. As a child I often tumbled unexpectedly, leaving my thin body covered in bruises, with magenta pimples to arrive within minutes of the accident. While I have less experience with direct emotional pain, I can only assume that in trying moments of the heart, my skin will blossom as expected.
 

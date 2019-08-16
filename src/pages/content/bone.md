@@ -3,12 +3,14 @@ title: "Bone"
 slug: "bone"
 issue: "Winter"
 year: "2017"
+date: "2017-01-01"
 authors: ['Tung-Hui Hu']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
   Not a solid thing, like steel or a rock.
 

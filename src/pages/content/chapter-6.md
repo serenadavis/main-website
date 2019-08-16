@@ -3,12 +3,14 @@ title: "Chapter 6"
 slug: "chapter-6"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Alyssa Moore']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 **1** The resistance dissolved: **2** salt in the wound was found suitable **3** to augment
 

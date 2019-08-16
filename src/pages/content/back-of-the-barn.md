@@ -3,12 +3,14 @@ title: "Back of the Barn"
 slug: "back-of-the-barn"
 issue: "Summer"
 year: "2015"
+date: "2015-06-01"
 authors: ['Bailey Trela']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 At the time my father was living in a barn. Granted, it was a nice barn, squat and rectangular, red with a gambrel roof, and to be perfectly honest he lived in an annex off the barn’s tail end. A cozy room, heated in the winter by an iron stove, it had a couch, a desk, a few makeshift bookshelves, even a small television set that he rarely watched. He slept there alone; I don’t know how he spent his mornings.
 

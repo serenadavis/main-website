@@ -3,12 +3,14 @@ title: "Ellen's Gift "
 slug: "ellens-gift"
 issue: "Winter"
 year: "2013"
+date: "2013-01-01"
 authors: ['Iris H\xc3\xa4ussler']
 section: "art"
 audio: []
 main_image: ""
 banner_image: ""
 images: ['sites/default/files/ART_Wtr12_Haussler.jpg']
+videos: []
 ---
  
 

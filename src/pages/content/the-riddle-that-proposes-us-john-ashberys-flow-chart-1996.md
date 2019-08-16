@@ -3,12 +3,14 @@ title: "The Riddle That Proposes Us: John Ashbery's Flow Chart (1996)"
 slug: "the-riddle-that-proposes-us-john-ashberys-flow-chart-1996"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Benjamin Kunkel']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 REPRINTED FROM 1996 COMMENCEMENT ISSUE
 

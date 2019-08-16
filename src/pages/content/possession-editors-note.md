@@ -3,12 +3,14 @@ title: "Possession: Editor's Note"
 slug: "possession-editors-note"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['Julian Lucas']
 section: "notes"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
    *Learned Men give it as a most certain sign of Possession, when the afflicted Party can see and hear that which no one else can discern any thing of, and when they can discover secret things, past or future. *
 

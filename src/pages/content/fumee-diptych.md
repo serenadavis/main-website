@@ -3,12 +3,14 @@ title: "Fumee (Diptych)"
 slug: "fumee-diptych"
 issue: "Spring"
 year: "2016"
+date: "2016-03-01"
 authors: ['Annette Lemieux']
 section: "art"
 audio: []
 main_image: ""
 banner_image: ""
 images: ['sites/default/files/06LemieuxFume.png']
+videos: []
 ---
 Self-portrait of the artist
 

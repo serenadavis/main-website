@@ -3,12 +3,14 @@ title: "Down by the Piraeus"
 slug: "down-by-the-piraeus"
 issue: "Fall"
 year: "2009"
+date: "2009-09-01"
 authors: ['Mark Chiusano']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

@@ -3,12 +3,14 @@ title: "The Sound Collectors"
 slug: "the-sound-collectors"
 issue: "Spring"
 year: "2010"
+date: "2010-03-01"
 authors: ['Ben Cosgrove']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 There’s a great photograph from around 1972 of Bruce Davis and Peter Huse recording the sound of gravel. Davis is walking methodically back and forth over a mess of the stuff, while Huse captures the moment with what looks like a cumbersome array of sound equipment. Both men look deadly serious about their work.
 

@@ -3,12 +3,14 @@ title: "The Last Woman on Earth"
 slug: "the-last-woman-on-earth"
 issue: "Spring"
 year: "2019"
+date: "2019-03-01"
 authors: ['Kate Folk']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The Last Woman on Earth lives in Los Angeles. She’s single and in her thirties, five foot seven, 145 pounds, a Virgo. She is the world’s most famous celebrity. Her talk show has the largest viewership of any TV program, with higher ratings than the Super Bowl and reruns of old Miss Universe pageants. The Last Woman on Earth is not particularly talented or charismatic. She blinks a lot and garbles her own script from the teleprompter. Prior to the annihilation of every other woman on Earth, the Last Woman lived in Ohio and taught preschool. She didn’t ask to be the Last Woman on Earth, but she’s doing the best she can.
 

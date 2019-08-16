@@ -3,12 +3,14 @@ title: "Interview with Martin Amis"
 slug: "interview-with-martin-amis"
 issue: "Winter"
 year: "2013"
+date: "2013-01-01"
 authors: ['Harvard Advocate Staff']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

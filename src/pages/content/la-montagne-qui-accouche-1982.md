@@ -3,12 +3,14 @@ title: "La Montagne qui accouche (1982)"
 slug: "la-montagne-qui-accouche-1982"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Jean de La Fontaine']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 REPRINTED FROM THE 1982 SUMMER ISSUE
 

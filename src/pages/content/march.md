@@ -3,12 +3,14 @@ title: "March"
 slug: "march"
 issue: "Commencement"
 year: "2011"
+date: "2011-06-01"
 authors: ['Charlotte Lieberman']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 How many steps does it take
 

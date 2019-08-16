@@ -3,12 +3,14 @@ title: "Bodies In Space"
 slug: "bodies-in-space"
 issue: "Fall"
 year: "2015"
+date: "2015-09-01"
 authors: ['Maia Silber']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Ruby Rae Spiegel’s Dry Land takes place almost entirely in an empty locker-room. Two high school athletes named Amy and Ester straddle and stand on its benches, spread and sprawl on its floor, leaving Gatorade bottles and Hostess wrappers in their wake. They discuss menstruation and athlete’s foot, imagining their blood leaking out of their swimsuits and their skin flaking on the floor. When Amy takes a pill to induce labor, Ester asks her what she will do with the “thing,” and Amy, panicking, suggests that she puts it in a locker.
 

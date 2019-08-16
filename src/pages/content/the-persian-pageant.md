@@ -3,12 +3,14 @@ title: "The Persian Pageant"
 slug: "the-persian-pageant"
 issue: "Winter"
 year: "2012"
+date: "2012-01-01"
 authors: ['Spencer Burke']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Shiraz, 1971
 

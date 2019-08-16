@@ -3,12 +3,14 @@ title: "Meet Your Grandparents"
 slug: "meet-your-grandparents"
 issue: "Spring"
 year: "2016"
+date: "2016-03-01"
 authors: ['Sam Reynolds']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *The poor thing stands there vainly,*
 

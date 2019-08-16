@@ -3,12 +3,14 @@ title: "The Conveyance"
 slug: "the-conveyance"
 issue: "Winter"
 year: "2018"
+date: "2018-01-01"
 authors: ['Javier Arango']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 “All is for the best in the best of possible worlds”
 

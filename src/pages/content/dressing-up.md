@@ -3,12 +3,14 @@ title: "Dressing Up"
 slug: "dressing-up"
 issue: "Winter"
 year: "2011"
+date: "2011-01-01"
 authors: ['Emily Chertoff']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The Harvard Film Archive began this month with a three-day screening of the movies of Kenneth Anger. Anger, who grew up twenty minutes outside Hollywood in Santa Monica, California, is considered one of the fathers of American avant-garde film: David Lynch and Martin Scorsese count him as an antecedent. The first two days of screenings were devoted to Anger’s Magick Lantern Cycle, a nine-film series of thematically linked works that film critics tend to group together. All of them in some way concern the production of myth and mystery in Hollywood and elsewhere—the “magic lantern,” of course, being both the film projector and an object of the sort that might be used in a cultic ritual, with more than a whiff of the esoteric about it. (To call it a “magick lantern” both reinforces a connection to the occult and adds a touch of Anger’s characteristic camp.)
 

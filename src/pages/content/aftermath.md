@@ -3,12 +3,14 @@ title: "Aftermath"
 slug: "aftermath"
 issue: "Spring"
 year: "2008"
+date: "2008-03-01"
 authors: ['Amelia Klein']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 1.   
 Not understanding   

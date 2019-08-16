@@ -3,12 +3,14 @@ title: "Locus"
 slug: "locus"
 issue: "Spring"
 year: "2011"
+date: "2011-03-01"
 authors: ['Justin Wymer']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 This collection of torches convulsing in ink: 
 

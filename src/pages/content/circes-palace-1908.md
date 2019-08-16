@@ -3,12 +3,14 @@ title: "Circe's Palace (1908)"
 slug: "circes-palace-1908"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['T. S. Eliot']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 REPRINTED FROM 1908 ISSUE
 

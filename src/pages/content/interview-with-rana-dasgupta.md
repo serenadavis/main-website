@@ -3,12 +3,14 @@ title: "Interview with Rana Dasgupta"
 slug: "interview-with-rana-dasgupta"
 issue: "Winter"
 year: "2017"
+date: "2017-01-01"
 authors: ['Henry Shah']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
     
 

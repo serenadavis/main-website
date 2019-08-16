@@ -3,12 +3,14 @@ title: "NOTHING LOSES LEAVES IT'S ALL FOREVER LOSING LEAVES"
 slug: "nothing-loses-leaves-its-all-forever-losing-leaves"
 issue: "Spring"
 year: "2017"
+date: "2017-03-01"
 authors: ['Edith Enright']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 A splitting tree stands wind-shook by
 

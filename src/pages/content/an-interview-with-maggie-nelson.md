@@ -3,12 +3,14 @@ title: "An Interview With Maggie Nelson"
 slug: "an-interview-with-maggie-nelson"
 issue: "Winter"
 year: "2018"
+date: "2018-01-01"
 authors: ['The Harvard Advocate Staff']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
    *Maggie Nelson is a poet, a scholar, and a writer of non-fiction. Her work is known for bending genres, refusing to sequester academic rigor from lived experiences of intimacy. She is perhaps best known for her 2015 book of memoir and analysis, *The Argonauts*, as well as *Bluets*, a 2009 prose meditation on loss and the color blue. She has a PhD in English from the Graduate Center, CUNY and is currently a Professor of English at USC. Harvard Advocate President and staff writer Lily Scherlis corresponded with Nelson by email over the course of a month. *
 

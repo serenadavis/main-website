@@ -3,12 +3,14 @@ title: "Amathophobia"
 slug: "amathophobia"
 issue: "Summer"
 year: "2018"
+date: "2018-06-01"
 authors: ['Eliya Smith']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 My roommate has some sort of condition where she gets freaked out by small holes. Trypophobia is what she calls it. It is hard not to make immature jokes about the fact that she is scared of holes, obviously, but for her this fear is very real.
 

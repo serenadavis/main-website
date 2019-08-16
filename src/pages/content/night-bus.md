@@ -3,12 +3,14 @@ title: "Night Bus"
 slug: "night-bus"
 issue: "Winter"
 year: "2014"
+date: "2014-01-01"
 authors: ['Patrick Lauppe']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Everything was either rain or screens. The screens shined out and lit up the rain in bulbous shapes. The rain was dripping on the screens too. Mai took her flats off and walked barefoot to the bus. She could feel the gum spots on the sidewalks.  
 

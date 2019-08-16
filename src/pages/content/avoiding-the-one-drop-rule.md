@@ -3,12 +3,14 @@ title: "Avoiding the One-Drop Rule"
 slug: "avoiding-the-one-drop-rule"
 issue: "Fall"
 year: "2016"
+date: "2016-09-01"
 authors: ['Eli Lee']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
                  This past January, I attended a concert at Philadelphia’s First Unitarian Church. The audience in the church’s dimly lit basement was tattooed, bedecked in social justice slogans and, like most punk show crowds, predominantly white. Two hours into the show, a local hardcore band with both white and Black members took the stage. As they launched into their blistering set, I followed my instinct and, bobbing to the rhythm, started to work my way forward through the crowd. By the time the band had finished playing their first song, I had made significant progress toward the stage. That’s when the band’s lead singer leaned into the mic and yelled:
 

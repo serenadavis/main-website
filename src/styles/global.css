@@ -1160,12 +1160,7 @@ main {
 }
 
 .homepage .container-left-half,
-.homepage .container-left-quarter {
-  width: 50%;
-  float: left;
-  padding: 0 5px;
-}
-
+.homepage .container-left-quarter,
 .homepage .container-right-half,
 .homepage .container-right-quarter {
   width: 50%;
@@ -1178,12 +1173,7 @@ main {
 	padding-bottom: 20px;
 }
 
-.homepage #feature-2,
-.homepage #feature-3,
-.homepage #feature-4,
-.homepage #feature-5,
-.homepage #feature-6,
-.homepage #feature-7 {
+.homepage .small_feature {
   height: 250px;
 }
 
@@ -1275,7 +1265,7 @@ main {
 }
 
 .homepage .feature-image {
-  box-shadow: 0 0 10px #000;
+  box-shadow: 0 0 5px #000;
   height: 100%;
   width: 100%;
 	background-size: cover;

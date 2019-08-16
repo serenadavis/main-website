@@ -3,12 +3,14 @@ title: "Discoloration"
 slug: "discoloration"
 issue: "Fall"
 year: "2014"
+date: "2014-09-01"
 authors: ['Matt Krane']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 as if eaten away 
 

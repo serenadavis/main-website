@@ -3,12 +3,14 @@ title: "A Moment of Mishearing"
 slug: "a-moment-of-mishearing"
 issue: "Winter"
 year: "2011"
+date: "2011-01-01"
 authors: ['Amit Chaudhuri']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The following is the text and approximate blueprint for a programme involving words, sound, and music that was broadcast on BBC Radio 3 on 13 November 2010. 
 

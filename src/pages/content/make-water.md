@@ -3,12 +3,14 @@ title: "Make Water"
 slug: "make-water"
 issue: "Fall"
 year: "2016"
+date: "2016-09-01"
 authors: ['Anna Koeferl']
 section: "art"
 audio: []
 main_image: ""
 banner_image: ""
 images: ['sites/default/files/KoeferlMakeWater2822x2822.jpg']
+videos: []
 ---
 28" x 28"
 

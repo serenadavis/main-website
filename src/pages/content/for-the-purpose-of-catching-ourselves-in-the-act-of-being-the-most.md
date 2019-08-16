@@ -3,12 +3,14 @@ title: "[for the purpose of catching ourselves in the act of being the most]"
 slug: "for-the-purpose-of-catching-ourselves-in-the-act-of-being-the-most"
 issue: "Winter"
 year: "2014"
+date: "2014-01-01"
 authors: ['Julian Avery Leonard & Eric Brewster with the Generalist']
 section: "art"
 audio: []
 main_image: ""
 banner_image: ""
 images: ['sites/default/files/2014_1_06 Masterfile_Advocate_TRIAL.P074 copy.jpg']
+videos: []
 ---
  
 

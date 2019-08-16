@@ -3,12 +3,14 @@ title: "Anomie"
 slug: "anomie"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['Caleb Lewis']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Those five boys—the drunk ones who knocked the living shit and thirty-seven pennies out of Riccardo Hernandez—they weren’t all football players. The news people latched onto the football thing when they rode into town in their white vans, logos on the sides and satellites hitched to the roofs. They aired long, weighty shots of the rebel flag painted on the back of Mr. Johnson’s tackle shop, and reported on the deadly incident between five football players and a Mexican immigrant in front of the city hall in Riddlescreak, Virginia. But Mr. Johnson’s was the only rebel flag in town, city hall was a block and a half over, and only two of the boys were football players. When he saw the coverage, my brother’s face flared ripe and red and he snatched the remote and cut off the TV. He said that there was an agenda if he ever saw one, and in spite of everything, I have to agree with him.
 

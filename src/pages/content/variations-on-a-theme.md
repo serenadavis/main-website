@@ -3,12 +3,14 @@ title: "Variations on a Theme"
 slug: "variations-on-a-theme"
 issue: "Fall"
 year: "2018"
+date: "2018-09-01"
 authors: ['Angela Hui']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 **I**
 

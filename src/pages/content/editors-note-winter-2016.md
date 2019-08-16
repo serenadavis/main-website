@@ -3,12 +3,14 @@ title: "Editor's Note: Winter 2016"
 slug: "editors-note-winter-2016"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['The Advocate Editorial Board']
 section: "notes"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Winter, at 21 South Street, is nesting season. We cozy up to archives and take stock of the aging boiler; frigid winds keep us cloistered indoors, so we indulge in extra macaroons and some retrospective navel-gazing. This year, though, we have a good excuse: 2016 marks The Harvard Advocate’s 150th Anniversary. In recognition, we revisit our founding motto—Dulce est Periculum—for our sesquicentennial winter issue theme: Danger.
 

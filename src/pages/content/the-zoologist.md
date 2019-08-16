@@ -3,12 +3,14 @@ title: "The Zoologist"
 slug: "the-zoologist"
 issue: "Spring"
 year: "2014"
+date: "2014-03-01"
 authors: ['John Bryant']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 My name is Dr. Isaac Lahm, and I’m the associate director of the Munich Zoological Institute, next in line for the directorship once Pfizer steps down. When people ask me why I study bees, I joke that it’s for the honey. But I know better. I know that if we are to have an appreciation for the fundamental laws of life, an understanding of how the human body functions, we must study the sensory capacities of the world’s most marvelous creatures, such that we can compare our quirks to theirs, the human eye to the bee’s visual system. Inevitably, said comparison welcomes debate, and it’s why I’ll be arguing against a young man named Reus from Berlin at a conference in a few days’ time. Young Reus refutes my theory that bees are color blind. In the March 1916 edition of Zoologischer Anzeiger, he outlines an experiment that claims the following: Bees associate a reward with color and thereby see hue. Though I fear the threat of an eager up-and-comer, the awards and publications on my wall stand for something. I believe young Reus wants my job. Clever boy.
 

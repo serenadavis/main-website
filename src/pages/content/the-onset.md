@@ -3,12 +3,14 @@ title: "The Onset"
 slug: "the-onset"
 issue: "Spring"
 year: "2016"
+date: "2016-03-01"
 authors: ['My Ngoc To']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  I.
 

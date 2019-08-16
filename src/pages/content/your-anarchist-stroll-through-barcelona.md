@@ -3,12 +3,14 @@ title: "Your Anarchist Stroll Through Barcelona"
 slug: "your-anarchist-stroll-through-barcelona"
 issue: "Fall"
 year: "2015"
+date: "2015-09-01"
 authors: ['Christine Legros']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 You don’t have to hold my hand. Drift through these streets like a dog, if you want, disheveled and exhausted, or waft in and out of the space like the smell of paprika escaping from a copper pot in some grandmother’s kitchen, the smell following you down these winding blocks. Allow yourself some mental space to imagine anarchists as hordes of gothic figures blowing down avenues, bat-bearing teenagers with gas masks and blood dripping down their fists, but remind yourself that this is, in truth, your right brain’s delusion. If you sit tight and behave, all you’ll encounter is slices of words on walls; age-old cadavers, horses and rusty rifles long swept away by time; and no unyielding dust to accumulate underneath your fingernails (this isn’t an archaeologist's dig). Stick your hands in your pockets, or stuff your armpits with them, but the day is going to get stuffy and hot, and you should be warned about personal slime.
 

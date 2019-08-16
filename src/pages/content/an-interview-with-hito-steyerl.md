@@ -3,12 +3,14 @@ title: "An Interview With Hito Steyerl"
 slug: "an-interview-with-hito-steyerl"
 issue: "Winter"
 year: "2018"
+date: "2018-01-01"
 authors: ['The Harvard Advocate Staff']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *Hito Steyerl is a visual artist, a filmmaker, and a writer. Her work across media is known for “twisting the politics of representation around the representation of politics” and shaking up our default orientation towards screens, media, vision, and technology. She has defended the poor image, mobilized morphsuited and pixel-headed figures in a comedic critique of digital visibility, and created a world in which workers are forced to dance in order to produce artificial sunshine. She lives in Berlin and is a professor of experimental film and video at Universität der Künste. Advocate President and staff writer Lily Scherlis spoke with Steyerl over the phone in December 2017.*
 

@@ -3,12 +3,14 @@ title: "how to lose your virginity just outside of missoula, MT"
 slug: "how-to-lose-your-virginity-just-outside-of-missoula-mt"
 issue: "Spring"
 year: "2017"
+date: "2017-03-01"
 authors: ['Isa Flores-Jones']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 When he suggests you try the pillow trick, laugh. Instead, tell your sister where you’re going. She’ll offer to cover without you needing to ask. Make her swear not to tell the parents. Don’t think about a world where she tells the parents. Don’t think about a world where they check both beds. Think about a world where they check both beds, consider the options: an inflatable you-sized dummy. A stunt double. An actor, not only to sleep in your bed; but wear your clothes; take your classes; let the parents stick report cards on the fridge.
 

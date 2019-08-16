@@ -3,12 +3,14 @@ title: "I'm sad I'm not a beast..."
 slug: "im-sad-im-not-a-beast"
 issue: "Summer"
 year: "2015"
+date: "2015-06-01"
 authors: ['Michael M. Weinstein']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *After the poem of the same name by Alexander Vvedensky* I’m sad I’m not a beast
 

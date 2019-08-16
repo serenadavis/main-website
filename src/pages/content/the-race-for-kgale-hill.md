@@ -3,12 +3,14 @@ title: "The Race for Kgale Hill"
 slug: "the-race-for-kgale-hill"
 issue: "Spring"
 year: "2013"
+date: "2013-03-01"
 authors: ['Rumur Dowling']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 According to local runners, the stage that separates the “Bushmen from the boys” during one of Botswana’s largest road races is the one that extends up the reticulated paths to the peak of Kgale Hill, Gaborone’s highest point. It is attainable only by conquering the unmarked, seemingly impassable routes of dense bush and sheer rock face that lead there. Kgale protrudes like a tubular knot from Gaborone’s otherwise unblemished flatland of saltpan and packed dirt, a nodule of soursop, baobab, bunch grass, camel thorn, hairy acacia and tangled hybrids all the same grey-green color. Experienced racers veer off Quarry Road at a predetermined entry point and begin their climb. Racers run in teams, and there is a tradition, the twilight before each race, to trawl about with teammates around the sides of the hill, braving the crepuscular insects and nocturnal fauna with rakes and machetes, cutting down the ziziphus and taller acacias to mark their own paths and ob- scure all the others.
 

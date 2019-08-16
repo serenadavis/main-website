@@ -3,12 +3,14 @@ title: "War and Cancer"
 slug: "war-and-cancer"
 issue: "Fall"
 year: "2013"
+date: "2013-09-01"
 authors: ['Kaveh Danesh']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
     CLINIC 1K: ADULT NEURO-ONCOLOGY. The sans serif sign announces the location as if for a lemonade stand, or for a neighbor’s garage sale. But this is a place where brain tumors come in spheres the size of oranges, causing some to lose speech, some memory, some personality. A grandmother stutters when asked to state the day of the week. A defense lawyer can’t remember a simple list two minutes after hearing it. A man watches from across the room as his wife spins her wedding band around her finger.
 

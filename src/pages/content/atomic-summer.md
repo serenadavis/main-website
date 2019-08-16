@@ -3,12 +3,14 @@ title: "Atomic Summer"
 slug: "atomic-summer"
 issue: "Fall"
 year: "2018"
+date: "2018-09-01"
 authors: ['Eva Rosenfeld']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The first weeks of summer, I knew no one in Santa Fe but my coworkers at the newspaper’s culture desk. I covered arts and music and literature, local goings-on, regional history. Quickly a peculiar pattern appeared in the cultural landscape. Everywhere science pervaded.
 

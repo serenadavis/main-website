@@ -3,12 +3,14 @@ title: "Drowned Towns: Preserving the Lost Communities of the Swift River Valley
 slug: "drowned-towns-preserving-the-lost-communities-of-the-swift-river-valley"
 issue: "Winter"
 year: "2009"
+date: "2009-01-01"
 authors: ['Ben Cosgrove']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

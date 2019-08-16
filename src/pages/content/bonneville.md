@@ -3,12 +3,14 @@ title: "Bonneville"
 slug: "bonneville"
 issue: "Spring"
 year: "2018"
+date: "2018-03-01"
 authors: ['Hanel Baveja']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 One day in June, Dad found a foot in a men’s size 11 Adidas shoe lying out near the salt flats. My first thought was that there must be an ocean around, even though I knew that was impossible, that the salt flats had been there for hundreds and hundreds of years. I’d never even seen the ocean outside of a magazine or sometimes a TV show, and even then I had the feeling that I wasn’t *really* seeing the ocean, that it wasn’t the same as actually being there. But the foot seemed like the kind of thing that could only wash up on shore from a faraway land, like a message in a glass bottle with a cork as a cap.
 

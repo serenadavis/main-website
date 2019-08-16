@@ -3,12 +3,14 @@ title: "Full Circle: (Exotic) Odysseys Through (Oriental) Rainforests on (Outlaw
 slug: "full-circle-exotic-odysseys-through-oriental-rainforests-on-outlawed-tour-buses"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['Faye Yan Zhang']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Ah remember walkin along Princes Street wi Spud, we both hate walkin along that hideous street, deadened by tourists and shoppers, the twin curses ay modern capitalism.  
 –Irvine Welsh, Trainspotting

@@ -3,12 +3,14 @@ title: "Envoy: A Short Discussion of Even Longer Words"
 slug: "envoy-a-short-discussion-of-even-longer-words"
 issue: "Spring"
 year: "2011"
+date: "2011-03-01"
 authors: ['Eric Brewster']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Most sentences concerning *pneumonoultramicroscopicsilicovolcanokoniosis—*like this one—are less occupied with the lung disease caused by inhalation of ultra-fine particles of silica volcanic dust than with the effort lungs must make to pronounce it. At 45 letters, it is indisputably the longest word in the English language—depending on whom you ask.
 

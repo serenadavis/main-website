@@ -3,12 +3,14 @@ title: "A. Suspendisse"
 slug: "a-suspendisse"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['Theo Jansen']
 section: "art"
 audio: []
 main_image: ""
 banner_image: ""
 images: ['sites/default/files/Winter2015Final13small_1.jpg']
+videos: []
 ---
   
 Digital photograph.

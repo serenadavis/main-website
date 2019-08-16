@@ -3,12 +3,14 @@ title: "Ms. Bigeyes"
 slug: "ms-bigeyes"
 issue: "Fall"
 year: "2017"
+date: "2017-09-01"
 authors: ['Eliya Smith']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

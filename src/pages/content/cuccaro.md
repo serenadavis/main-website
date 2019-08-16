@@ -3,12 +3,14 @@ title: "Cuccaro"
 slug: "cuccaro"
 issue: "Spring"
 year: "2011"
+date: "2011-03-01"
 authors: ['Molly Dektar']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Paul’s older brother Christopher died when Christopher was seven and Paul was just a baby. Christopher had gone down to the cellar searching for apricot preserves, the imprudent craving of a young boy who could remember a little too well the delight of a sugar-sticky mouth. But—and he had undoubtedly been warned of this—the wine, fermenting down there in the cool deep and swelling the bellies of its big round tanks, sent out its heavy pockets of flavorless, odorless gas, the secret feelers of the monster that trapped him on the floor. The whole town went searching for Christopher, up to the white church on the tallest hill, through the vine slopes and the slanted pastures, through gardens and kitchens and paddocks and even, presciently, down to the graveyard, but he was not to be found in any of these places. The father, thrashing down the stairs and holding his breath, found Christopher lying on the dank floor, frowning and pale as the dawn. He was not to be revived.
 

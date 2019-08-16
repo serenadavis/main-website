@@ -3,12 +3,14 @@ title: "The Habit of His Verse"
 slug: "the-habit-of-his-verse"
 issue: "Fall"
 year: "2012"
+date: "2012-09-01"
 authors: ['Victoria Baena']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

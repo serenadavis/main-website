@@ -3,12 +3,14 @@ title: "[If my skull were a circle of light]"
 slug: "if-my-skull-were-a-circle-of-light"
 issue: "Winter"
 year: "2011"
+date: "2011-01-01"
 authors: ['David Wallace']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 If my skull were a circle of light
 

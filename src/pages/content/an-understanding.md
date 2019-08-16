@@ -3,12 +3,14 @@ title: "An Understanding"
 slug: "an-understanding"
 issue: "Commencement"
 year: "2011"
+date: "2011-06-01"
 authors: ['Emily Chertoff']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Something is floating in the pool, the Missus realizes on Tuesday, as she sips the coffee Concepción always brews for her when she starts work. (Fresh coffee is not worth the shame of having to ask for it brewed around noon.) She can’t make out the shape from the kitchen window, but a quick inspection reveals it to be a dead fawn, lying on its side, its front hooves idly playing in the jet of a water filter. “It would be good if they could pick it up before my husband comes home,” she tells Concepción. But when Concepción calls Animal Control, the rude voice that answers, put off by an accent she can’t identify, tells her to call back in the afternoon when a Spanish-speaking operator will be on duty, and so Concepción decides to wash every single one of his shirts instead and leaves the deer in the capable hands of God.
 

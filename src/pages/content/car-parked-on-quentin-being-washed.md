@@ -3,12 +3,14 @@ title: "Car Parked on Quentin, Being Washed"
 slug: "car-parked-on-quentin-being-washed"
 issue: "Commencement"
 year: "2012"
+date: "2012-06-01"
 authors: ['Mark Chiusano']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 On the morning of the funeral the Castanzo family woke up at nine, and took their turns in the show- er. Mr. Costanzo went first, because he had woken up earliest. Wake up the boys, Mrs. Costanzo whis- pered, while she took off her faded t-shirt and bra. Mr. Costanzo didn’t look at her bare back, although some mornings he did. She went into the shower. Mr. Costanzo went into the boys’ old room and put a hand on each of their heads.
 

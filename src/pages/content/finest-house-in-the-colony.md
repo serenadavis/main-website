@@ -3,12 +3,14 @@ title: "Finest House in the Colony"
 slug: "finest-house-in-the-colony"
 issue: "Fall"
 year: "2011"
+date: "2011-09-01"
 authors: ['Alexander J.B. Wells']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *  
 that men may rise on stepping-stones*

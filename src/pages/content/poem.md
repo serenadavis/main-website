@@ -3,12 +3,14 @@ title: "Poem"
 slug: "poem"
 issue: "Spring"
 year: "2011"
+date: "2011-03-01"
 authors: ['Julian Gewirtz']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 My part to play the princess:
 

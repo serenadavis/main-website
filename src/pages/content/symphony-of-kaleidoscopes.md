@@ -3,12 +3,14 @@ title: "Symphony of Kaleidoscopes"
 slug: "symphony-of-kaleidoscopes"
 issue: "Winter"
 year: "2017"
+date: "2017-01-01"
 authors: ['Onur Bayrakceken ']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 2013,
 

@@ -3,12 +3,14 @@ title: "Kore"
 slug: "kore"
 issue: "Commencement"
 year: "2011"
+date: "2011-06-01"
 authors: ['Erik Fredericksen']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
    I didn’t
 

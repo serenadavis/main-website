@@ -3,12 +3,14 @@ title: "Rockstar"
 slug: "rockstar"
 issue: "Summer"
 year: "2017"
+date: "2017-06-01"
 authors: ['TS Hidalgo']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Interview with a rock-star, a celebrity icon. The mischievous and bashful expression of someone who seems like a fun guy who all the same distrusts strangers, other people, the ager publicus, someone who lives enclosed in his own world of references and connections, his own clichés. He showed up to the televised interview in pajamas, a sample of what I heard:
 

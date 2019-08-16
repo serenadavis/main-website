@@ -3,12 +3,14 @@ title: "Slouching Towards Hollywood"
 slug: "slouching-towards-hollywood"
 issue: "Commencement"
 year: "2010"
+date: "2010-06-01"
 authors: ['Molly Fitzpatrick']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 It is a rare rainy day in Los Angeles.** **At his request, I meet Allen Smithee at a bistro of the generic sort Hollywood directors like to frequent. He orders a salad. Allen—some spell it Alan; he doesn’t mind—lives in Malibu, or Santa Monica, or maybe even Brentwood.
 

@@ -3,12 +3,14 @@ title: "A Compression"
 slug: "a-compression"
 issue: "Winter"
 year: "2012"
+date: "2012-01-01"
 authors: ['Erik Fredericksen']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 My father: a runny nose, snot dripping all down his fingers. He can’t find any tissues, he’s trying to wipe it off his nose. Meanwhile he balances the newspaper on his lap and here comes a breeze. He’s on the screened-in porch, here comes a wind, and the paper goes flying—all the sections coming apart, whipping up in the air and floating down and folding and turning so he tries to grab it all which of course means his nose starts dripping all over and his snot-hands are getting all over the paper and he’s saying, Goddamn fucking shit-fucking wind. Me, I’m watching him from the kitchen window. From inside I hear him and the wind chimes.
 

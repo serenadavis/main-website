@@ -3,12 +3,14 @@ title: "Naturaleza Muerta"
 slug: "naturaleza-muerta"
 issue: "Commencement"
 year: "2011"
+date: "2011-06-01"
 authors: ['Jessica Sequeira']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 There are two. The blue house in Coyoacán is Frida’s; the hacienda in Xochimilco—the one I think magnificent and the critics outrageous—that one is mine. On paper, of course, I own them both. Diego asked me to manage the museums there years ago. But in their essence, the way they rest within their spaces, it is clear one belongs to her and the other to me. A great deal of care was necessary to produce the elegance of my house, you know: the layers chiseled from stone, the surround of lush green tended by vigilant gardeners. And yet it’s hers I find myself wandering through again and again, blown through those passageways, drifting blind down that axis…
 

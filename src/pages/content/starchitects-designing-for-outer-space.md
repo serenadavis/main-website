@@ -3,12 +3,14 @@ title: "Starchitects: Designing for Outer Space"
 slug: "starchitects-designing-for-outer-space"
 issue: "Winter"
 year: "2011"
+date: "2011-01-01"
 authors: ['Madeleine Schwartz']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 This October, NASA unveiled a proposal to carry people to Mars and leave them there. The project, called the Hundred-Year Starship, would fly four astronauts to the planet, resupply them with food and basic needs, and then let them adapt without the chance to go home. A NASA representative explained that the one-way trip would be more economical than going back and forth to Earth. Plus, by staying on the planet completely alone, the astronauts could thoroughly get to know its make-up. Mars is a rational first choice. It has water, it is near the sun, and it’s our closest neighbor—just a three-month trip away. If we’re going to settle the universe, it’s a good place to start.
 

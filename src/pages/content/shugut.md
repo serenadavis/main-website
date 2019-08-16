@@ -3,12 +3,14 @@ title: "Shugut"
 slug: "shugut"
 issue: "Fall"
 year: "2014"
+date: "2014-09-01"
 authors: ['Aria Bendix']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The day the package arrived, the boys ran into the common room, pushing and shoving like animals at a watering hole. The House Mother had to fend them off as she cut through the thick cardboard box to expose the glittering gifts inside. The instant she was finished, they began to swarm the box, eager to select the nicest gift from the bunch. Each boy was allowed to take a single gift, and each was determined to make it a good one. 
 

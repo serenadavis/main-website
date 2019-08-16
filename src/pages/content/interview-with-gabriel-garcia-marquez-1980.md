@@ -3,12 +3,14 @@ title: "Interview with Gabriel Garcia Marquez (1980)"
 slug: "interview-with-gabriel-garcia-marquez-1980"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Katherine Ashton']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 REPRINTED FROM 1980 MARCH ISSUE
 

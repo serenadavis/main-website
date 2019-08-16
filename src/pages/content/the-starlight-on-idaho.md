@@ -3,12 +3,14 @@ title: "The Starlight on Idaho"
 slug: "the-starlight-on-idaho"
 issue: "Winter"
 year: "2011"
+date: "2011-01-01"
 authors: ['Denis Johnson']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Dear Jennifer Johnston,
 

@@ -3,12 +3,14 @@ title: "Furr Displacement (Ring)"
 slug: "furr-displacement-ring"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['Sally Scopa']
 section: "art"
 audio: []
 main_image: ""
 banner_image: ""
 images: ['sites/default/files/winter2015final21.jpg']
+videos: []
 ---
      
 Digital Print   

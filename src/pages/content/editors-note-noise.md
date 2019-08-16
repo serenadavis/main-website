@@ -3,12 +3,14 @@ title: "Editor's Note: Noise"
 slug: "editors-note-noise"
 issue: "Winter"
 year: "2018"
+date: "2018-01-01"
 authors: ['Lily Scherlis']
 section: "notes"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
     
 

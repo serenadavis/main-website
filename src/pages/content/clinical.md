@@ -3,12 +3,14 @@ title: "Clinical"
 slug: "clinical"
 issue: "Fall"
 year: "2012"
+date: "2012-09-01"
 authors: ['Stephanie Wang']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

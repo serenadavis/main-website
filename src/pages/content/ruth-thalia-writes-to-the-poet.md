@@ -3,12 +3,14 @@ title: "Ruth Thalia writes to the poet"
 slug: "ruth-thalia-writes-to-the-poet"
 issue: "Spring"
 year: "2014"
+date: "2014-03-01"
 authors: ['Jacob Moscona-Skolnik']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
   today I heard the capitol catch
 

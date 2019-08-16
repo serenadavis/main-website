@@ -3,12 +3,14 @@ title: "One on One"
 slug: "one-on-one"
 issue: "Winter"
 year: "2013"
+date: "2013-01-01"
 authors: ['Dan Chiasson']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 It is the nature of this game to want possession  
 then to want to give it up  

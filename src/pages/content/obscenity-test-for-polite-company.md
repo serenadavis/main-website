@@ -3,12 +3,14 @@ title: "Obscenity test, for polite company"
 slug: "obscenity-test-for-polite-company"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['Lara Zysman']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I pick my gap-toothed cunt up off the floor.
 

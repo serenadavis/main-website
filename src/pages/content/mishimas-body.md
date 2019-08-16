@@ -3,12 +3,14 @@ title: "Mishima's Body "
 slug: "mishimas-body"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Bailey Trela']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 It is a gauzy autumn morning when he stands aloft and declaims.
 

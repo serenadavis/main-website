@@ -3,12 +3,14 @@ title: "Mehmet"
 slug: "mehmet"
 issue: "Spring"
 year: "2016"
+date: "2016-03-01"
 authors: ['Kate Massinger']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  We go clockwise around the circle of folding chairs. Most of us are shy. We say our names and, per our leader’s prompt, something we like about Quakers. A shiny-headed man with a gold-tipped cane is one of the last to speak.** **
 

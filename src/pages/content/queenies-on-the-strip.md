@@ -3,12 +3,14 @@ title: "Queenie's On The Strip"
 slug: "queenies-on-the-strip"
 issue: "Spring"
 year: "2014"
+date: "2014-03-01"
 authors: ['Christopher Alessandrini']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Once when I was very young, the girl I loved had a seizure in the deep end. Her name was Melanie Fitzgerald, and I didn’t much like her. We spoke very little, and when we did, it left an ugly, pitted feeling in my stomach. The dull features of her face scrunched tight around the nose, and the ends of her mouth were in the habit of turning inward and down. We were playing Marco Polo, a group of us, the tall boys inching along the sides of the pool to six feet. And she followed them, her hair fanning flat where it met the water. She walked until the water kissed her chin. It was midday, and the sun made her hair shine like lacquered wood.
 

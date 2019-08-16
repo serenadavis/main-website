@@ -3,12 +3,14 @@ title: "Gaborone, [Botswana]."
 slug: "gaborone-botswana"
 issue: "Summer"
 year: "2017"
+date: "2017-06-01"
 authors: ['Tawanda Mulalu']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Gaborone is the capital city of Botswana. It resides to the South-East of this small, landlocked country in Southern Africa. Looking at a political map of Botswana might convince you that there does, in fact, exist more than one city or town or village within it. This is not the case. In scientific data sets, we tend to ignore outlier points that don’t align with our line or curve of best fit, and, in a country where almost half of its citizens live within a hundred kilometres of its capital, it is also easy to ignore anything else outside that radius, so we do.
 

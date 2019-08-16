@@ -3,12 +3,14 @@ title: "[Open ocean falls]"
 slug: "open-ocean-falls"
 issue: "Winter"
 year: "2011"
+date: "2011-01-01"
 authors: ['Matt Aucoin']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 For S.P.—
 

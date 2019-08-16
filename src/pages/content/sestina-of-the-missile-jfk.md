@@ -3,12 +3,14 @@ title: "Sestina of the Missile JFK"
 slug: "sestina-of-the-missile-jfk"
 issue: "Summer"
 year: "2015"
+date: "2015-06-01"
 authors: ['Alice Ju']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 You skitter mad,
 

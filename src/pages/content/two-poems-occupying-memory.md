@@ -3,12 +3,14 @@ title: "Two Poems: Occupying Memory"
 slug: "two-poems-occupying-memory"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['Hilton Als']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The Widow
 

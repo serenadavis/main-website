@@ -3,12 +3,14 @@ title: "between beat 3 and beat 1 (waltz)"
 slug: "between-beat-3-and-beat-1-waltz"
 issue: "Spring"
 year: "2016"
+date: "2016-03-01"
 authors: ['Lev Mamuya']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 there is no approaching
 

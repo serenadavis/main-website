@@ -3,12 +3,14 @@ title: "Origins"
 slug: "origins"
 issue: "Winter"
 year: "2013"
+date: "2013-01-01"
 authors: ['Geraldine Brooks']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Sometimes, when the weather is mild, I move my writing life outside, to an old cane chair under the boughs of an apple tree that was old before I was born. Not far away, but unaware of me, a muskrat browses in the grasses by the brook. Red-winged blackbirds swoop across the water and a goldfinch, like a drop of distilled sunshine, darts through the glossy branches of an ilex.
 

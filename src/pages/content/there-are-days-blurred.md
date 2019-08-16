@@ -3,12 +3,14 @@ title: "[There are days blurred]"
 slug: "there-are-days-blurred"
 issue: "Fall"
 year: "2009"
+date: "2009-09-01"
 authors: ['Olga Moskvina']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 There are days blurred like the skin  
 of fruit rotting, when we look into the water  

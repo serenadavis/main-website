@@ -3,12 +3,14 @@ title: "Our Prayer"
 slug: "our-prayer"
 issue: "Spring"
 year: "2011"
+date: "2011-03-01"
 authors: ['Ryan Meehan']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Were he to open his eyes now, Paul Castor wouldn’t be able to tell whether he’s drifted, or how far. Head dangling off the nose of his board, he can hear the sighs of the water flowing past his ears, sloshing in the space between the rounded fiberglass and the curve of his back; can feel the hair on his scalp swirling out into a shape that, were it viewed from above, would resemble a wreath. A near-digested breakfast of cheerios and orange juice rolls in partial harmony with the tide beneath, and his chin juts upward as he belches vigorously. Castor attends neither the thin pool of water evaporating on his abdomen, nor the faint, almost subconscious pain of unabated exposure to early-morning sunshine. The air is motionless, and he imagines a sensation like perfect stillness. He thinks of a burial at sea, of pre-Columbian tribes interring their dead in huge ocean-faring canoes; half-dreams of himself as interred in one, moving serenely and purposefully among tall ships and glaciers, underground rivers and violent inland seas; dissolved in the bosom of a thundercloud, scattered in snow.
 

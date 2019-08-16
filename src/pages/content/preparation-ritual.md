@@ -3,12 +3,14 @@ title: "Preparation ritual"
 slug: "preparation-ritual"
 issue: "Summer"
 year: "2015"
+date: "2015-06-01"
 authors: ['Lev Craig']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 **Preparation ritual:** *You must atlas the vessel before burial. Sweeten* 
 

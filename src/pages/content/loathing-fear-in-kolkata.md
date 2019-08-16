@@ -3,12 +3,14 @@ title: "Loathing Fear in Kolkata"
 slug: "loathing-fear-in-kolkata"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Emma Adler']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Some facts about risk:
 

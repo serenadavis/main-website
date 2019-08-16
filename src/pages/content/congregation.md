@@ -3,12 +3,14 @@ title: "Congregation"
 slug: "congregation"
 issue: "Summer"
 year: "2015"
+date: "2015-06-01"
 authors: ['Christopher Alessandrini']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
   Where does Marcia from Minnetonka go at night? Who’s the lucky man?
 

@@ -3,12 +3,14 @@ title: "The Anointed"
 slug: "the-anointed"
 issue: "Fall"
 year: "2016"
+date: "2016-09-01"
 authors: ['Emily Wang']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
             
 

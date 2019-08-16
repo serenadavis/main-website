@@ -3,12 +3,14 @@ title: "Ways of Looking and Feeling"
 slug: "ways-of-looking-and-feeling"
 issue: "Winter"
 year: "2013"
+date: "2013-01-01"
 authors: ['Clancy Martin']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 “You don’t have to come,” he told her.
 

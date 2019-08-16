@@ -3,12 +3,14 @@ title: "The Buddha"
 slug: "the-buddha"
 issue: "Winter"
 year: "2009"
+date: "2009-01-01"
 authors: ['Maria Xia']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 When Sylvester first saw the Buddha in the shop window, it was marked at $200. With his right hand he fingered the felt-like softness of a worn five-dollar bill in his pocket, and with his left he held on to a wriggling younger sister of five. Her brown curls bounced as she stomped impatiently at being kept in the empty parking lot. She was not interested in the old and dusty statuettes, or the smiling fat man who sat on his rump and was as bald as an onion. She clutched a tousled Barbie to her chest and skipped impatiently on feet clad in clean white loafers — she wanted to go home.  
              “Five more minutes, Ruth,” he said, without taking his eyes off the display. Stout painted kittens waved their paws in endless homage, and red-blue dragons arched their scaly, snake-like bodies. The Buddha, however, was king. His golden stomach, as round as a pumpkin, radiated opulence, and his ears hung down as if they were weighted with heavy jewels. His eyes slanted like moons and his mouth was open in laughter. Sylvester’s chest tightened with desire.

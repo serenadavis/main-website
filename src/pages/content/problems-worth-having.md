@@ -3,12 +3,14 @@ title: "Problems Worth Having"
 slug: "problems-worth-having"
 issue: "Spring"
 year: "2010"
+date: "2010-03-01"
 authors: ['Allan Peterson']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 At the corner of my eye is the most exasperating
 

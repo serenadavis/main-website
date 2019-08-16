@@ -3,12 +3,14 @@ title: "orpheus after"
 slug: "orpheus-after"
 issue: "Winter"
 year: "2018"
+date: "2018-01-01"
 authors: ['Jason Kang']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 after the night
 

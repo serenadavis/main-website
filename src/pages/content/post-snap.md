@@ -3,12 +3,14 @@ title: "post snap"
 slug: "post-snap"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Lev Mamuya']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 you are still pericles—
 

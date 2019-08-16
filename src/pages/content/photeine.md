@@ -3,12 +3,14 @@ title: "Photeine"
 slug: "photeine"
 issue: "Commencement"
 year: "2009"
+date: "2009-06-01"
 authors: ['Michael Stynes']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 I love you, which is a metaphor for the clear fuel   
 your eyes have.  The screen has to be moral   

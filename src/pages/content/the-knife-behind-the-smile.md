@@ -3,12 +3,14 @@ title: "The Knife Behind the Smile"
 slug: "the-knife-behind-the-smile"
 issue: "Fall"
 year: "2011"
+date: "2011-09-01"
 authors: ['My Ngoc To']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

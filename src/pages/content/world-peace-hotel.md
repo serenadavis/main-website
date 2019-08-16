@@ -3,12 +3,14 @@ title: "World Peace Hotel"
 slug: "world-peace-hotel"
 issue: "Spring"
 year: "2012"
+date: "2012-03-01"
 authors: ['Georgina Parfitt']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

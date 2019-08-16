@@ -3,12 +3,14 @@ title: "Akimbo"
 slug: "akimbo"
 issue: "Winter"
 year: "2014"
+date: "2014-01-01"
 authors: ['Anna Hagen']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 On the first day she painted nothing. She breathed in the cool lucid morning and watched the light cast her husband’s skin red, then gold, then glaring white as the sun edged above the house and scared away the shadows. He lay twisted away from her, face down on the driveway. She had him stretch his arms by his sides and splay his legs akimbo. She worried that his knee and back would bother him but she had no other choice. 
 

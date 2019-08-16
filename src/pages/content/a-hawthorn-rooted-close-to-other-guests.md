@@ -3,12 +3,14 @@ title: "A Hawthorn, Rooted Close to Other Guests"
 slug: "a-hawthorn-rooted-close-to-other-guests"
 issue: "Commencement"
 year: "2012"
+date: "2012-06-01"
 authors: ['Justin Wymer']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 This is not
 

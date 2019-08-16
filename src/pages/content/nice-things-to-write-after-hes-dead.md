@@ -3,12 +3,14 @@ title: "Nice Things to Write After He's Dead"
 slug: "nice-things-to-write-after-hes-dead"
 issue: "Fall"
 year: "2017"
+date: "2017-09-01"
 authors: ['Sabrina Helen Li']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 “If you died, I would make you a Facebook status.”
 

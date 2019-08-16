@@ -3,12 +3,14 @@ title: "[Two birds flew around a branch]"
 slug: "two-birds-flew-around-a-branch"
 issue: "Fall"
 year: "2010"
+date: "2010-09-01"
 authors: ['Oliver Strand']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Two birds flew around a branch. 
 

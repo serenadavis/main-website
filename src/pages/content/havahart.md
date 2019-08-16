@@ -3,12 +3,14 @@ title: "Havahart"
 slug: "havahart"
 issue: "Commencement"
 year: "2011"
+date: "2011-06-01"
 authors: ['James Maxwell Larkin']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Know going in that I hardly knew the girl, that I remember the look of her more than anything else. If you’re trying to understand this thing, you’re brushing the bottom of the barrel with me. I’d like to understand it, too. But I just have the one day with Helen. Lucky for you, it was memorable, unlike the days around it. I can’t think that it will be of interest to the investigation, but then I’ll leave those decisions to professionals. 
 

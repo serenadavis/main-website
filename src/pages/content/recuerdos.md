@@ -3,12 +3,14 @@ title: "Recuerdos"
 slug: "recuerdos"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Moira McCavana']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The teacher’s husband had been missing for two weeks and everyone imagined that this caused the teacher immense grief. Of course, you couldn’t tell—she continued to take mid-morning walks around the port as though her husband were still out at sea for the day, his return promised by ritual—but people began to fear, we all did, that one afternoon the boats might begin their daily caravan into the harbor and she would recognize for the first time that they did not bring him with them. 
 

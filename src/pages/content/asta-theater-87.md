@@ -3,12 +3,14 @@ title: "Asta Theater #87"
 slug: "asta-theater-87"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['Matt Saunders']
 section: "art"
 audio: []
 main_image: ""
 banner_image: ""
 images: ['sites/default/files/Theater087.jpg']
+videos: []
 ---
 2013  
 Unique silver gelatin print on fiber-paper  

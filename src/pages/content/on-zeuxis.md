@@ -3,12 +3,14 @@ title: "On Zeuxis"
 slug: "on-zeuxis"
 issue: "Commencement"
 year: "2013"
+date: "2013-06-01"
 authors: ['Taylor Lessard']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 He beheld her, in that mansion  
 which is the white sepulcher of itself: her mazy  

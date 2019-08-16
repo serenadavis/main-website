@@ -3,12 +3,14 @@ title: "Romain Gary: A Short Biography"
 slug: "romain-gary-a-short-biography"
 issue: "Commencement"
 year: "2010"
+date: "2010-06-01"
 authors: ['Madeleine Schwartz']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 By the time Romain Gary shot himself in the head, the French-Russian writer had published over fifty novels under four different names, directed two movies, fought in the air force, and represented France as a consul. His marriages—first to the British writer Lesley Branch, then to the American actress Jean Seberg—had brought him celebrity. He had enmeshed some of France’s literary giants in an elaborate hoax that broke fundamental precepts of the country’s cultural institutions.
 

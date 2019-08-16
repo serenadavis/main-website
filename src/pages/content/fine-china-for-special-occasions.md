@@ -3,12 +3,14 @@ title: "Fine China for Special Occasions"
 slug: "fine-china-for-special-occasions"
 issue: "Winter"
 year: "2012"
+date: "2012-01-01"
 authors: ['Katherine Damm']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
   Growing up, my family had a set of dishes for daily use and a set for the holidays. It’s a fairly common phenomenon. Couples ask for  fine china pieces as wedding gifts, and registry requests for gravy boats in expensive patterns can be listed online with bedding and Home Depot gift certificates—as if porcelain were a key material in the foundation of a home. Or as if optimism were this: the belief that there will always be the possibility of a beautiful and fancy life.
 

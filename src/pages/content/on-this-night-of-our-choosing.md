@@ -3,12 +3,14 @@ title: "On This Night of Our Choosing"
 slug: "on-this-night-of-our-choosing"
 issue: "Spring"
 year: "2017"
+date: "2017-03-01"
 authors: ['Ian van Wye']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 On this day of our choice
 

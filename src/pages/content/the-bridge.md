@@ -3,12 +3,14 @@ title: "The Bridge"
 slug: "the-bridge"
 issue: "Fall"
 year: "2013"
+date: "2013-09-01"
 authors: ['My Ngoc To']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *For the eye has this strange property: it rests only on beauty; like a butterfly it seeks colour and basks in warmth. On a winter’s night like this, when nature has been at pains to polish and preen herself, it brings back the prettiest trophies, breaks off little lumps of emerald and coral as if the whole earth were made of precious stone.* –Virginia Woolf, “Street Hauntings ”
 

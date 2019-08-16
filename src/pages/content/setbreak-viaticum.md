@@ -3,12 +3,14 @@ title: "Setbreak  |  Viaticum"
 slug: "setbreak-viaticum"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['J. Camp Brown']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
                         {the minstrel leaves the stage} 
 

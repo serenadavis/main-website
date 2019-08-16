@@ -3,12 +3,14 @@ title: "hear fell their sinew"
 slug: "hear-fell-their-sinew"
 issue: "Fall"
 year: "2015"
+date: "2015-09-01"
 authors: ['Eli Schleicher']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 & this sŭn birthed another
 

@@ -3,12 +3,14 @@ title: "Stalls"
 slug: "stalls"
 issue: "Fall"
 year: "2016"
+date: "2016-09-01"
 authors: ['Madeleine Joung']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *September, 1945*
 

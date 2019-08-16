@@ -3,12 +3,14 @@ title: "A Perfume of One's Own"
 slug: "a-perfume-of-ones-own"
 issue: "Summer"
 year: "2015"
+date: "2015-06-01"
 authors: ['Maia Silber']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 This spring, Joan Didion became the new face of the French luxury brand Céline, and the fashion blogosphere dissolved into a lilac-scented pleasure cloud. Céline dressed Didion in black; maxi-skirt wearing girls from Tumblr domains far and wide re-blogged the writer’s LA packing list. Before the literary world could cry “commercialization,” the fashion world cried, “She worked at *Vogue*!”
 

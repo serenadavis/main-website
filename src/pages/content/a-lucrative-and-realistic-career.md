@@ -3,12 +3,14 @@ title: "A Lucrative and Realistic Career"
 slug: "a-lucrative-and-realistic-career"
 issue: "Winter"
 year: "2017"
+date: "2017-01-01"
 authors: ['Sarah Toomey']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
   It will have been the next day that I can tell rain
 

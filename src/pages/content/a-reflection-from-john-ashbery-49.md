@@ -3,12 +3,14 @@ title: "A Reflection from John Ashbery '49"
 slug: "a-reflection-from-john-ashbery-49"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['John Ashbery']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *The Advocate* was a major part of my experience at Harvard, and a generally enjoyable one. I was a mostly unpublished poet then (that's a somewhat complicated story which I won't go into here) and suddenly I was provided with a venue and could expect to see my poems in print not long after I wrote them. It all came about through Kenneth Koch, whom I met in the fall of 1947, my junior year. He and I exchanged our poems and found we liked each other's work very much. Kenneth proposed nominating me for the *Advocate* editorial staff. But there was a catch: sometime during WWII there had apparently been a homosexual scandal at the *Advocate*, and the university had closed it down at the behest of a trustee in Boston who provided a lot of their funding. When it reopened after the war there was an unwritten stipulation that no homosexuals need apply.
 

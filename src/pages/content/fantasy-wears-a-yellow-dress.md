@@ -3,12 +3,14 @@ title: "Fantasy wears a yellow dress"
 slug: "fantasy-wears-a-yellow-dress"
 issue: "Commencement"
 year: "2013"
+date: "2013-06-01"
 authors: ['Daniel Schwartz']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 “I am afraid that life is a game.”
 

@@ -3,12 +3,14 @@ title: "Excerpt: The Songs We Know Best: John Ashbery's Early Life"
 slug: "excerpt-the-songs-we-know-best-john-ashberys-early-life"
 issue: "Winter"
 year: "2017"
+date: "2017-01-01"
 authors: ['Karin Roffman']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
    From Chapter 6: “Undergraduate Reflections” (1945-1947). Note: This excerpt begins just before John Ashbery’s sophomore year at Harvard (Fall, 1946) 
 

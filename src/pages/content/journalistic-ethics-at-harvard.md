@@ -3,12 +3,14 @@ title: "Journalistic Ethics at Harvard"
 slug: "journalistic-ethics-at-harvard"
 issue: "Spring"
 year: "2015"
+date: "2015-03-01"
 authors: ['Henry Shah']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Last semester, black student leaders organized a confrontational protest at the start of Primal Scream, an annual Harvard undergraduate streaking tradition. *The Crimson*’s editorial board decided to opine. Typically, the board invites all interested staff members to convene, deliberate, and then vote on a consensus opinion. But when they scheduled this meeting during the March on Harvard—a campus-wide #blacklivesmatter solidarity protest with almost 1,000 participants—they left certain voices outside of the conference room “consensus” and came down against the Primal Scream protesters.
 

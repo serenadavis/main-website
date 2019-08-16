@@ -3,12 +3,14 @@ title: "It's Dark in a Box Built by the Father"
 slug: "its-dark-in-a-box-built-by-the-father"
 issue: "Winter"
 year: "2017"
+date: "2017-01-01"
 authors: ['Peter Gizzi']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
   Tell me are you dark?
 

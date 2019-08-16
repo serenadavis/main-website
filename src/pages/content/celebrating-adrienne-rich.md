@@ -3,12 +3,14 @@ title: "Celebrating Adrienne Rich"
 slug: "celebrating-adrienne-rich"
 issue: "Commencement"
 year: "2012"
+date: "2012-06-01"
 authors: ['Madeleine Schwartz', 'Stephanie Newman']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
   Elegies of writers often tend toward the bombastic, but it would not be an exaggeration to call Adrienne Rich one of the poets who mattered most to the twentieth century. Dedicated to poetry as a form of urgent discourse and committed to prioritizing a vision for women, Rich pushed the boundaries of both her poetry and her activism.
 

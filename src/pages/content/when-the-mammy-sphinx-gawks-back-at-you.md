@@ -3,12 +3,14 @@ title: "When the Mammy Sphinx Gawks Back at You!"
 slug: "when-the-mammy-sphinx-gawks-back-at-you"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['Caleb Lewis']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Last December, the artist Kara Walker delivered a lecture at Harvard on the subject of her latest piece: a 40-foot “sugar sphinx” with an exposed, puckering vulva and a face redolent of Aunt Jemima’s most minstrel days. Attendance was so high that even the overflow hall was packed to the brim. A month earlier, Hilton Als and Jamaica Kincaid had appeared in conversation at the Brattle Street Book Store to considerably less fanfare. The event in November was co-sponsored by The Harvard Book Store and the Advocate and focused on Als’ latest book, White Girls, which had just been released in paperback. All things considered, the talk was fairly well attended, with empty seats sprinkled only intermittently between audience members in parkas and pea coats, clutching ballpoints and Moleskines. Despite the availability of seats closer to the stage, I slid into a fuzzy velvet chair in the furthest corner of the last row—ringside for audience-watching.
 

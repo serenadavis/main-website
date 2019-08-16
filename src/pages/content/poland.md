@@ -3,12 +3,14 @@ title: "Poland"
 slug: "poland"
 issue: "Winter"
 year: "2012"
+date: "2012-01-01"
 authors: ['Emily Chertoff']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

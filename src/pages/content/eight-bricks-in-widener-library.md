@@ -3,12 +3,14 @@ title: "Eight Bricks in Widener Library"
 slug: "eight-bricks-in-widener-library"
 issue: "Fall"
 year: "2013"
+date: "2013-09-01"
 authors: ['Danny Bredar']
 section: "art"
 audio: []
 main_image: ""
 banner_image: ""
 images: ['sites/default/files/art_fall13_bredar.jpg']
+videos: []
 ---
 (From top row, left to right)
 

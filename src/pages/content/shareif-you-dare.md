@@ -3,12 +3,14 @@ title: "\"SHARE\"If You Dare"
 slug: "shareif-you-dare"
 issue: "Summer"
 year: "2015"
+date: "2015-06-01"
 authors: ['Olivia Munk']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 On March 5, 2012, if you logged into Facebook, a video entitled “KONY 2012” was sure to pop up as every third or fourth post. 
 

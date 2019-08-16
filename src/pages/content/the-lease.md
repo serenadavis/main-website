@@ -3,12 +3,14 @@ title: "The Lease"
 slug: "the-lease"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['William Fuller']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 No one alive knows what my body is feeling right now but 
 

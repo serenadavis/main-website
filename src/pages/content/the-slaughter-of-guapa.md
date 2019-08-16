@@ -3,12 +3,14 @@ title: "The Slaughter of Guapa"
 slug: "the-slaughter-of-guapa"
 issue: "Winter"
 year: "2017"
+date: "2017-01-01"
 authors: ['Marella Gayla']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 -*Venice, 2016*-
 

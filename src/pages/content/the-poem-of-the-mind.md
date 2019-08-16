@@ -3,12 +3,14 @@ title: "The Poem of the Mind"
 slug: "the-poem-of-the-mind"
 issue: "Winter"
 year: "2011"
+date: "2011-01-01"
 authors: ['John Koethe']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 The poem of the mind starts with a question,
 

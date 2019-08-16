@@ -3,12 +3,14 @@ title: "Moles"
 slug: "moles"
 issue: "Fall"
 year: "2015"
+date: "2015-09-01"
 authors: ['Leah Xue']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 moles just want
 

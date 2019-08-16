@@ -3,12 +3,14 @@ title: "My Sister in Love"
 slug: "my-sister-in-love"
 issue: "Summer"
 year: "2016"
+date: "2016-06-01"
 authors: ['Frankie Zwick']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Our satellite phone looked like any regular phone—made of that white plastic that goes yellow pretty fast, with a cord to the receiver that just crawled around your fingers when you talked on it. Most often the connection sounded more like two tin cans tied together with a string, with the voice on the other end echoing in the aluminum, and when you picked up the handset you always had to wait longer than you thought for the line to click on. Timing it took some practice, but after thirteen years growing up on the Bitterroot Ranch in western Montana, I got to know it like a heartbeat. It rang that day around seven o’clock, while the pork chops were soaking in their brine on the kitchen counter, and my mother answered. 
 

@@ -3,12 +3,14 @@ title: "Private Parts "
 slug: "private-parts"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Owen Ojo']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 My mother doesn’t believe in medicine. It doesn’t matter if it’s a prescription for antibiotics, some life-saving vaccination, or even the most basic level of psychotherapy.
 

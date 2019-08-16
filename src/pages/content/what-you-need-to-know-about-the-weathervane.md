@@ -3,12 +3,14 @@ title: "What You Need to Know About the Weathervane"
 slug: "what-you-need-to-know-about-the-weathervane"
 issue: "Commencement"
 year: "2013"
+date: "2013-06-01"
 authors: ['Lincoln Michel']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 So this clown Dave buys the house next door to me and now he is my neighbor. Okay. 
 

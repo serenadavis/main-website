@@ -3,12 +3,14 @@ title: "Nanny Issues"
 slug: "nanny-issues"
 issue: "Summer"
 year: "2017"
+date: "2017-06-01"
 authors: ['Marella Gayla']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 *Author's note: I have changed the names of the characters mentioned in this piece. “Malie” really is her first name, though.*
 

@@ -3,12 +3,14 @@ title: "In Memoriam"
 slug: "in-memoriam"
 issue: "Spring"
 year: "2014"
+date: "2014-03-01"
 authors: ['Victoria Baena']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Down the passage we did not take
 

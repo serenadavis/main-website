@@ -3,12 +3,14 @@ title: "Getting the Picture."
 slug: "getting-the-picture"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['D. A. Powell']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Wicked wienie wonce was woman whuut. That’s what you wrote in my yearbook. We were in bra and panties it was fright night alright.
 

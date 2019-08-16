@@ -3,12 +3,14 @@ title: "Sehkmets Conceit"
 slug: "sehkmets-conceit"
 issue: "Winter"
 year: "2017"
+date: "2017-01-01"
 authors: ['Airea D. Matthews']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

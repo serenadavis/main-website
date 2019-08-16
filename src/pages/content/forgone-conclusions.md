@@ -3,12 +3,14 @@ title: "Forgone Conclusions"
 slug: "forgone-conclusions"
 issue: "Spring"
 year: "2017"
+date: "2017-03-01"
 authors: ['Charlie Horan']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 A real failure of a lot of political thinking is its failure to account the significance of the “teleological suspension of the ethical.” This phrase, svelte in its ramshackle way, comes to us from the great Danish theologian Kierkegaard, from whom we have it also that “Anxiety is the dizziness of freedom.” Kierkegaard develops the concept of teleological suspension in 1843’s Fear and Trembling, in which he considers the Biblical (Genetic) Binding of Isaac. Abraham, the father of Isaac, prepares to sacrifice his son at God’s (ultimately insincere) behest, although this murder evidently would be against all morality. Kierkegaard permits Abraham’s faith in God, delity to His injunction, to overwhelm the categorical compulsion of standard morality: for this highest end-goal, telos, ethics he may suspend. 
 

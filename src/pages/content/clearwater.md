@@ -3,12 +3,14 @@ title: "clearwater"
 slug: "clearwater"
 issue: "Spring"
 year: "2016"
+date: "2016-03-01"
 authors: ['Sarah Toomey']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 it is fifty-fifty that she
 

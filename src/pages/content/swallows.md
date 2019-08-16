@@ -3,12 +3,14 @@ title: "Swallows"
 slug: "swallows"
 issue: "Spring"
 year: "2012"
+date: "2012-03-01"
 authors: ['Matt Aucoin']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Shards of exact memory, 
 

@@ -3,12 +3,14 @@ title: "The Many Lessons of Cannibalism"
 slug: "the-many-lessons-of-cannibalism"
 issue: "Spring"
 year: "2015"
+date: "2015-03-01"
 authors: ['Caleb Lewis']
 section: "columns"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 In November of 2014, Boston’s Institute of Contemporary Art hosted the work of acclaimed Brazilian painter Adriana Varejão, marking the artist’s first major consideration in the United States. Upon entering the exhibit, the viewer immediately encounters the life-sized figure of a nude woman painted in deep steel-blue against an off-white canvas. Right arm wrapped around an oversized war-axe, and left arm outstretched sweepingly, she appears at first to welcome the viewer into the space. But there is a guilefulness in her smile. Her hand, inscribed with the same floral tattoos that traverse her entire form, gestures beyond the columns behind her, not in the direction of the other paintings on display. Between those columns unfolds what can only be described as cannibalistic bacchanalia. Smaller, nude figures dance and cavort around large fire pits over which legs, ribcages, and various other dismembered human bits roast grotesquely. A few of the anthropophagi participants stand apart from the others. Partially obscured by the gesturing woman in the foreground, they plunge their teeth into human meat, backs bent into the action, heads severely ripping flesh from bone.
 

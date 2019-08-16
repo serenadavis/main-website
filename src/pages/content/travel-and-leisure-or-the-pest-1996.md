@@ -3,12 +3,14 @@ title: "Travel and Leisure or The Pest (1996)"
 slug: "travel-and-leisure-or-the-pest-1996"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Elif Batuman']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 EXCERPTED FROM 1996 SPRING CONTEST ISSUE 
 

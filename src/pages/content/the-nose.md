@@ -3,12 +3,14 @@ title: "The Nose"
 slug: "the-nose"
 issue: "Winter"
 year: "2014"
+date: "2014-01-01"
 authors: ['Ryan Adams Murphy with Julian Avery Leonard']
 section: "art"
 audio: []
 main_image: ""
 banner_image: ""
 images: ['sites/default/files/2014_1_06 Masterfile_Advocate_TRIAL.P084.png']
+videos: []
 ---
 Painted pots (clay), pieces of mirror, paper dye
 

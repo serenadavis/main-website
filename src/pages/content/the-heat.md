@@ -3,12 +3,14 @@ title: "The Heat"
 slug: "the-heat"
 issue: "Fall"
 year: "2013"
+date: "2013-09-01"
 authors: ['Ben Sobel']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 It had been so hot for so long that “heat” was losing its place in the lexicon. Stifling humidity had enveloped the town so completely that there was no longer any use for a comparative or qualitative descriptor of the yawning, prickly fuzziness that seated itself upon anyone unlucky enough to find himself outside. Heat had flattened everything.
 

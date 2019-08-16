@@ -3,12 +3,14 @@ title: "Whose Woods These Are We Think"
 slug: "whose-woods-these-are-we-think"
 issue: "Winter"
 year: "2016"
+date: "2016-01-01"
 authors: ['Brenda Hillman']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 When they ask “What are you working on now that the elements
 

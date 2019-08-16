@@ -3,12 +3,14 @@ title: "Epiousios"
 slug: "epiousios"
 issue: "Summer"
 year: "2017"
+date: "2017-06-01"
 authors: ['Sam Reiss']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 Introduce me first as a victory  
 of grain measurement. ‘Here is a man made  

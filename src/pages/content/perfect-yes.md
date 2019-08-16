@@ -3,12 +3,14 @@ title: "Perfect Yes"
 slug: "perfect-yes"
 issue: "Spring"
 year: "2016"
+date: "2016-03-01"
 authors: ['Isa Flores-Jones']
 section: "fiction"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
  
 

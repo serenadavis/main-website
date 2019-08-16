@@ -3,12 +3,14 @@ title: "Putting Up Preserves"
 slug: "putting-up-preserves"
 issue: "Fall"
 year: "2010"
+date: "2010-09-01"
 authors: ['Eva DeLappe']
 section: "features"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 INT. PAGE - DAY
 

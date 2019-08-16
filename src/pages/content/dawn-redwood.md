@@ -3,12 +3,14 @@ title: "Dawn Redwood"
 slug: "dawn-redwood"
 issue: "Winter"
 year: "2017"
+date: "2017-01-01"
 authors: ['Arthur Sze']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
   Early morning light: a young red-tailed hawk
 

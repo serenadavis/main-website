@@ -3,12 +3,14 @@ title: "Only Your Good Boy Violence"
 slug: "only-your-good-boy-violence"
 issue: "Spring"
 year: "2018"
+date: "2018-03-01"
 authors: ['Nathaniel Rosenthalis']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 1
 

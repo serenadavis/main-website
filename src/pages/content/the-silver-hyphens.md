@@ -3,12 +3,14 @@ title: "THE SILVER HYPHENS"
 slug: "the-silver-hyphens"
 issue: "Spring"
 year: "2018"
+date: "2018-03-01"
 authors: ['Donald Revell']
 section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
 images: []
+videos: []
 ---
 To my amazement, someone is dancing.  
 Eternal Biedermeier, the sound of windshield wipers  

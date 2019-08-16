@@ -3,12 +3,14 @@ title: "Dreams herself into being"
 slug: "dreams-herself-into-being"
 issue: "Winter"
 year: "2015"
+date: "2015-01-01"
 authors: ['Kara Walker']
 section: "art"
 audio: []
 main_image: ""
 banner_image: ""
 images: ['sites/default/files/Winter2015Final8.png']
+videos: []
 ---
   
 Watercolor on paper  
