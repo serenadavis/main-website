@@ -9,7 +9,7 @@ body {
   padding: 20px 0;
 }
 
-/* @font-face {
+@font-face {
     font-family: 'league_gothicregular';
     src: url('../fonts/league_gothic.eot');
     src: url('../fonts/league_gothic.eot?#iefix') format('embedded-opentype'),
@@ -29,7 +29,7 @@ body {
 @font-face {
   font-family: 'futura-light';
   src: url('../fonts/futura-light.ttf');
-} */
+}
 a {
     color: black;
 }
