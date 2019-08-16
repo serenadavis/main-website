@@ -2,6 +2,7 @@
 title: "The One About Us"
 slug: "the-one-about-us"
 issue: "Spring"
+issue_full_name: "Spring 2009"
 year: "2009"
 date: "2009-03-01"
 authors: ['Kathleen Hale']

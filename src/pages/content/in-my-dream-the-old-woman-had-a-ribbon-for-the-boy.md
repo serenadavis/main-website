@@ -2,6 +2,7 @@
 title: "[In my dream the old woman had a ribbon for the boy]"
 slug: "in-my-dream-the-old-woman-had-a-ribbon-for-the-boy"
 issue: "Fall"
+issue_full_name: "Fall 2009"
 year: "2009"
 date: "2009-09-01"
 authors: ['Abram Kaplan']

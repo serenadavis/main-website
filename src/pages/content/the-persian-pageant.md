@@ -2,6 +2,7 @@
 title: "The Persian Pageant"
 slug: "the-persian-pageant"
 issue: "Winter"
+issue_full_name: "Winter 2012"
 year: "2012"
 date: "2012-01-01"
 authors: ['Spencer Burke']

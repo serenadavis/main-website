@@ -2,6 +2,7 @@
 title: "Drilling Machine 7"
 slug: "drilling-machine-7"
 issue: "Spring"
+issue_full_name: "Spring 2018"
 year: "2018"
 date: "2018-03-01"
 authors: ['Robert R. Thurman']

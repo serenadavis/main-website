@@ -2,6 +2,7 @@
 title: "Polonius to Prufrock"
 slug: "polonius-to-prufrock"
 issue: "Winter"
+issue_full_name: "Winter 2015"
 year: "2015"
 date: "2015-01-01"
 authors: ['Robbie Burr Eginton']

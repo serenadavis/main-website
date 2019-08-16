@@ -2,6 +2,7 @@
 title: "still, i wonder if you wonder if we are capable of suffering?"
 slug: "still-i-wonder-if-you-wonder-if-we-are-capable-of-suffering"
 issue: "Winter"
+issue_full_name: "Winter 2016"
 year: "2016"
 date: "2016-01-01"
 authors: ['Danez Smith']

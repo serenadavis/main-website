@@ -2,6 +2,7 @@
 title: "And It'll Haunt You Forever"
 slug: "and-itll-haunt-you-forever"
 issue: "Summer"
+issue_full_name: "Summer 2017"
 year: "2017"
 date: "2017-06-01"
 authors: ['Byung Joon Lee']

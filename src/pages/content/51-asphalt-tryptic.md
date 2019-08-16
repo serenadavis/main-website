@@ -2,6 +2,7 @@
 title: "51 (asphalt tryptic)"
 slug: "51-asphalt-tryptic"
 issue: "Commencement"
+issue_full_name: "Commencement 2012"
 year: "2012"
 date: "2012-06-01"
 authors: ['Scott Roben']

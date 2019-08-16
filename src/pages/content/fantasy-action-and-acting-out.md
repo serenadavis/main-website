@@ -2,6 +2,7 @@
 title: "Fantasy, Action, and Acting Out"
 slug: "fantasy-action-and-acting-out"
 issue: "Spring"
+issue_full_name: "Spring 2015"
 year: "2015"
 date: "2015-03-01"
 authors: ['Daniel Schwartz']

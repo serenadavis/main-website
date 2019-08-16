@@ -2,6 +2,7 @@
 title: "An Interview With Maggie Nelson"
 slug: "an-interview-with-maggie-nelson"
 issue: "Winter"
+issue_full_name: "Winter 2018"
 year: "2018"
 date: "2018-01-01"
 authors: ['The Harvard Advocate Staff']

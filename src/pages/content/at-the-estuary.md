@@ -2,6 +2,7 @@
 title: "At the Estuary"
 slug: "at-the-estuary"
 issue: "Fall"
+issue_full_name: "Fall 2010"
 year: "2010"
 date: "2010-09-01"
 authors: ['Stephanie Newman']

@@ -2,6 +2,7 @@
 title: "Made of Vice"
 slug: "made-of-vice"
 issue: "Spring"
+issue_full_name: "Spring 2009"
 year: "2009"
 date: "2009-03-01"
 authors: ['Mark Chiusano']

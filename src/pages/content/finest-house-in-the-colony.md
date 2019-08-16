@@ -2,6 +2,7 @@
 title: "Finest House in the Colony"
 slug: "finest-house-in-the-colony"
 issue: "Fall"
+issue_full_name: "Fall 2011"
 year: "2011"
 date: "2011-09-01"
 authors: ['Alexander J.B. Wells']

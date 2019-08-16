@@ -2,6 +2,7 @@
 title: "In Memoriam"
 slug: "in-memoriam"
 issue: "Spring"
+issue_full_name: "Spring 2014"
 year: "2014"
 date: "2014-03-01"
 authors: ['Victoria Baena']

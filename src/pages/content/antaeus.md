@@ -2,6 +2,7 @@
 title: "Antaeus"
 slug: "antaeus"
 issue: "Winter"
+issue_full_name: "Winter 2009"
 year: "2009"
 date: "2009-01-01"
 authors: ['Marta Figlerowicz']

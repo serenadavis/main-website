@@ -2,6 +2,7 @@
 title: "[Two birds flew around a branch]"
 slug: "two-birds-flew-around-a-branch"
 issue: "Fall"
+issue_full_name: "Fall 2010"
 year: "2010"
 date: "2010-09-01"
 authors: ['Oliver Strand']

@@ -2,6 +2,7 @@
 title: "Parents"
 slug: "parents"
 issue: "Spring"
+issue_full_name: "Spring 2008"
 year: "2008"
 date: "2008-03-01"
 authors: ['Maria P. Vassileva']

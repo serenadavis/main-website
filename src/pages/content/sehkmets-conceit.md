@@ -2,6 +2,7 @@
 title: "Sehkmets Conceit"
 slug: "sehkmets-conceit"
 issue: "Winter"
+issue_full_name: "Winter 2017"
 year: "2017"
 date: "2017-01-01"
 authors: ['Airea D. Matthews']

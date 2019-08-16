@@ -2,6 +2,7 @@
 title: "[for the purpose of catching ourselves in the act of being the most]"
 slug: "for-the-purpose-of-catching-ourselves-in-the-act-of-being-the-most"
 issue: "Winter"
+issue_full_name: "Winter 2014"
 year: "2014"
 date: "2014-01-01"
 authors: ['Julian Avery Leonard & Eric Brewster with the Generalist']

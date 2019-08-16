@@ -2,6 +2,7 @@
 title: "SantaCon is Coming to Town"
 slug: "santacon-is-coming-to-town"
 issue: "Winter"
+issue_full_name: "Winter 2014"
 year: "2014"
 date: "2014-01-01"
 authors: ['Sam Reynolds']

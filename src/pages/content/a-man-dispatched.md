@@ -2,6 +2,7 @@
 title: "A Man Dispatched"
 slug: "a-man-dispatched"
 issue: "Winter"
+issue_full_name: "Winter 2011"
 year: "2011"
 date: "2011-01-01"
 authors: ['Jessica Sequeira']

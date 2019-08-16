@@ -2,6 +2,7 @@
 title: "Pitter Patter"
 slug: "pitter-patter"
 issue: "Summer"
+issue_full_name: "Summer 2017"
 year: "2017"
 date: "2017-06-01"
 authors: ['Adrienne Celt']

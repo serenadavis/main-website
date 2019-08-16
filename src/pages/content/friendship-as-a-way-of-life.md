@@ -2,6 +2,7 @@
 title: "Friendship as a Way of Life"
 slug: "friendship-as-a-way-of-life"
 issue: "Winter"
+issue_full_name: "Winter 2018"
 year: "2018"
 date: "2018-01-01"
 authors: ['Lily Scherlis']

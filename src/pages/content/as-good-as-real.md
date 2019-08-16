@@ -2,6 +2,7 @@
 title: "As Good As Real"
 slug: "as-good-as-real"
 issue: "Summer"
+issue_full_name: "Summer 2016"
 year: "2016"
 date: "2016-06-01"
 authors: ['Fan Li']

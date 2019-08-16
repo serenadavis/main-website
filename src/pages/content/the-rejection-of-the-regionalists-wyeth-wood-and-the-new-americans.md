@@ -2,6 +2,7 @@
 title: "The Rejection of the Regionalists: Wyeth, Wood, and the New Americans"
 slug: "the-rejection-of-the-regionalists-wyeth-wood-and-the-new-americans"
 issue: "Commencement"
+issue_full_name: "Commencement 2009"
 year: "2009"
 date: "2009-06-01"
 authors: ['Emily Chertoff']

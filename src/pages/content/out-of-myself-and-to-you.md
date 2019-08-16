@@ -2,6 +2,7 @@
 title: "Out of Myself And To You"
 slug: "out-of-myself-and-to-you"
 issue: "Spring"
+issue_full_name: "Spring 2017"
 year: "2017"
 date: "2017-03-01"
 authors: ['Grazie Sophia Christie']

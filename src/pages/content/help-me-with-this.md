@@ -2,6 +2,7 @@
 title: "Help Me With This"
 slug: "help-me-with-this"
 issue: "Winter"
+issue_full_name: "Winter 2014"
 year: "2014"
 date: "2014-01-01"
 authors: ['Vincent Craig Wright']

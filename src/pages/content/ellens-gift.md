@@ -2,6 +2,7 @@
 title: "Ellen's Gift "
 slug: "ellens-gift"
 issue: "Winter"
+issue_full_name: "Winter 2013"
 year: "2013"
 date: "2013-01-01"
 authors: ['Iris H\xc3\xa4ussler']

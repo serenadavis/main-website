@@ -2,6 +2,7 @@
 title: "W.G. Sebald: Writing around Destruction"
 slug: "wg-sebald-writing-around-destruction"
 issue: "Fall"
+issue_full_name: "Fall 2015"
 year: "2015"
 date: "2015-09-01"
 authors: ['Bailey Trela']

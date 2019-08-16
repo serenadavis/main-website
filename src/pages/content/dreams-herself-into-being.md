@@ -2,6 +2,7 @@
 title: "Dreams herself into being"
 slug: "dreams-herself-into-being"
 issue: "Winter"
+issue_full_name: "Winter 2015"
 year: "2015"
 date: "2015-01-01"
 authors: ['Kara Walker']

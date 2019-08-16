@@ -2,6 +2,7 @@
 title: "Another Elegy "
 slug: "another-elegy"
 issue: "Spring"
+issue_full_name: "Spring 2017"
 year: "2017"
 date: "2017-03-01"
 authors: ["Geoffrey G. O'Brien"]

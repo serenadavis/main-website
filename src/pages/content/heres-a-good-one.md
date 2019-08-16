@@ -2,6 +2,7 @@
 title: "Here's a Good One"
 slug: "heres-a-good-one"
 issue: "Winter"
+issue_full_name: "Winter 2014"
 year: "2014"
 date: "2014-01-01"
 authors: ['Eric Brewster']

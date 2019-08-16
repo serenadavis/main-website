@@ -2,6 +2,7 @@
 title: "Above Ground"
 slug: "above-ground"
 issue: "Commencement"
+issue_full_name: "Commencement 2011"
 year: "2011"
 date: "2011-06-01"
 authors: ['Carolyn Gaebler']

@@ -2,6 +2,7 @@
 title: "A Queue for Dispossession"
 slug: "a-queue-for-dispossession"
 issue: "Fall"
+issue_full_name: "Fall 2014"
 year: "2014"
 date: "2014-09-01"
 authors: ['Bianca V\xc3\xa1zquez']

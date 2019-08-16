@@ -2,6 +2,7 @@
 title: "Mrs. Xia, Part III"
 slug: "mrs-xia-part-iii"
 issue: "Commencement"
+issue_full_name: "Commencement 2012"
 year: "2012"
 date: "2012-06-01"
 authors: ['Kevin Hong']

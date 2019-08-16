@@ -2,6 +2,7 @@
 title: "The 450-Year-Old-Man"
 slug: "the-450-year-old-man"
 issue: "Spring"
+issue_full_name: "Spring 2014"
 year: "2014"
 date: "2014-03-01"
 authors: ['Sam Reynolds']

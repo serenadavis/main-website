@@ -2,6 +2,7 @@
 title: "Kansas (Or Some Approximation of It)"
 slug: "kansas-or-some-approximation-of-it"
 issue: "Winter"
+issue_full_name: "Winter 2017"
 year: "2017"
 date: "2017-01-01"
 authors: ['Byung Joon Lee']

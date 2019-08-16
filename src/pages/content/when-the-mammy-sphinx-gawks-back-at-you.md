@@ -2,6 +2,7 @@
 title: "When the Mammy Sphinx Gawks Back at You!"
 slug: "when-the-mammy-sphinx-gawks-back-at-you"
 issue: "Winter"
+issue_full_name: "Winter 2015"
 year: "2015"
 date: "2015-01-01"
 authors: ['Caleb Lewis']

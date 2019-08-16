@@ -2,6 +2,7 @@
 title: "from Metaphor and Simile24 poems at years end'"
 slug: "from-metaphor-and-simile24-poems-at-years-end"
 issue: "Winter"
+issue_full_name: "Winter 2016"
 year: "2016"
 date: "2016-01-01"
 authors: ['Brenda Hillman']

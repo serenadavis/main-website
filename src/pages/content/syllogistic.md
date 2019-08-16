@@ -2,6 +2,7 @@
 title: "Syllogistic"
 slug: "syllogistic"
 issue: "Commencement"
+issue_full_name: "Commencement 2014"
 year: "2014"
 date: "2014-06-01"
 authors: ['Daniel Schwartz']

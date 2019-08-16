@@ -2,6 +2,7 @@
 title: "I Wont Watch No Reruns"
 slug: "i-wont-watch-no-reruns"
 issue: "Commencement"
+issue_full_name: "Commencement 2013"
 year: "2013"
 date: "2013-06-01"
 authors: ['Tyler Richard']

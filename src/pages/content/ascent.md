@@ -2,6 +2,7 @@
 title: "Ascent"
 slug: "ascent"
 issue: "Fall"
+issue_full_name: "Fall 2017"
 year: "2017"
 date: "2017-09-01"
 authors: ['Devon Walker-Figueroa']

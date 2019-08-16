@@ -2,6 +2,7 @@
 title: "Editor's Note: Fall 2017"
 slug: "editors-note-fall-2017"
 issue: "Fall"
+issue_full_name: "Fall 2017"
 year: "2017"
 date: "2017-09-01"
 authors: ['Lily Scherlis', 'Lev Mamuya']

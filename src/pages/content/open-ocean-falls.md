@@ -2,6 +2,7 @@
 title: "[Open ocean falls]"
 slug: "open-ocean-falls"
 issue: "Winter"
+issue_full_name: "Winter 2011"
 year: "2011"
 date: "2011-01-01"
 authors: ['Matt Aucoin']

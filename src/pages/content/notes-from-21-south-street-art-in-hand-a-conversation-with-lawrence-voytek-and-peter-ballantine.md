@@ -2,6 +2,7 @@
 title: "Notes From 21 South Street: Art in Hand: A Conversation with Lawrence Voytek and Peter Ballantine"
 slug: "notes-from-21-south-street-art-in-hand-a-conversation-with-lawrence-voytek-and-peter-ballantine"
 issue: "Fall"
+issue_full_name: "Fall 2009"
 year: "2009"
 date: "2009-09-01"
 authors: ['Madeleine Schwartz']

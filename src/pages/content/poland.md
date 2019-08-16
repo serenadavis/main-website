@@ -2,6 +2,7 @@
 title: "Poland"
 slug: "poland"
 issue: "Winter"
+issue_full_name: "Winter 2012"
 year: "2012"
 date: "2012-01-01"
 authors: ['Emily Chertoff']

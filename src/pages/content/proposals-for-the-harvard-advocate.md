@@ -2,6 +2,7 @@
 title: "Proposals for the Harvard Advocate"
 slug: "proposals-for-the-harvard-advocate"
 issue: "Winter"
+issue_full_name: "Winter 2014"
 year: "2014"
 date: "2014-01-01"
 authors: ['Peter Liversidge']

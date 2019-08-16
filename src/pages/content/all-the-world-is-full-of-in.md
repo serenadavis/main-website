@@ -2,6 +2,7 @@
 title: "All the World is Full of In"
 slug: "all-the-world-is-full-of-in"
 issue: "Summer"
+issue_full_name: "Summer 2018"
 year: "2018"
 date: "2018-06-01"
 authors: ['Sam Reiss']

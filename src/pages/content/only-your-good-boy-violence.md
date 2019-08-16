@@ -2,6 +2,7 @@
 title: "Only Your Good Boy Violence"
 slug: "only-your-good-boy-violence"
 issue: "Spring"
+issue_full_name: "Spring 2018"
 year: "2018"
 date: "2018-03-01"
 authors: ['Nathaniel Rosenthalis']

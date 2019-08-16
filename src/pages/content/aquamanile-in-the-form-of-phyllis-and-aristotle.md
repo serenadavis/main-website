@@ -2,6 +2,7 @@
 title: "Aquamanile in the Form of Phyllis and Aristotle"
 slug: "aquamanile-in-the-form-of-phyllis-and-aristotle"
 issue: "Spring"
+issue_full_name: "Spring 2015"
 year: "2015"
 date: "2015-03-01"
 authors: ['Zo\xc3\xab Hitzig']

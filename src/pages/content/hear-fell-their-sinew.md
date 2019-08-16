@@ -2,6 +2,7 @@
 title: "hear fell their sinew"
 slug: "hear-fell-their-sinew"
 issue: "Fall"
+issue_full_name: "Fall 2015"
 year: "2015"
 date: "2015-09-01"
 authors: ['Eli Schleicher']

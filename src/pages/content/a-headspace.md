@@ -2,6 +2,7 @@
 title: "A Headspace"
 slug: "a-headspace"
 issue: "Summer"
+issue_full_name: "Summer 2018"
 year: "2018"
 date: "2018-06-01"
 authors: ['Lily Scherlis']

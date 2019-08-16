@@ -2,6 +2,7 @@
 title: "A Pound of Flesh for the Venice Biennale"
 slug: "a-pound-of-flesh-for-the-venice-biennale"
 issue: "Fall"
+issue_full_name: "Fall 2009"
 year: "2009"
 date: "2009-09-01"
 authors: ['Emily Chertoff']

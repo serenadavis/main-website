@@ -2,6 +2,7 @@
 title: "Mater Admirabilis: Wine"
 slug: "mater-admirabilis-wine"
 issue: "Spring"
+issue_full_name: "Spring 2017"
 year: "2017"
 date: "2017-03-01"
 authors: ['Serena Eggers']

@@ -2,6 +2,7 @@
 title: "Amathophobia"
 slug: "amathophobia"
 issue: "Summer"
+issue_full_name: "Summer 2018"
 year: "2018"
 date: "2018-06-01"
 authors: ['Eliya Smith']

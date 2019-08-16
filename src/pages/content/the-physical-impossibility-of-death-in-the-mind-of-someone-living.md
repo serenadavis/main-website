@@ -2,6 +2,7 @@
 title: "The Physical Impossibility of Death in the Mind of Someone Living"
 slug: "the-physical-impossibility-of-death-in-the-mind-of-someone-living"
 issue: "Fall"
+issue_full_name: "Fall 2017"
 year: "2017"
 date: "2017-09-01"
 authors: ['Byung Joon Lee']

@@ -2,6 +2,7 @@
 title: "Psyche in Bed"
 slug: "psyche-in-bed"
 issue: "Fall"
+issue_full_name: "Fall 2011"
 year: "2011"
 date: "2011-09-01"
 authors: ['Julian Gewirtz']

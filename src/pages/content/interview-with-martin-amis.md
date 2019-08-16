@@ -2,6 +2,7 @@
 title: "Interview with Martin Amis"
 slug: "interview-with-martin-amis"
 issue: "Winter"
+issue_full_name: "Winter 2013"
 year: "2013"
 date: "2013-01-01"
 authors: ['Harvard Advocate Staff']

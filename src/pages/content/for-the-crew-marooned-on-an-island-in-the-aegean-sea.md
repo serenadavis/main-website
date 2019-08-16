@@ -2,6 +2,7 @@
 title: "For The Crew Marooned On an Island in the Aegean Sea"
 slug: "for-the-crew-marooned-on-an-island-in-the-aegean-sea"
 issue: "Winter"
+issue_full_name: "Winter 2014"
 year: "2014"
 date: "2014-01-01"
 authors: ['Matt Krane']

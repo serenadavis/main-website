@@ -2,6 +2,7 @@
 title: "The not-so-secret continuity of Elena Ferrante "
 slug: "the-not-so-secret-continuity-of-elena-ferrante"
 issue: "Winter"
+issue_full_name: "Winter 2016"
 year: "2016"
 date: "2016-01-01"
 authors: ['Yen Pham']

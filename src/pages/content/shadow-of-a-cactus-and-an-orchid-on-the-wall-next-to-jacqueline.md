@@ -2,6 +2,7 @@
 title: "Shadow of a cactus and an orchid on the wall next to Jacqueline"
 slug: "shadow-of-a-cactus-and-an-orchid-on-the-wall-next-to-jacqueline"
 issue: "Winter"
+issue_full_name: "Winter 2017"
 year: "2017"
 date: "2017-01-01"
 authors: ['Daniela Muhleisen']

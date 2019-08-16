@@ -2,6 +2,7 @@
 title: "The Moth Garden"
 slug: "the-moth-garden"
 issue: "Commencement"
+issue_full_name: "Commencement 2014"
 year: "2014"
 date: "2014-06-01"
 authors: ['Kevin Hong']

@@ -2,6 +2,7 @@
 title: "La Montagne qui accouche (1982)"
 slug: "la-montagne-qui-accouche-1982"
 issue: "Winter"
+issue_full_name: "Winter 2016"
 year: "2016"
 date: "2016-01-01"
 authors: ['Jean de La Fontaine']

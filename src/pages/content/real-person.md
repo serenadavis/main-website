@@ -2,6 +2,7 @@
 title: "Real Person"
 slug: "real-person"
 issue: "Spring"
+issue_full_name: "Spring 2019"
 year: "2019"
 date: "2019-03-01"
 authors: ['Katherine Liu']

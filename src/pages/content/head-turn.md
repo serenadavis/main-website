@@ -2,6 +2,7 @@
 title: "Head Turn "
 slug: "head-turn"
 issue: "Fall"
+issue_full_name: "Fall 2014"
 year: "2014"
 date: "2014-09-01"
 authors: ['Kara Zona']

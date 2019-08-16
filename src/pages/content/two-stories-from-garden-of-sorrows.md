@@ -2,6 +2,7 @@
 title: "Two Stories from Garden of Sorrows"
 slug: "two-stories-from-garden-of-sorrows"
 issue: "Winter"
+issue_full_name: "Winter 2013"
 year: "2013"
 date: "2013-01-01"
 authors: ['John Hughes']

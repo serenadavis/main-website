@@ -2,6 +2,7 @@
 title: "The Riddle That Proposes Us: John Ashbery's Flow Chart (1996)"
 slug: "the-riddle-that-proposes-us-john-ashberys-flow-chart-1996"
 issue: "Winter"
+issue_full_name: "Winter 2016"
 year: "2016"
 date: "2016-01-01"
 authors: ['Benjamin Kunkel']

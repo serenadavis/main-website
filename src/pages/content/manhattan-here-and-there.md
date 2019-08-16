@@ -2,6 +2,7 @@
 title: "Manhattan, Here and There"
 slug: "manhattan-here-and-there"
 issue: "Spring"
+issue_full_name: "Spring 2010"
 year: "2010"
 date: "2010-03-01"
 authors: ['Rebecca Cooper']

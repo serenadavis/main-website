@@ -2,6 +2,7 @@
 title: "Click to Watch in HD: The Model, Theory, & Aesthetics of Islamic State Media"
 slug: "click-to-watch-in-hd-the-model-theory-aesthetics-of-islamic-state-media"
 issue: "Summer"
+issue_full_name: "Summer 2015"
 year: "2015"
 date: "2015-06-01"
 authors: ['Kurt Slawitschka']

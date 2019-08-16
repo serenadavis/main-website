@@ -2,6 +2,7 @@
 title: "Envoy: A Short Discussion of Even Longer Words"
 slug: "envoy-a-short-discussion-of-even-longer-words"
 issue: "Spring"
+issue_full_name: "Spring 2011"
 year: "2011"
 date: "2011-03-01"
 authors: ['Eric Brewster']

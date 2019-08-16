@@ -2,6 +2,7 @@
 title: "Ansatz: Confronting a Still Life"
 slug: "ansatz-confronting-a-still-life"
 issue: "Spring"
+issue_full_name: "Spring 2014"
 year: "2014"
 date: "2014-03-01"
 authors: ['Zo\xc3\xab Hitzig']

@@ -2,6 +2,7 @@
 title: "10,000 Chairs of Harvard"
 slug: "10000-chairs-of-harvard"
 issue: "Winter"
+issue_full_name: "Winter 2013"
 year: "2013"
 date: "2013-01-01"
 authors: ['D.T. Max']

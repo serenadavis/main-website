@@ -2,6 +2,7 @@
 title: "Epidemic"
 slug: "epidemic"
 issue: "Fall"
+issue_full_name: "Fall 2017"
 year: "2017"
 date: "2017-09-01"
 authors: ['Jorge Olivera Castillo, trans. by Javi Arango']

@@ -2,6 +2,7 @@
 title: "The Endless"
 slug: "the-endless"
 issue: "Spring"
+issue_full_name: "Spring 2013"
 year: "2013"
 date: "2013-03-01"
 authors: ['Mika Seifert']

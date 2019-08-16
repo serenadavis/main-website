@@ -2,6 +2,7 @@
 title: "Pieces of a Man"
 slug: "pieces-of-a-man"
 issue: "Winter"
+issue_full_name: "Winter 2013"
 year: "2013"
 date: "2013-01-01"
 authors: ['Jesse Nee-Vogelman']

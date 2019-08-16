@@ -2,6 +2,7 @@
 title: "PATTY"
 slug: "patty"
 issue: "Fall"
+issue_full_name: "Fall 2009"
 year: "2009"
 date: "2009-09-01"
 authors: ['Rebecca Lieberman']

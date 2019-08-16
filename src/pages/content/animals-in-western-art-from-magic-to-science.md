@@ -2,6 +2,7 @@
 title: "Animals in Western Art: From Magic to Science "
 slug: "animals-in-western-art-from-magic-to-science"
 issue: "Winter"
+issue_full_name: "Winter 2010"
 year: "2010"
 date: "2010-01-01"
 authors: ['Bruce Boucher']

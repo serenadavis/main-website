@@ -2,6 +2,7 @@
 title: "Le premier matin du monde 1"
 slug: "le-premier-matin-du-monde-1"
 issue: "Fall"
+issue_full_name: "Fall 2014"
 year: "2014"
 date: "2014-09-01"
 authors: ['Jerome Karsenti']

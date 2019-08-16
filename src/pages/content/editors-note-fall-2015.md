@@ -2,6 +2,7 @@
 title: "Editor's Note: Fall 2015"
 slug: "editors-note-fall-2015"
 issue: "Fall"
+issue_full_name: "Fall 2015"
 year: "2015"
 date: "2015-09-01"
 authors: ['The Advocate Editorial Board']

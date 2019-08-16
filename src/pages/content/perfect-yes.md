@@ -2,6 +2,7 @@
 title: "Perfect Yes"
 slug: "perfect-yes"
 issue: "Spring"
+issue_full_name: "Spring 2016"
 year: "2016"
 date: "2016-03-01"
 authors: ['Isa Flores-Jones']

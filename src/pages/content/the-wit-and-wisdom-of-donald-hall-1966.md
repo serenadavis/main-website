@@ -2,6 +2,7 @@
 title: "The Wit and Wisdom of Donald Hall (1966)"
 slug: "the-wit-and-wisdom-of-donald-hall-1966"
 issue: "Winter"
+issue_full_name: "Winter 2016"
 year: "2016"
 date: "2016-01-01"
 authors: ['Donald Hall']

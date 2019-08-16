@@ -2,6 +2,7 @@
 title: "Origin: Editor's Note"
 slug: "origin-editors-note"
 issue: "Winter"
+issue_full_name: "Winter 2013"
 year: "2013"
 date: "2013-01-01"
 authors: ['Alexander J.B. Wells']

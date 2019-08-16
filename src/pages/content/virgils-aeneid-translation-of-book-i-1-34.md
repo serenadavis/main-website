@@ -2,6 +2,7 @@
 title: "Virgil's Aeneid Translation of Book I. 1-34"
 slug: "virgils-aeneid-translation-of-book-i-1-34"
 issue: "Winter"
+issue_full_name: "Winter 2013"
 year: "2013"
 date: "2013-01-01"
 authors: ['David Ferry']

@@ -2,6 +2,7 @@
 title: "Human Capital: Investing in the Worlds First Publicly Traded Person"
 slug: "human-capital-investing-in-the-worlds-first-publicly-traded-person"
 issue: "Spring"
+issue_full_name: "Spring 2018"
 year: "2018"
 date: "2018-03-01"
 authors: ['Hansen Shi']

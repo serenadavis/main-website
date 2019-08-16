@@ -2,6 +2,7 @@
 title: "Twilight of the Libraries"
 slug: "twilight-of-the-libraries"
 issue: "Commencement"
+issue_full_name: "Commencement 2009"
 year: "2009"
 date: "2009-06-01"
 authors: ['Sanders Bernstein']

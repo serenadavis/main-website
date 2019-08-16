@@ -2,6 +2,7 @@
 title: "New You in Old, Old America (or 1 Month & 2 Weeks in Shit Tons of Pain)"
 slug: "new-you-in-old-old-america-or-1-month-2-weeks-in-shit-tons-of-pain"
 issue: "Fall"
+issue_full_name: "Fall 2016"
 year: "2016"
 date: "2016-09-01"
 authors: ['Owen Ojo']

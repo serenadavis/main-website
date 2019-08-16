@@ -2,6 +2,7 @@
 title: "The Sea Beyond This World [translated]"
 slug: "the-sea-beyond-this-world-translated"
 issue: "Winter"
+issue_full_name: "Winter 2011"
 year: "2011"
 date: "2011-01-01"
 authors: ['Kiwao Nomura']

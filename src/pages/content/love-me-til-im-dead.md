@@ -2,6 +2,7 @@
 title: "Love Me Til I'm Dead"
 slug: "love-me-til-im-dead"
 issue: "Winter"
+issue_full_name: "Winter 2017"
 year: "2017"
 date: "2017-01-01"
 authors: ['Danniel Schoonebeek']

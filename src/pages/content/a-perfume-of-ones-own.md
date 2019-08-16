@@ -2,6 +2,7 @@
 title: "A Perfume of One's Own"
 slug: "a-perfume-of-ones-own"
 issue: "Summer"
+issue_full_name: "Summer 2015"
 year: "2015"
 date: "2015-06-01"
 authors: ['Maia Silber']

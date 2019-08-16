@@ -1,9 +1,19 @@
 const path = require('path')
 
+function convertToSlug(Text)
+{
+    return Text
+        .toLowerCase()
+        .replace(/ /g,'-')
+        .replace(/[^\w-]+/g,'')
+        ;
+}
+
 exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators
 
   const postTemplate = path.resolve('src/templates/article.js')
+  const issueTemplate = path.resolve('src/templates/issue.js')
 
   return graphql(`
   {
@@ -23,6 +33,12 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
           }
         }
       }
+    },
+    issue_names: allMarkdownRemark {
+        distinct(field: frontmatter___issue_full_name)
+    },
+    authors: allMarkdownRemark {
+        distinct(field: frontmatter___authors)
     }
   }
     `).then(res => {
@@ -36,6 +52,15 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
         component: postTemplate,
         context: { slug: node.frontmatter.slug}
       })
+    })
+    console.log(res.data.issue_names.distinct)
+    res.data.issue_names.distinct.forEach( issue_name  => {
+        console.log(issue_name)
+        createPage({
+            path: 'issue/'+convertToSlug(issue_name),
+            component: issueTemplate,
+            context: { issue_full_name: issue_name}
+          })
     })
   })
 }

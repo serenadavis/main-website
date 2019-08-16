@@ -2,6 +2,7 @@
 title: "Oblation"
 slug: "oblation"
 issue: "Fall"
+issue_full_name: "Fall 2018"
 year: "2018"
 date: "2018-09-01"
 authors: ['Sophia Mautz']

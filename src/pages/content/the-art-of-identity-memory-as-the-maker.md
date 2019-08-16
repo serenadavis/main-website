@@ -2,6 +2,7 @@
 title: "The Art of Identity: Memory as the Maker"
 slug: "the-art-of-identity-memory-as-the-maker"
 issue: "Winter"
+issue_full_name: "Winter 2009"
 year: "2009"
 date: "2009-01-01"
 authors: ['Allison Keeley']

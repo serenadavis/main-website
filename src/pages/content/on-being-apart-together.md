@@ -2,6 +2,7 @@
 title: "On Being Apart Together"
 slug: "on-being-apart-together"
 issue: "Summer"
+issue_full_name: "Summer 2017"
 year: "2017"
 date: "2017-06-01"
 authors: ['Zahra Safaverdi']

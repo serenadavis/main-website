@@ -2,6 +2,7 @@
 title: "[God is a set]"
 slug: "god-is-a-set"
 issue: "Fall"
+issue_full_name: "Fall 2016"
 year: "2016"
 date: "2016-09-01"
 authors: ['N.F.']

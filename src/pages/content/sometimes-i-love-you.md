@@ -2,6 +2,7 @@
 title: "Sometimes I Love You"
 slug: "sometimes-i-love-you"
 issue: "Summer"
+issue_full_name: "Summer 2016"
 year: "2016"
 date: "2016-06-01"
 authors: ['Natasha Lasky']

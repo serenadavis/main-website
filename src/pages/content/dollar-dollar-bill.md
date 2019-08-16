@@ -2,6 +2,7 @@
 title: "Dollar Dollar Bill"
 slug: "dollar-dollar-bill"
 issue: "Winter"
+issue_full_name: "Winter 2014"
 year: "2014"
 date: "2014-01-01"
 authors: ['Josh  Bell']

@@ -2,6 +2,7 @@
 title: "We Were Very Merry"
 slug: "we-were-very-merry"
 issue: "Summer"
+issue_full_name: "Summer 2016"
 year: "2016"
 date: "2016-06-01"
 authors: ['Edith Enright']

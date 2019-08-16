@@ -2,6 +2,7 @@
 title: "I'm sad I'm not a beast..."
 slug: "im-sad-im-not-a-beast"
 issue: "Summer"
+issue_full_name: "Summer 2015"
 year: "2015"
 date: "2015-06-01"
 authors: ['Michael M. Weinstein']

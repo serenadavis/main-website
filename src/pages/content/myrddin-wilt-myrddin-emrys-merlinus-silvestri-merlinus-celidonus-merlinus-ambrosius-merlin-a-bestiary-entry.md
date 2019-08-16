@@ -2,6 +2,7 @@
 title: "Myrddin Wilt, Myrddin Emrys, Merlinus Silvestri,  Merlinus Celidonus, Merlinus Ambrosius, Merlin:  A Bestiary Entry"
 slug: "myrddin-wilt-myrddin-emrys-merlinus-silvestri-merlinus-celidonus-merlinus-ambrosius-merlin-a-bestiary-entry"
 issue: "Winter"
+issue_full_name: "Winter 2010"
 year: "2010"
 date: "2010-01-01"
 authors: ['Sanders Bernstein']

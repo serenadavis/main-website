@@ -2,6 +2,7 @@
 title: "Trump's Spaniels"
 slug: "trumps-spaniels"
 issue: "Summer"
+issue_full_name: "Summer 2016"
 year: "2016"
 date: "2016-06-01"
 authors: ['David Kurlander']

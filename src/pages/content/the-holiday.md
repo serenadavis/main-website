@@ -2,6 +2,7 @@
 title: "The Holiday"
 slug: "the-holiday"
 issue: "Fall"
+issue_full_name: "Fall 2011"
 year: "2011"
 date: "2011-09-01"
 authors: ['Charlotte Lieberman']

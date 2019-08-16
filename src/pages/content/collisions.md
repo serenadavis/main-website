@@ -2,6 +2,7 @@
 title: "Collisions"
 slug: "collisions"
 issue: "Spring"
+issue_full_name: "Spring 2013"
 year: "2013"
 date: "2013-03-01"
 authors: ['My Ngoc To']

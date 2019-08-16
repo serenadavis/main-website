@@ -2,6 +2,7 @@
 title: "Excerpt: The Songs We Know Best: John Ashbery's Early Life"
 slug: "excerpt-the-songs-we-know-best-john-ashberys-early-life"
 issue: "Winter"
+issue_full_name: "Winter 2017"
 year: "2017"
 date: "2017-01-01"
 authors: ['Karin Roffman']

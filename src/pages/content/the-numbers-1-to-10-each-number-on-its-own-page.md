@@ -2,6 +2,7 @@
 title: "THE NUMBERS 1 TO 10, EACH NUMBER ON ITS OWN PAGE"
 slug: "the-numbers-1-to-10-each-number-on-its-own-page"
 issue: "Winter"
+issue_full_name: "Winter 2009"
 year: "2009"
 date: "2009-01-01"
 authors: ['Michael Stynes']

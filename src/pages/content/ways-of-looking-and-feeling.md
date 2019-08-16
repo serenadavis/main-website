@@ -2,6 +2,7 @@
 title: "Ways of Looking and Feeling"
 slug: "ways-of-looking-and-feeling"
 issue: "Winter"
+issue_full_name: "Winter 2013"
 year: "2013"
 date: "2013-01-01"
 authors: ['Clancy Martin']

@@ -2,6 +2,7 @@
 title: "Queenie's On The Strip"
 slug: "queenies-on-the-strip"
 issue: "Spring"
+issue_full_name: "Spring 2014"
 year: "2014"
 date: "2014-03-01"
 authors: ['Christopher Alessandrini']

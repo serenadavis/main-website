@@ -2,6 +2,7 @@
 title: "On This Night of Our Choosing"
 slug: "on-this-night-of-our-choosing"
 issue: "Spring"
+issue_full_name: "Spring 2017"
 year: "2017"
 date: "2017-03-01"
 authors: ['Ian van Wye']

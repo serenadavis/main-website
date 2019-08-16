@@ -2,6 +2,7 @@
 title: "Nice Things to Write After He's Dead"
 slug: "nice-things-to-write-after-hes-dead"
 issue: "Fall"
+issue_full_name: "Fall 2017"
 year: "2017"
 date: "2017-09-01"
 authors: ['Sabrina Helen Li']

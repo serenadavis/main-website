@@ -2,6 +2,7 @@
 title: "[There are days blurred]"
 slug: "there-are-days-blurred"
 issue: "Fall"
+issue_full_name: "Fall 2009"
 year: "2009"
 date: "2009-09-01"
 authors: ['Olga Moskvina']

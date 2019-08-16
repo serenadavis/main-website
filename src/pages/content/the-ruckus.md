@@ -2,6 +2,7 @@
 title: "The Ruckus"
 slug: "the-ruckus"
 issue: "Winter"
+issue_full_name: "Winter 2016"
 year: "2016"
 date: "2016-01-01"
 authors: ['Christine Legros']

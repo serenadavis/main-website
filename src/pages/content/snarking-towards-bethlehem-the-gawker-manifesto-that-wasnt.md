@@ -2,6 +2,7 @@
 title: "Snarking Towards Bethlehem: The Gawker Manifesto That Wasnt"
 slug: "snarking-towards-bethlehem-the-gawker-manifesto-that-wasnt"
 issue: "Winter"
+issue_full_name: "Winter 2014"
 year: "2014"
 date: "2014-01-01"
 authors: ['Alexander Wells']

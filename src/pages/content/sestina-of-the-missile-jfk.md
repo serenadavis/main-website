@@ -2,6 +2,7 @@
 title: "Sestina of the Missile JFK"
 slug: "sestina-of-the-missile-jfk"
 issue: "Summer"
+issue_full_name: "Summer 2015"
 year: "2015"
 date: "2015-06-01"
 authors: ['Alice Ju']

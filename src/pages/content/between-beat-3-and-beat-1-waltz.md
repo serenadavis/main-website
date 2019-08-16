@@ -2,6 +2,7 @@
 title: "between beat 3 and beat 1 (waltz)"
 slug: "between-beat-3-and-beat-1-waltz"
 issue: "Spring"
+issue_full_name: "Spring 2016"
 year: "2016"
 date: "2016-03-01"
 authors: ['Lev Mamuya']

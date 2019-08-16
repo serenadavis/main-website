@@ -2,6 +2,7 @@
 title: "1-800-TOILETS"
 slug: "1-800-toilets"
 issue: "Spring"
+issue_full_name: "Spring 2015"
 year: "2015"
 date: "2015-03-01"
 authors: ['Sam Reynolds']

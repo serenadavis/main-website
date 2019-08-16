@@ -2,6 +2,7 @@
 title: "TP Roll"
 slug: "tp-roll"
 issue: "Winter"
+issue_full_name: "Winter 2015"
 year: "2015"
 date: "2015-01-01"
 authors: ['Sally Scopa']

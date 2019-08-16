@@ -2,6 +2,7 @@
 title: "How the Avant-Garde Got Popular (or Not)"
 slug: "how-the-avant-garde-got-popular-or-not"
 issue: "Commencement"
+issue_full_name: "Commencement 2009"
 year: "2009"
 date: "2009-06-01"
 authors: ['Richard Beck']

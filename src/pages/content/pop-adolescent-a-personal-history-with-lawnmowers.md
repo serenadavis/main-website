@@ -2,6 +2,7 @@
 title: "Pop Adolescent: A Personal History, With Lawnmowers"
 slug: "pop-adolescent-a-personal-history-with-lawnmowers"
 issue: "Winter"
+issue_full_name: "Winter 2009"
 year: "2009"
 date: "2009-01-01"
 authors: ['Richard Beck']

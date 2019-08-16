@@ -2,6 +2,7 @@
 title: "Full Circle: (Exotic) Odysseys Through (Oriental) Rainforests on (Outlawed) Tour Buses"
 slug: "full-circle-exotic-odysseys-through-oriental-rainforests-on-outlawed-tour-buses"
 issue: "Winter"
+issue_full_name: "Winter 2015"
 year: "2015"
 date: "2015-01-01"
 authors: ['Faye Yan Zhang']

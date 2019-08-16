@@ -2,6 +2,7 @@
 title: "Hamlet: A Love Story"
 slug: "hamlet-a-love-story"
 issue: "Summer"
+issue_full_name: "Summer 2016"
 year: "2016"
 date: "2016-06-01"
 authors: ['Olivia Munk']

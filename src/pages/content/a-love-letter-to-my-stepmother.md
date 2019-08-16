@@ -2,6 +2,7 @@
 title: "A Love Letter to My Stepmother"
 slug: "a-love-letter-to-my-stepmother"
 issue: "Winter"
+issue_full_name: "Winter 2015"
 year: "2015"
 date: "2015-01-01"
 authors: ['Indiana Seresin']

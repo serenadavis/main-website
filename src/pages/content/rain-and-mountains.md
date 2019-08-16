@@ -2,6 +2,7 @@
 title: "Rain and Mountains"
 slug: "rain-and-mountains"
 issue: "Winter"
+issue_full_name: "Winter 2011"
 year: "2011"
 date: "2011-01-01"
 authors: ['Henri Cole']

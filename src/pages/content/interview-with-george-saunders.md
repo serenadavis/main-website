@@ -2,6 +2,7 @@
 title: "Interview with George Saunders"
 slug: "interview-with-george-saunders"
 issue: "Winter"
+issue_full_name: "Winter 2014"
 year: "2014"
 date: "2014-01-01"
 authors: ['Harvard Advocate Staff']

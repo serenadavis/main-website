@@ -2,6 +2,7 @@
 title: "1000 Street Crossings"
 slug: "1000-street-crossings"
 issue: "Spring"
+issue_full_name: "Spring 2016"
 year: "2016"
 date: "2016-03-01"
 authors: ['Billy Orman']

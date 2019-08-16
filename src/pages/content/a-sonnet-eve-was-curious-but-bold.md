@@ -2,6 +2,7 @@
 title: "[A sonnet. Eve was curious but bold.]"
 slug: "a-sonnet-eve-was-curious-but-bold"
 issue: "Spring"
+issue_full_name: "Spring 2010"
 year: "2010"
 date: "2010-03-01"
 authors: ['Abram Kaplan']

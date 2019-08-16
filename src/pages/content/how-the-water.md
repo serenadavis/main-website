@@ -2,6 +2,7 @@
 title: "How the Water"
 slug: "how-the-water"
 issue: "Commencement"
+issue_full_name: "Commencement 2009"
 year: "2009"
 date: "2009-06-01"
 authors: ['Margaret Ross']

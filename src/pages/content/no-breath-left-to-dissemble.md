@@ -2,6 +2,7 @@
 title: "No breath left to dissemble"
 slug: "no-breath-left-to-dissemble"
 issue: "Commencement"
+issue_full_name: "Commencement 2013"
 year: "2013"
 date: "2013-06-01"
 authors: ['Zo\xc3\xab Hitzig']

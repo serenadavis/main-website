@@ -2,6 +2,7 @@
 title: "Circe's Palace (1908)"
 slug: "circes-palace-1908"
 issue: "Winter"
+issue_full_name: "Winter 2016"
 year: "2016"
 date: "2016-01-01"
 authors: ['T. S. Eliot']

@@ -2,6 +2,7 @@
 title: "I am filling the creases"
 slug: "i-am-filling-the-creases"
 issue: "Spring"
+issue_full_name: "Spring 2009"
 year: "2009"
 date: "2009-03-01"
 authors: ['Olga Moskvina']

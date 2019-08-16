@@ -2,6 +2,7 @@
 title: "Cartography and Memory"
 slug: "cartography-and-memory"
 issue: "Winter"
+issue_full_name: "Winter 2009"
 year: "2009"
 date: "2009-01-01"
 authors: ['Alexander Fabry']

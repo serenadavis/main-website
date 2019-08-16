@@ -2,6 +2,7 @@
 title: "how to lose your virginity just outside of missoula, MT"
 slug: "how-to-lose-your-virginity-just-outside-of-missoula-mt"
 issue: "Spring"
+issue_full_name: "Spring 2017"
 year: "2017"
 date: "2017-03-01"
 authors: ['Isa Flores-Jones']

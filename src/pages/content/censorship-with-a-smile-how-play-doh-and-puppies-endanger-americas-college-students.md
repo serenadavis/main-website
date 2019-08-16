@@ -2,6 +2,7 @@
 title: "Censorship with a Smile: How Play-Doh and Puppies Endanger Americas College Students"
 slug: "censorship-with-a-smile-how-play-doh-and-puppies-endanger-americas-college-students"
 issue: "Winter"
+issue_full_name: "Winter 2016"
 year: "2016"
 date: "2016-01-01"
 authors: ['Nico Perrino', 'Alex Morey', 'Foundation for Individual Rights in Education (FIRE)']

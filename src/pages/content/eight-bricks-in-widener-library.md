@@ -2,6 +2,7 @@
 title: "Eight Bricks in Widener Library"
 slug: "eight-bricks-in-widener-library"
 issue: "Fall"
+issue_full_name: "Fall 2013"
 year: "2013"
 date: "2013-09-01"
 authors: ['Danny Bredar']

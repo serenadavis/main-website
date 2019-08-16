@@ -2,6 +2,7 @@
 title: "He Disappeared into Complete Silence, Plate 1 (1982)"
 slug: "he-disappeared-into-complete-silence-plate-1-1982"
 issue: "Winter"
+issue_full_name: "Winter 2016"
 year: "2016"
 date: "2016-01-01"
 authors: ['Louise Bourgeois']

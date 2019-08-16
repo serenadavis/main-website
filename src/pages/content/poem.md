@@ -2,6 +2,7 @@
 title: "Poem"
 slug: "poem"
 issue: "Spring"
+issue_full_name: "Spring 2011"
 year: "2011"
 date: "2011-03-01"
 authors: ['Julian Gewirtz']

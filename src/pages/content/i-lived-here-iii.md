@@ -2,6 +2,7 @@
 title: "I Lived Here III"
 slug: "i-lived-here-iii"
 issue: "Summer"
+issue_full_name: "Summer 2015"
 year: "2015"
 date: "2015-06-01"
 authors: ['Helen Shi']

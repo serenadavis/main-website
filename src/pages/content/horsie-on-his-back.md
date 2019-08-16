@@ -2,6 +2,7 @@
 title: "Horsie On His Back"
 slug: "horsie-on-his-back"
 issue: "Spring"
+issue_full_name: "Spring 2012"
 year: "2012"
 date: "2012-03-01"
 authors: ['Kayla Escobedo']

@@ -2,6 +2,7 @@
 title: "from INSTRUCTIONAL SYNTHESIS VIDEOS IN AN UNFOLDING MONAD'S VIRTUAL WORLD"
 slug: "from-instructional-synthesis-videos-in-an-unfolding-monads-virtual-world"
 issue: "Winter"
+issue_full_name: "Winter 2016"
 year: "2016"
 date: "2016-01-01"
 authors: ['Sam Wolk']

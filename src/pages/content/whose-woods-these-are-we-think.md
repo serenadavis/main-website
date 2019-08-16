@@ -2,6 +2,7 @@
 title: "Whose Woods These Are We Think"
 slug: "whose-woods-these-are-we-think"
 issue: "Winter"
+issue_full_name: "Winter 2016"
 year: "2016"
 date: "2016-01-01"
 authors: ['Brenda Hillman']

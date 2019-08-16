@@ -2,6 +2,7 @@
 title: "Last Rites: A Chinese Burial"
 slug: "last-rites-a-chinese-burial"
 issue: "Winter"
+issue_full_name: "Winter 2014"
 year: "2014"
 date: "2014-01-01"
 authors: ['Faye Yan Zhang']

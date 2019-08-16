@@ -2,6 +2,7 @@
 title: "Morning Meets the Lodge"
 slug: "morning-meets-the-lodge"
 issue: "Commencement"
+issue_full_name: "Commencement 2010"
 year: "2010"
 date: "2010-06-01"
 authors: ['Abram Kaplan']

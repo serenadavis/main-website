@@ -2,6 +2,7 @@
 title: "A Hawthorn, Rooted Close to Other Guests"
 slug: "a-hawthorn-rooted-close-to-other-guests"
 issue: "Commencement"
+issue_full_name: "Commencement 2012"
 year: "2012"
 date: "2012-06-01"
 authors: ['Justin Wymer']

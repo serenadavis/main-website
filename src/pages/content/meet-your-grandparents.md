@@ -2,6 +2,7 @@
 title: "Meet Your Grandparents"
 slug: "meet-your-grandparents"
 issue: "Spring"
+issue_full_name: "Spring 2016"
 year: "2016"
 date: "2016-03-01"
 authors: ['Sam Reynolds']

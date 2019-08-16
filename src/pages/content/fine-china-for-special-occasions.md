@@ -2,6 +2,7 @@
 title: "Fine China for Special Occasions"
 slug: "fine-china-for-special-occasions"
 issue: "Winter"
+issue_full_name: "Winter 2012"
 year: "2012"
 date: "2012-01-01"
 authors: ['Katherine Damm']

@@ -2,6 +2,7 @@
 title: "Ukrainian Identity and Mykola Kulishs Sonata Pathetique"
 slug: "ukrainian-identity-and-mykola-kulishs-sonata-pathetique"
 issue: "Commencement"
+issue_full_name: "Commencement 2014"
 year: "2014"
 date: "2014-06-01"
 authors: ['Victoria Baena']

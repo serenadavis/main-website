@@ -2,6 +2,7 @@
 title: "What I Said, Where I Said It, and Why"
 slug: "what-i-said-where-i-said-it-and-why"
 issue: "Fall"
+issue_full_name: "Fall 2017"
 year: "2017"
 date: "2017-09-01"
 authors: ['Sara Nicholson']

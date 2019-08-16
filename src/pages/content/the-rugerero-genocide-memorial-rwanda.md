@@ -2,6 +2,7 @@
 title: "The Rugerero Genocide Memorial, Rwanda"
 slug: "the-rugerero-genocide-memorial-rwanda"
 issue: "Winter"
+issue_full_name: "Winter 2014"
 year: "2014"
 date: "2014-01-01"
 authors: ['The Barefoot Artists', 'Lily Yeh']

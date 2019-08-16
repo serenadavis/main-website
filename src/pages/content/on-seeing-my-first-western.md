@@ -2,6 +2,7 @@
 title: "On Seeing My First Western"
 slug: "on-seeing-my-first-western"
 issue: "Winter"
+issue_full_name: "Winter 2009"
 year: "2009"
 date: "2009-01-01"
 authors: ['Daniel Wenger']

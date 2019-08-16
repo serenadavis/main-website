@@ -2,6 +2,7 @@
 title: "Prester John"
 slug: "prester-john"
 issue: "Fall"
+issue_full_name: "Fall 2014"
 year: "2014"
 date: "2014-09-01"
 authors: ['Brad Bolman']

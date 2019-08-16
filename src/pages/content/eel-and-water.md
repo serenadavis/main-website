@@ -2,6 +2,7 @@
 title: "Eel and Water"
 slug: "eel-and-water"
 issue: "Winter"
+issue_full_name: "Winter 2010"
 year: "2010"
 date: "2010-01-01"
 authors: ['Erik Fredericksen']

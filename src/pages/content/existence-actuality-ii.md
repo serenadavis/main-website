@@ -2,6 +2,7 @@
 title: "existence + actuality II"
 slug: "existence-actuality-ii"
 issue: "Winter"
+issue_full_name: "Winter 2016"
 year: "2016"
 date: "2016-01-01"
 authors: ['Garrett Allen']

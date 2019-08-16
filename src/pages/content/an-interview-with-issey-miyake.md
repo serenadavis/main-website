@@ -2,6 +2,7 @@
 title: "An Interview with Issey Miyake"
 slug: "an-interview-with-issey-miyake"
 issue: "Fall"
+issue_full_name: "Fall 2008"
 year: "2008"
 date: "2008-09-01"
 authors: ['brittany benjamin']

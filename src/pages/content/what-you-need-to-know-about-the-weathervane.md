@@ -2,6 +2,7 @@
 title: "What You Need to Know About the Weathervane"
 slug: "what-you-need-to-know-about-the-weathervane"
 issue: "Commencement"
+issue_full_name: "Commencement 2013"
 year: "2013"
 date: "2013-06-01"
 authors: ['Lincoln Michel']

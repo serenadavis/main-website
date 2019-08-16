@@ -2,6 +2,7 @@
 title: "fata morgana"
 slug: "fata-morgana"
 issue: "Winter"
+issue_full_name: "Winter 2018"
 year: "2018"
 date: "2018-01-01"
 authors: ['Balim Barut\xc3\xa7u']

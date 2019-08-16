@@ -2,6 +2,7 @@
 title: "Get With the Program: Creative Writing in the Twentieth Century"
 slug: "get-with-the-program-creative-writing-in-the-twentieth-century"
 issue: "Spring"
+issue_full_name: "Spring 2009"
 year: "2009"
 date: "2009-03-01"
 authors: ['Richard Beck']

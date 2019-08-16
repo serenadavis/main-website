@@ -2,6 +2,7 @@
 title: "People of the Glades"
 slug: "people-of-the-glades"
 issue: "Winter"
+issue_full_name: "Winter 2010"
 year: "2010"
 date: "2010-01-01"
 authors: ['Rachael Goldberg']

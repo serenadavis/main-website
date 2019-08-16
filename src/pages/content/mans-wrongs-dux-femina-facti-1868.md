@@ -2,6 +2,7 @@
 title: "Man's Wrongs (\"Dux Femina Facti\") (1868)"
 slug: "mans-wrongs-dux-femina-facti-1868"
 issue: "Winter"
+issue_full_name: "Winter 2016"
 year: "2016"
 date: "2016-01-01"
 authors: ['Anonymous']

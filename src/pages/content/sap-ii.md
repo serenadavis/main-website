@@ -2,6 +2,7 @@
 title: "Sap II"
 slug: "sap-ii"
 issue: "Spring"
+issue_full_name: "Spring 2015"
 year: "2015"
 date: "2015-03-01"
 authors: ['Anna Koeferl']

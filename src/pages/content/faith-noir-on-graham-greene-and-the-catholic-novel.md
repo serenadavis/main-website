@@ -2,6 +2,7 @@
 title: "Faith Noir: On Graham Greene and the Catholic Novel"
 slug: "faith-noir-on-graham-greene-and-the-catholic-novel"
 issue: "Fall"
+issue_full_name: "Fall 2009"
 year: "2009"
 date: "2009-09-01"
 authors: ['Jessica Sequeira']

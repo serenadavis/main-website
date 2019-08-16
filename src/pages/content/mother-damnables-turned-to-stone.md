@@ -2,6 +2,7 @@
 title: "Mother Damnable's Turned to Stone"
 slug: "mother-damnables-turned-to-stone"
 issue: "Fall"
+issue_full_name: "Fall 2017"
 year: "2017"
 date: "2017-09-01"
 authors: ['Breslin Sibley']

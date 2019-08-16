@@ -2,6 +2,7 @@
 title: "From Cuffy the Negros Doggrel Description of the Progress of Sugar"
 slug: "from-cuffy-the-negros-doggrel-description-of-the-progress-of-sugar"
 issue: "Winter"
+issue_full_name: "Winter 2015"
 year: "2015"
 date: "2015-01-01"
 authors: ['Kara Walker']

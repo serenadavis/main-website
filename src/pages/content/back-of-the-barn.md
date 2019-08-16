@@ -2,6 +2,7 @@
 title: "Back of the Barn"
 slug: "back-of-the-barn"
 issue: "Summer"
+issue_full_name: "Summer 2015"
 year: "2015"
 date: "2015-06-01"
 authors: ['Bailey Trela']

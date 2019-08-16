@@ -2,6 +2,7 @@
 title: "Will Not Come Back "
 slug: "will-not-come-back"
 issue: "Commencement"
+issue_full_name: "Commencement 2012"
 year: "2012"
 date: "2012-06-01"
 authors: ['Julian Gewirtz']

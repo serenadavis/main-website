@@ -2,6 +2,7 @@
 title: "The Beginning of a Career "
 slug: "the-beginning-of-a-career"
 issue: "Fall"
+issue_full_name: "Fall 2014"
 year: "2014"
 date: "2014-09-01"
 authors: ['Kara Zona']

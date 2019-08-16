@@ -2,6 +2,7 @@
 title: "Portraits of Still Lives: A Review"
 slug: "portraits-of-still-lives-a-review"
 issue: "Fall"
+issue_full_name: "Fall 2013"
 year: "2013"
 date: "2013-09-01"
 authors: ['Liza Batkin']

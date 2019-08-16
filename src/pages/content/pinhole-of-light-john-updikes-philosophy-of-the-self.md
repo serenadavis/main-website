@@ -2,6 +2,7 @@
 title: "Pinhole of Light: John Updike's Philosophy of the Self"
 slug: "pinhole-of-light-john-updikes-philosophy-of-the-self"
 issue: "Spring"
+issue_full_name: "Spring 2009"
 year: "2009"
 date: "2009-03-01"
 authors: ['Jessica Sequeira']

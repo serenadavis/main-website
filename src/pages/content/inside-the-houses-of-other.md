@@ -2,6 +2,7 @@
 title: "Inside the Houses of Other"
 slug: "inside-the-houses-of-other"
 issue: "Spring"
+issue_full_name: "Spring 2017"
 year: "2017"
 date: "2017-03-01"
 authors: ['Ian van Wye']

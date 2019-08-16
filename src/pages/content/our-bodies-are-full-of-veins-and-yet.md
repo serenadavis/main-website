@@ -2,6 +2,7 @@
 title: "[Our bodies are full of veins and yet]"
 slug: "our-bodies-are-full-of-veins-and-yet"
 issue: "Spring"
+issue_full_name: "Spring 2009"
 year: "2009"
 date: "2009-03-01"
 authors: ['Sharon Wang']

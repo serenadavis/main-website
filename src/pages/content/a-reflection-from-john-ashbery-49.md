@@ -2,6 +2,7 @@
 title: "A Reflection from John Ashbery '49"
 slug: "a-reflection-from-john-ashbery-49"
 issue: "Winter"
+issue_full_name: "Winter 2016"
 year: "2016"
 date: "2016-01-01"
 authors: ['John Ashbery']

@@ -2,6 +2,7 @@
 title: "never can't I have want kill me for the record I'm new"
 slug: "never-cant-i-have-want-kill-me-for-the-record-im-new"
 issue: "Summer"
+issue_full_name: "Summer 2016"
 year: "2016"
 date: "2016-06-01"
 authors: ['Robbie Burr Eginton']

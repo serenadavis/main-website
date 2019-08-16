@@ -2,6 +2,7 @@
 title: "Turning About: or the online entanglement of an email sex scam and a Christian romance novelist"
 slug: "turning-about-or-the-online-entanglement-of-an-email-sex-scam-and-a-christian-romance-novelist"
 issue: "Summer"
+issue_full_name: "Summer 2017"
 year: "2017"
 date: "2017-06-01"
 authors: ['Tarpley Hitt']

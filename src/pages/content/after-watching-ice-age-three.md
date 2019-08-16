@@ -2,6 +2,7 @@
 title: "After Watching Ice Age Three"
 slug: "after-watching-ice-age-three"
 issue: "Winter"
+issue_full_name: "Winter 2015"
 year: "2015"
 date: "2015-01-01"
 authors: ['Stephen Burt']

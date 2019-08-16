@@ -2,6 +2,7 @@
 title: "Akimbo"
 slug: "akimbo"
 issue: "Winter"
+issue_full_name: "Winter 2014"
 year: "2014"
 date: "2014-01-01"
 authors: ['Anna Hagen']

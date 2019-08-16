@@ -2,6 +2,7 @@
 title: "The Empty Hour"
 slug: "the-empty-hour"
 issue: "Fall"
+issue_full_name: "Fall 2018"
 year: "2018"
 date: "2018-09-01"
 authors: ['Sonya Larson']

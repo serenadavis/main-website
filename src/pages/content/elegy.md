@@ -2,6 +2,7 @@
 title: "Elegy"
 slug: "elegy"
 issue: "Winter"
+issue_full_name: "Winter 2018"
 year: "2018"
 date: "2018-01-01"
 authors: ['Cameron McGill']

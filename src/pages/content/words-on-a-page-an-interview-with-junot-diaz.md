@@ -2,6 +2,7 @@
 title: "Words on a Page: An Interview with Junot Diaz"
 slug: "words-on-a-page-an-interview-with-junot-diaz"
 issue: "Spring"
+issue_full_name: "Spring 2009"
 year: "2009"
 date: "2009-03-01"
 authors: ['Anna Barnet']

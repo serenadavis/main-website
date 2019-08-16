@@ -2,6 +2,7 @@
 title: "Four Ways of Seeing: Fernando Pessoas The Book of Disquiet"
 slug: "four-ways-of-seeing-fernando-pessoas-the-book-of-disquiet"
 issue: "Commencement"
+issue_full_name: "Commencement 2009"
 year: "2009"
 date: "2009-06-01"
 authors: ['Jessica Sequeira']

@@ -2,6 +2,7 @@
 title: "Drinking Salt in the Dawn"
 slug: "drinking-salt-in-the-dawn"
 issue: "Fall"
+issue_full_name: "Fall 2013"
 year: "2013"
 date: "2013-09-01"
 authors: ['Moeko Fujii']
