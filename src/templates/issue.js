@@ -19,10 +19,10 @@ export default ({ data }) => {
             <h1 class="header"> {data.fiction.edges[0].node.frontmatter.issue_full_name} </h1>
             <div class = "row">
                 <div class="col-sm-6">
-                    {/* <H2 class="subheader"> Buy this issue <u><a href="{% url 'shop' %}">here</a></u></H2> */}
+                    {/* <H2 class="subheader"> Buy this issue <u><Link to="/shop">here</Link></u></H2> */}
                     <figure>
                         <a href="{% url 'shop' %}">
-                            <img class='img-responsive' style={{margin: "0 auto"}} src="{{MEDIA_URL}}{{issue.cover_image }}"/>
+                            <img class='img-responsive' style={{margin: "0 auto"}} src={"https://harvard-advocate.s3.amazonaws.com/covers/"+convertToSlug(data.fiction.edges[0].node.frontmatter.issue_full_name)}/>
                         </a>
                     </figure>
                 </div>
@@ -74,20 +74,6 @@ export default ({ data }) => {
                         </p>
                         </div>
                     ))}
-                {/* {% for section, contentlist in content_list.items %}
-                    <h2 class="subheader"> {{section|title }} </h2>
-                    {%for content in contentlist %}
-                    <div class="section-article">
-                    <p class="name"><a href='{% url "article" content.id content.slug %}'>{{content.title}} - </a>
-                {% for author in content.contributors.all %}
-                    <a href="{% url 'contributor' author.id author.name %}" class="author no-decoration">  {{ author.name }}</a>
-                {% endfor %}
-                </p>
-                    {% endfor %}
-                        {% for author in article.contributors.all %}
-                        <a href="{% url 'contributor' author.id author.name %}" class="no-decoration"><p class="author">{{ author.name }}</p> </a>
-                        {% endfor %}
-                {% endfor %}*/}
                 </div>
             </div>
         </div>
@@ -121,6 +107,7 @@ query($issue_full_name: String!) {
               images
               section
               slug
+              issue_full_name
             }
           }
         }
@@ -135,6 +122,7 @@ query($issue_full_name: String!) {
               images
               section
               slug
+              issue_full_name
             }
           }
         }
@@ -149,6 +137,7 @@ query($issue_full_name: String!) {
               images
               section
               slug
+              issue_full_name
             }
           }
         }
