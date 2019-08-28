@@ -11,9 +11,6 @@ function convertToSlug(Text)
 }
 
 class SmallArticleDisplay extends React.Component {
-    constructor(props) {
-        super(props);
-    }
 
     render(){
         const data = this.props.data;
@@ -30,7 +27,7 @@ class SmallArticleDisplay extends React.Component {
                     { data.node.frontmatter.section === "art" ?
                         <div className="feature-image-container-small">
                             <div class="feature-image" id="feature-3-image">
-                                <img style={{width: "100%"}} src={metadata.siteMetadata.mediaUrl + data.node.frontmatter.images[0]} />
+                                <img style={{width: "100%"}} src={metadata.siteMetadata.mediaUrl + data.node.frontmatter.images[0]} alt=""/>
                             </div>
                         </div>
                     :

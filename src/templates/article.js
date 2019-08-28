@@ -13,7 +13,6 @@ function convertToSlug(Text)
 
 export default ({ data }) => {
   const post = data.markdownRemark;
-  const metadata = data.metadata;
   return (
     <Layout>
         <div class = "container">
@@ -26,7 +25,7 @@ export default ({ data }) => {
                     post.frontmatter.images[0] &&
                     post.frontmatter.images.map(image => (
                         <figure>
-                            <img src={data.metadata.siteMetadata.mediaUrl+image} className="header-image img-responsive" alt="Main Image" />
+                            <img src={data.metadata.siteMetadata.mediaUrl+image} className="header-image img-responsive" alt="" />
                         </figure>
                     ))
                 }

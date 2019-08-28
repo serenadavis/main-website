@@ -22,7 +22,7 @@ export default ({ data }) => {
                     {/* <H2 class="subheader"> Buy this issue <u><Link to="/shop">here</Link></u></H2> */}
                     <figure>
                         <a href="{% url 'shop' %}">
-                            <img class='img-responsive' style={{margin: "0 auto"}} src={"https://harvard-advocate.s3.amazonaws.com/covers/"+convertToSlug(data.fiction.edges[0].node.frontmatter.issue_full_name)}/>
+                            <img class='img-responsive' alt="" style={{margin: "0 auto"}} src={"https://harvard-advocate.s3.amazonaws.com/covers/"+convertToSlug(data.fiction.edges[0].node.frontmatter.issue_full_name)}/>
                         </a>
                     </figure>
                 </div>
