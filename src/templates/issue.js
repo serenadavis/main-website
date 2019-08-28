@@ -33,7 +33,7 @@ export default ({ data }) => {
                         <div class="section-article">
                         <p class="name"><Link to={"/content/"+edge.node.frontmatter.slug}>{edge.node.frontmatter.title}</Link> -
                         {edge.node.frontmatter.authors.map(author => (
-                            <Link to={"/author/" + convertToSlug(author)} class="author no-decoration">  {author}</Link>
+                            <Link to={"contributor/" + convertToSlug(author)} class="author no-decoration">  {author}</Link>
                         ))}
                         </p>
                         </div>
@@ -45,7 +45,7 @@ export default ({ data }) => {
                         <div class="section-article">
                         <p class="name"><Link to={"/content/"+edge.node.frontmatter.slug}>{edge.node.frontmatter.title}</Link> -
                         {edge.node.frontmatter.authors.map(author => (
-                            <Link to={"/author/" + convertToSlug(author)} class="author no-decoration">  {author}</Link>
+                            <Link to={"contributor/" + convertToSlug(author)} class="author no-decoration">  {author}</Link>
                         ))}
                         </p>
                         </div>
@@ -57,7 +57,7 @@ export default ({ data }) => {
                         <div class="section-article">
                         <p class="name"><Link to={"/content/"+edge.node.frontmatter.slug}>{edge.node.frontmatter.title}</Link> -
                         {edge.node.frontmatter.authors.map(author => (
-                            <Link to={"/author/" + convertToSlug(author)} class="author no-decoration">  {author}</Link>
+                            <Link to={"contributor/" + convertToSlug(author)} class="author no-decoration">  {author}</Link>
                         ))}
                         </p>
                         </div>
@@ -69,7 +69,7 @@ export default ({ data }) => {
                         <div class="section-article">
                         <p class="name"><Link to={"/content/"+edge.node.frontmatter.slug}>{edge.node.frontmatter.title}</Link> -
                         {edge.node.frontmatter.authors.map(author => (
-                            <Link to={"/author/" + convertToSlug(author)} class="author no-decoration">  {author}</Link>
+                            <Link to={"contributor/" + convertToSlug(author)} class="author no-decoration">  {author}</Link>
                         ))}
                         </p>
                         </div>

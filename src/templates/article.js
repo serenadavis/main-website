@@ -1,6 +1,16 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
+
+function convertToSlug(Text)
+{
+    return Text
+        .toLowerCase()
+        .replace(/ /g,'-')
+        .replace(/[^\w-]+/g,'')
+        ;
+}
+
 export default ({ data }) => {
   const post = data.markdownRemark;
   const metadata = data.metadata;
@@ -10,7 +20,7 @@ export default ({ data }) => {
             <article class="{post.frontmatter.section}">
                 <h1 class="article-title">{post.frontmatter.title}</h1>
                     {post.frontmatter.authors.map(author=>(
-                        <a href="" class="no-decoration"> <h2 class="article-author"> {author}</h2></a>
+                        <Link to={"contributor/"+convertToSlug(author)} class="no-decoration"> <h2 class="article-author"> {author}</h2></Link>
                     ))}
                 {
                     post.frontmatter.images[0] &&
