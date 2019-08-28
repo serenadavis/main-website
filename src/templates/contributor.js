@@ -20,7 +20,7 @@ export default ({ data, pageContext}) => {
           <h1 class="article-title">{pageContext.author.toUpperCase()}</h1>
           <div class="section-article">
             {data.articles.edges.map(edge => (
-              <p class="name"><Link to={"content/"+convertToSlug(edge.node.frontmatter.title)}>{edge.node.frontmatter.title}</Link> <p class="issue">{edge.node.frontmatter.issue_full_name}</p> </p>
+              <p class="name"><Link to={"content/"+convertToSlug(edge.node.frontmatter.title)}>{edge.node.frontmatter.title}</Link> <p class="issue"><Link to={"issue/"+convertToSlug(edge.node.frontmatter.issue_full_name)}>{edge.node.frontmatter.issue_full_name}</Link></p> </p>
             ))}
           </div>
           {/* {% for article in article.contributors.all %}
