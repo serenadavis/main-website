@@ -7,7 +7,7 @@ export default () => (
             <h1 class="header">SUBMISSION GUIDELINES</h1>
             <p><i>The Harvard Advocate</i> accepts submissions of art, fiction, and poetry of any form or length created by members of the Harvard community, as well as outside contributors at our discretion. All submissions are considered anonymously. Submissions may be uploaded online:</p>
             <div class="center"> 
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdHCYzDkX4ZAuip4NwjCeWXODfQSrheQDGEcgFApdhLrF35sg/viewform?usp=sf_link" class="btn btn-primary btn-150th" target="_blank">FICTION</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdHCYzDkX4ZAuip4NwjCeWXODfQSrheQDGEcgFApdhLrF35sg/viewform?usp=sf_link" class="btn btn-primary btn-150th">FICTION</a>
             </div>
             <ul>
             <li style={{fontWeight: 400}}><span style={{fontWeight: 400}}>We have no minimum or maximum word counts, but the work we publish tends to be between 700 and 7000 words.</span></li>
@@ -17,11 +17,11 @@ export default () => (
             <li style={{fontWeight: 400}}><span style={{fontWeight: 400}}>Simultaneous submissions are accepted, but please let us know immediately if your work is accepted elsewhere.</span></li>
             </ul>
             <div class="center">
-                Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdHCYzDkX4ZAuip4NwjCeWXODfQSrheQDGEcgFApdhLrF35sg/viewform?usp=sf_link" target="_blank">here</a> to upload your submission or you can email it to: <a  href="mailto:fiction@theharvardadvocate.com ">fiction@theharvardadvocate.com </a>
+                Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdHCYzDkX4ZAuip4NwjCeWXODfQSrheQDGEcgFApdhLrF35sg/viewform?usp=sf_link">here</a> to upload your submission or you can email it to: <a  href="mailto:fiction@theharvardadvocate.com ">fiction@theharvardadvocate.com </a>
             </div>
             <p></p>
             <div class="center"> 
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfMcuyiu8TM0AUSnOjCvUvA59lWIfVYgvJ-8uX_RgIRjKuypA/viewform?usp=sf_link" class="btn btn-primary btn-150th" target="_blank">POETRY</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfMcuyiu8TM0AUSnOjCvUvA59lWIfVYgvJ-8uX_RgIRjKuypA/viewform?usp=sf_link" class="btn btn-primary btn-150th">POETRY</a>
             </div>
             <ul>
             <li style={{fontWeight: 400}}><span style={{fontWeight: 400}}>We have no minimum or maximum word counts.</span></li>
@@ -32,14 +32,14 @@ export default () => (
             <li style={{fontWeight: 400}}><span style={{fontWeight: 400}}>We primarily read and publish various styles of written poetry, but illustrated forms of poetry (like poetry comics)&mdash;along with other nontraditional poetic formats&mdash;can be submitted as well. </span></li>
             </ul>
             <div class="center">
-                Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSfMcuyiu8TM0AUSnOjCvUvA59lWIfVYgvJ-8uX_RgIRjKuypA/viewform?usp=sf_link" target="_blank">here</a> to upload your submission or you can email it to: <a  href="mailto:poetry@theharvardadvocate.com ">poetry@theharvardadvocate.com </a>
+                Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSfMcuyiu8TM0AUSnOjCvUvA59lWIfVYgvJ-8uX_RgIRjKuypA/viewform?usp=sf_link">here</a> to upload your submission or you can email it to: <a  href="mailto:poetry@theharvardadvocate.com ">poetry@theharvardadvocate.com </a>
             </div>
             <p></p>
             <div class="center"> 
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSef_QSgKgXlagI-MPmkXclEfr-Cpi025ulL4sf3wFs8RKtuMA/viewform?usp=sf_link" class="btn btn-primary btn-150th" target="_blank">ART</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSef_QSgKgXlagI-MPmkXclEfr-Cpi025ulL4sf3wFs8RKtuMA/viewform?usp=sf_link" class="btn btn-primary btn-150th">ART</a>
             </div>
             <div class="center">
-                Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSef_QSgKgXlagI-MPmkXclEfr-Cpi025ulL4sf3wFs8RKtuMA/viewform?usp=sf_link" target="_blank">here</a> to upload your submission or you can email it to: <a  href="mailto:art@theharvardadvocate.com ">art@theharvardadvocate.com </a>
+                Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSef_QSgKgXlagI-MPmkXclEfr-Cpi025ulL4sf3wFs8RKtuMA/viewform?usp=sf_link">here</a> to upload your submission or you can email it to: <a  href="mailto:art@theharvardadvocate.com ">art@theharvardadvocate.com </a>
             </div>
         </div>
     </Layout>
