@@ -1,6 +1,15 @@
 import React from 'react'
 import { Link } from "gatsby"
 
+function convertToSlug(Text)
+{
+    return Text
+        .toLowerCase()
+        .replace(/ /g,'-')
+        .replace(/[^\w-]+/g,'')
+        ;
+}
+
 class SmallArticleDisplay extends React.Component {
     constructor(props) {
         super(props);
@@ -31,7 +40,7 @@ class SmallArticleDisplay extends React.Component {
                     }
                     <div class="feature-author">
                         {data.node.frontmatter.authors.map(author => (
-                            <a href="{{ author.get_absolute_url }}" class="no-decoration">{author}</a>
+                            <Link to={"contributor/"+convertToSlug(author)} class="no-decoration">{author}</Link>
                         ))}
                     </div>
                     <div class="feature-release-date-small">{data.node.frontmatter.date}</div>

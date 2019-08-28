@@ -4,6 +4,15 @@ import { graphql } from "gatsby"
 import SmallArticleDisplay from "../components/small_article_display"
 import { Link } from "gatsby"
 
+function convertToSlug(Text)
+{
+    return Text
+        .toLowerCase()
+        .replace(/ /g,'-')
+        .replace(/[^\w-]+/g,'')
+        ;
+}
+
 export const query = graphql`
 {
     art: allMarkdownRemark(limit: 5, filter: {frontmatter: {section: {eq: "art"}}}, sort: {fields: frontmatter___date, order: DESC}) {
@@ -111,7 +120,7 @@ export default ({data}) => (
                         </div>
                         <span class="feature-author">
                             {data.features.edges[0].node.frontmatter.authors.map(author => (
-                                <a href="{{ author.get_absolute_url }}" class="no-decoration">{author}</a>
+                                <Link to={"contributor/"+convertToSlug(author)} class="no-decoration">{author}</Link>
                             ))}
                         </span>
                         <div class="feature-release-date">{data.features.edges[0].node.frontmatter.date}</div>
@@ -145,15 +154,15 @@ export default ({data}) => (
                     <h4 class="category-label">Current Issue</h4>
                     </div>
                     <div class="current-issue-label">
-                    <a href='{% url "issue" issue.issue issue.year %}'>Spring 2019</a>
+                    <Link to='/issue/spring-2019'>Spring 2019</Link>
                     </div>
-                    <a href='{% url "issue" issue.issue issue.year %}'>
-                    <div class="feature-image-container-current-issue">
-                        <div class="feature-image" id="feature-current-issue-image">
-                            <img style={{width: "100%"}} src={data.metadata.siteMetadata.mediaUrl + "issue_covers/2019/spring_2019_cover.png"}/>
+                    <Link to='/issue/spring-2019'>
+                        <div class="feature-image-container-current-issue">
+                            <div class="feature-image" id="feature-current-issue-image">
+                                <img style={{width: "100%"}} src={data.metadata.siteMetadata.mediaUrl + "issue_covers/2019/spring_2019_cover.png"}/>
+                            </div>
                         </div>
-                    </div>
-                    </a>
+                    </Link>
                     <div class="current-issue-shop">
                     <Link to="/shop">See Shop</Link>
                     </div>
@@ -176,7 +185,7 @@ export default ({data}) => (
                         </div>
                         <div class="feature-list-item-author">
                             {pick.node.frontmatter.authors.map(author => (
-                                <a href="{% url 'contributor' author.id author.name %}"><span>{author}</span></a>
+                                <Link to={"contributor/"+convertToSlug(author)}><span>{author}</span></Link>
                             ))}
                         </div>
                         <div class="feature-list-item-release-date">{pick.node.frontmatter.date}</div>
