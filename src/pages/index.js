@@ -128,60 +128,60 @@ export default ({data}) => (
                 <div className="container-right-half">
                     <SmallArticleDisplay data={data.features.edges[1]} metadata={data.metadata}/>
                     <SmallArticleDisplay data={data.fiction.edges[0]} metadata={data.metadata}/>
-                    <div class="clearfix"></div>
                     <SmallArticleDisplay data={data.poetry.edges[0]} metadata={data.metadata}/>
                     <SmallArticleDisplay data={data.art.edges[4]} metadata={data.metadata}/>
                 </div>
                 </Link>
-            </section>
-        <div class="clearfix"></div>
-        <section class="bottom-features">
-            <div class="container-left-half">
-                <div id="feature-current-issue">
-                    <div class="category-rule">
-                    <h4 class="category-label">Current Issue</h4>
-                    </div>
-                    <div class="current-issue-label">
-                    <Link to='/issue/spring-2019'>Spring 2019</Link>
-                    </div>
-                    <Link to='/issue/spring-2019'>
-                        <div class="feature-image-container-current-issue">
-                            <div class="feature-image" id="feature-current-issue-image">
-                                <img style={{width: "100%"}} src={data.metadata.siteMetadata.mediaUrl + "issue_covers/2019/spring_2019_cover.png"} alt=""/>
-                            </div>
-                        </div>
-                    </Link>
-                    <div class="current-issue-shop">
-                    <Link to="/shop">See Shop</Link>
-                    </div>
-                </div>
-
-                <SmallArticleDisplay data={data.features.edges[2]} metadata={data.metadata}/>
-                <SmallArticleDisplay data={data.fiction.edges[3]} metadata={data.metadata}/>
                 <div class="clearfix"></div>
-            </div>
-            <div class="container-right-half">
-                <div id="editors-picks">
-                    <div class="category-rule">
-                    <h4 class="category-label">From the Archives</h4>
+            </section>
+            <section class="bottom-features">
+                <div class="container-left-half">
+                    <div id="feature-current-issue">
+                        <div class="category-rule">
+                        <h4 class="category-label">Current Issue</h4>
+                        </div>
+                        <div class="current-issue-label">
+                        <Link to='/issue/spring-2019'>Spring 2019</Link>
+                        </div>
+                        <Link to='/issue/spring-2019'>
+                            <div class="feature-image-container-current-issue">
+                                <div class="feature-image" id="feature-current-issue-image">
+                                    <img style={{width: "100%"}} src={data.metadata.siteMetadata.mediaUrl + "issue_covers/2019/spring_2019_cover.png"} alt=""/>
+                                </div>
+                            </div>
+                        </Link>
+                        <div class="current-issue-shop">
+                        <Link to="/shop">See Shop</Link>
+                        </div>
                     </div>
-                    <ol class="homepage-list">
-                    { data.editors_picks.edges.map(pick => (
-                        <li class="feature-list-item">
-                        <div class="feature-list-item-title">
-                            <Link to={"/content/"+pick.node.frontmatter.slug}>{pick.node.frontmatter.title}</Link>
-                        </div>
-                        <div class="feature-list-item-author">
-                            {pick.node.frontmatter.authors.map(author => (
-                                <Link to={"contributor/"+convertToSlug(author)}><span>{author}</span></Link>
-                            ))}
-                        </div>
-                        <div class="feature-list-item-release-date">{pick.node.frontmatter.date}</div>
-                        </li>
-                    ))}
-                    </ol>
+
+                    <SmallArticleDisplay data={data.features.edges[2]} metadata={data.metadata}/>
+                    <SmallArticleDisplay data={data.fiction.edges[3]} metadata={data.metadata}/>
+                    <div class="clearfix"></div>
                 </div>
-            </div>
-        </section>
+                <div class="container-right-half">
+                    <div id="editors-picks">
+                        <div class="category-rule">
+                        <h4 class="category-label">From the Archives</h4>
+                        </div>
+                        <ol class="homepage-list">
+                        { data.editors_picks.edges.map(pick => (
+                            <li class="feature-list-item">
+                            <div class="feature-list-item-title">
+                                <Link to={"/content/"+pick.node.frontmatter.slug}>{pick.node.frontmatter.title}</Link>
+                            </div>
+                            <div class="feature-list-item-author">
+                                {pick.node.frontmatter.authors.map(author => (
+                                    <Link to={"contributor/"+convertToSlug(author)}><span>{author}</span></Link>
+                                ))}
+                            </div>
+                            <div class="feature-list-item-release-date">{pick.node.frontmatter.date}</div>
+                            </li>
+                        ))}
+                        </ol>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </section>
         </div>
-        </Layout>)
+    </Layout>)
