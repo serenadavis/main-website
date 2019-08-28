@@ -14,6 +14,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
 
   const postTemplate = path.resolve('src/templates/article.js')
   const issueTemplate = path.resolve('src/templates/issue.js')
+  const contributorTemplate = path.resolve('src/templates/contributor.js')
 
   return graphql(`
   {
@@ -53,13 +54,20 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
         context: { slug: node.frontmatter.slug}
       })
     })
-    console.log(res.data.issue_names.distinct)
+
     res.data.issue_names.distinct.forEach( issue_name  => {
-        console.log(issue_name)
         createPage({
             path: 'issue/'+convertToSlug(issue_name),
             component: issueTemplate,
             context: { issue_full_name: issue_name}
+          })
+    })
+
+    res.data.authors.distinct.forEach( author  => {
+        createPage({
+            path: 'contributor/'+convertToSlug(author),
+            component: contributorTemplate,
+            context: { author: author}
           })
     })
   })
