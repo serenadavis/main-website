@@ -10,7 +10,7 @@ section: "features"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/margotgr.png']
+images: ['margotgr']
 videos: []
 ---
    *What do we do now, now that we are happy? *

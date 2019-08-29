@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/KoeferlMakeWater2822x2822.jpg']
+images: ['koeferlmakewater2822x2822']
 videos: []
 ---
 28" x 28"

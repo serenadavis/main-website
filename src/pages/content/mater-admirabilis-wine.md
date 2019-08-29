@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/EggersWineencaustic8x10in.jpg']
+images: ['eggerswineencaustic8x10in']
 videos: []
 ---
 8" x 10"

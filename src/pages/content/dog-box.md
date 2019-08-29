@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/DogBox2003.jpg']
+images: ['dogbox2003']
 videos: []
 ---

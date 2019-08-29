@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/Stavba---SPR13---Katarina-Burin.jpg']
+images: ['stavba-spr13-katarina-burin']
 videos: []
 ---

@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/Euclide1.png']
+images: ['euclide1']
 videos: []
 ---

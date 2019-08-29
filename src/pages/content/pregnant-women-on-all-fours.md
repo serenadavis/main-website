@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/Pregnant Woman On All Fours ink drawing.jpg']
+images: ['pregnant-woman-on-all-fours-ink-drawing']
 videos: []
 ---

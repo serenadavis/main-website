@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/Winter2015Final13small_1.jpg']
+images: ['winter2015final13small_1']
 videos: []
 ---
   

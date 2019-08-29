@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/GoldfederTall_C2010.jpg']
+images: ['goldfedertall_c2010']
 videos: []
 ---
 *  

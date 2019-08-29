@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/SOP-1.jpg']
+images: ['sop-1']
 videos: []
 ---

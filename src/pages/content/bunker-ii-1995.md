@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/Gormleybunker2.png']
+images: ['gormleybunker2']
 videos: []
 ---
 19 x 14 centimeters

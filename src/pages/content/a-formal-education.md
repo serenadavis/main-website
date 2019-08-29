@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/formaledu1.JPG']
+images: ['formaledu1']
 videos: []
 ---

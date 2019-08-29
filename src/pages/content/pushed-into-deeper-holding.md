@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/Euclide2deeperholding.png']
+images: ['euclide2deeperholding']
 videos: []
 ---

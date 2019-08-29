@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/Bornsteinprisonsincarceration.png']
+images: ['bornsteinprisonsincarceration']
 videos: []
 ---

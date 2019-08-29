@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/Threat2010.jpg']
+images: ['threat2010']
 videos: []
 ---

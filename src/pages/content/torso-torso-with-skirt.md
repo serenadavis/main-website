@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/ErikoKay.jpg']
+images: ['erikokay']
 videos: []
 ---
 10x11x9 in., 10x11x12 in.

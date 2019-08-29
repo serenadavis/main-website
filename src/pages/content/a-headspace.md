@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/1ae960ca3024490a9b7125bc48681056rw1920.jpg']
+images: ['1ae960ca3024490a9b7125bc48681056rw1920']
 videos: []
 ---
 “Let’s use media to trespass on the divide between self and other. How can you make a body into a virtual  

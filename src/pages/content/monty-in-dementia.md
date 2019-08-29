@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/MONTY_in_Dementia_by_Leviathan_whale.jpg']
+images: ['monty_in_dementia_by_leviathan_whale']
 videos: []
 ---

@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/Rozovsky_3_C2010.jpg']
+images: ['rozovsky_3_c2010']
 videos: []
 ---

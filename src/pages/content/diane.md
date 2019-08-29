@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/ART_Wtr12_Bredar_0.jpg']
+images: ['art_wtr12_bredar_0']
 videos: []
 ---

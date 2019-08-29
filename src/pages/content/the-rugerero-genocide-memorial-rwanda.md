@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/2014_1_06 Masterfile_Advocate_TRIAL.P156 copy.png']
+images: ['2014_1_06-masterfile_advocate_trialp156-copy']
 videos: []
 ---
  

@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/Fall2014final-11_small.jpg']
+images: ['fall2014final-11_small']
 videos: []
 ---
 Mustek Flatbed Scanner  

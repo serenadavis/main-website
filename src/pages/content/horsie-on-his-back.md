@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/Horse on His Back ink drawing-1.jpg']
+images: ['horse-on-his-back-ink-drawing-1']
 videos: []
 ---

@@ -35,7 +35,7 @@ export default ({data}) => (
                                     <h2 class="subheader" style={{fontSize: "16px", padding: "0"}}>{issue_full_name}</h2>
                                     <figure>
                                         <Link to={"issue/"+convertToSlug(issue_full_name)} className="no-decoration">
-                                            <img class='img-responsive' style={{margin: "0 auto;"}} src={"https://harvard-advocate.s3.amazonaws.com/covers/"+convertToSlug(issue_full_name)} alt=""/>
+                                            <img class='img-responsive' style={{margin: "0 auto;"}} src={data.metadata.siteMetadata.mediaUrl+'covers/'+convertToSlug(issue_full_name)} alt=""/>
                                         </Link>
                                     </figure>
                                 </div>
@@ -46,7 +46,7 @@ export default ({data}) => (
                                 <h2 class="subheader" style={{fontSize: "16px", padding: "0"}}>{issue_full_name}</h2>
                                 <figure>
                                     <Link to={"issue/"+convertToSlug(issue_full_name)} className="no-decoration">
-                                        <img class='img-responsive' style={{margin: "0 auto;"}} src={"https://harvard-advocate.s3.amazonaws.com/covers/"+convertToSlug(issue_full_name)} alt=""/>
+                                        <img class='img-responsive' style={{margin: "0 auto;"}} src={data.metadata.siteMetadata.mediaUrl+'covers/'+convertToSlug(issue_full_name)} alt=""/>
                                     </Link>
                                 </figure>
                             </div>

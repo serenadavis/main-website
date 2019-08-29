@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/SPRING2010_Art_Weltall.jpg']
+images: ['spring2010_art_weltall']
 videos: []
 ---

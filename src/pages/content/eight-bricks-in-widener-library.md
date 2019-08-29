@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/art_fall13_bredar.jpg']
+images: ['art_fall13_bredar']
 videos: []
 ---
 (From top row, left to right)

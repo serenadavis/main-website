@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/GoldfederBrush_C2010.jpg']
+images: ['goldfederbrush_c2010']
 videos: []
 ---

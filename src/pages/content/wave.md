@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/KimWave20151.jpg']
+images: ['kimwave20151']
 videos: []
 ---

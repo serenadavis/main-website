@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/scott 3 resize.jpg']
+images: ['scott-3-resize']
 videos: []
 ---

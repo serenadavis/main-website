@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/Cutloose2005.jpg']
+images: ['cutloose2005']
 videos: []
 ---

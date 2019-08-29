@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/Portrait-of-Kayla-Sitting-and-Looking-Down---SPR13---Kayla-Escobedo.jpg']
+images: ['portrait-of-kayla-sitting-and-looking-down-spr13-kayla-escobedo']
 videos: []
 ---

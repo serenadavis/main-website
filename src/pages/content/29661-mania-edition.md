@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/296.61ManiaEdition2013.jpg']
+images: ['29661maniaedition2013']
 videos: []
 ---

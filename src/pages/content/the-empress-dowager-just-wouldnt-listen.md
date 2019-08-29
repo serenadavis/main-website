@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/ChinaSamplers5.jpg']
+images: ['chinasamplers5']
 videos: []
 ---
 1965 Life Magazine article, mixed threads, silk, claystamp  

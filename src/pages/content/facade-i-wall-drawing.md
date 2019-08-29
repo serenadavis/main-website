@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/scopa 3 big.jpg']
+images: ['scopa-3-big']
 videos: []
 ---

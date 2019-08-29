@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/Gel01.png']
+images: ['gel01']
 videos: []
 ---

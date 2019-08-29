@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/ART_S11_Libeskind.jpg']
+images: ['art_s11_libeskind']
 videos: []
 ---

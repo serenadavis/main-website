@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/EggersApartmentWindowencaustic8x10in.jpg']
+images: ['eggersapartmentwindowencaustic8x10in']
 videos: []
 ---
 8" x 10"

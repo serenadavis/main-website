@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/1AndreasGeorgiouArtofFalling.jpg']
+images: ['1andreasgeorgiouartoffalling']
 videos: []
 ---

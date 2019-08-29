@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/orman.png']
+images: ['orman']
 videos: []
 ---
 Documentation of action

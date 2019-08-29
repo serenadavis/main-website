@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/33858506719757Cover2009Spring.png']
+images: ['33858506719757cover2009spring']
 videos: []
 ---

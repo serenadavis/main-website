@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/33858494600654Cover2009Commencement.jpg']
+images: ['33858494600654cover2009commencement']
 videos: []
 ---

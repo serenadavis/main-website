@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/BornsteinKayDiscipline2017.png']
+images: ['bornsteinkaydiscipline2017']
 videos: []
 ---

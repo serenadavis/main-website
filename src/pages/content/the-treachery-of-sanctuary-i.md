@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/BryanDerballatcpsf2523.jpg']
+images: ['bryanderballatcpsf2523']
 videos: []
 ---

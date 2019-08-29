@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/RavenMatrixHumanKcompilation.png']
+images: ['ravenmatrixhumankcompilation']
 videos: []
 ---
 47 2/3 x 33 1/2 inches

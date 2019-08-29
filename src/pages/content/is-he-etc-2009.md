@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/ART_S11_Davis23.jpg']
+images: ['art_s11_davis23']
 videos: []
 ---

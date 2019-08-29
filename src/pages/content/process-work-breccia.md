@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/VogelBreccia.jpg']
+images: ['vogelbreccia']
 videos: []
 ---
 22 x 30 inches

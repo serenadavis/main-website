@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/LucyKimCuredinPinkSeanandSusan.jpg']
+images: ['lucykimcuredinpinkseanandsusan']
 videos: []
 ---
 72” x 48” x 4”

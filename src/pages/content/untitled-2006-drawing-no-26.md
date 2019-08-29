@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/Kraus2006no26.png']
+images: ['kraus2006no26']
 videos: []
 ---

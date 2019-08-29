@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/chrysalis.jpg']
+images: ['chrysalis']
 videos: []
 ---
 Ink and cut paper.

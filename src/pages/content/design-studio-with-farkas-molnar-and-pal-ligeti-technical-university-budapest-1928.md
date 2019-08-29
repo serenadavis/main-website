@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/Design-Studio---SPR13---Katarina-Burin.jpg']
+images: ['design-studio-spr13-katarina-burin']
 videos: []
 ---

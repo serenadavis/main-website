@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/YuanPort3_C2010.jpg']
+images: ['yuanport3_c2010']
 videos: []
 ---

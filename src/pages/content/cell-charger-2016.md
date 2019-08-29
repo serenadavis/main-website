@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/BornsteinCellcharger.png']
+images: ['bornsteincellcharger']
 videos: []
 ---

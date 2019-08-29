@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/Machines_1.png']
+images: ['machines_1']
 videos: []
 ---

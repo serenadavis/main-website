@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/burano2.png']
+images: ['burano2']
 videos: []
 ---

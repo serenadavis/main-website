@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/GoodandEvil2009.jpg']
+images: ['goodandevil2009']
 videos: []
 ---

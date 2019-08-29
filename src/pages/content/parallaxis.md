@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/BaharParallaxis2015_razn45l.png']
+images: ['baharparallaxis2015_razn45l']
 videos: []
 ---

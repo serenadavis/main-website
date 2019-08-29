@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/barcode_reading02.jpg']
+images: ['barcode_reading02']
 videos: []
 ---

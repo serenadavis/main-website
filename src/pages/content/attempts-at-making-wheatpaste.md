@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/ART_F11_Stern_0.jpg']
+images: ['art_f11_stern_0']
 videos: []
 ---

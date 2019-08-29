@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/MG3080print1.png']
+images: ['mg3080print1']
 videos: []
 ---
 Digital photograph

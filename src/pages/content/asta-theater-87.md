@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/Theater087.jpg']
+images: ['theater087']
 videos: []
 ---
 2013  

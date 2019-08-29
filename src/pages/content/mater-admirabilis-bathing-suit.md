@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/EggersBathingSuitoil3x4.jpg']
+images: ['eggersbathingsuitoil3x4']
 videos: []
 ---
 3' x 4'

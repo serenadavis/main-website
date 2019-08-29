@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/AntoniInhabit2009.png']
+images: ['antoniinhabit2009']
 videos: []
 ---
 116 1/2 x 72 in

@@ -56,7 +56,7 @@ class FeaturedArticlesComponent extends React.Component {
                         { featured.node.frontmatter.section === "art" ?
                             <div class="item-sample">
                                 <Link to={"/content/"+featured.node.frontmatter.slug}>
-                                    <img src={metadata.siteMetadata.mediaUrl + featured.node.frontmatter.images[0]} alt=""/>
+                                    <img src={metadata.siteMetadata.mediaUrl + 'images/' + featured.node.frontmatter.images[0]} alt=""/>
                                 </Link>
                             </div>
                             :

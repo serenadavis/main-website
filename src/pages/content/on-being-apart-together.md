@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/A2ibf.jpg']
+images: ['a2ibf']
 videos: []
 ---
 A2 (420 x 594 mm)

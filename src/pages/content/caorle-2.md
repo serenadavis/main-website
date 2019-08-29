@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/W11_ART_Rooney_020.jpg']
+images: ['w11_art_rooney_020']
 videos: []
 ---

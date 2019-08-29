@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/File5.jpg']
+images: ['file5']
 videos: []
 ---
 Digital photograph mounted on wooden panel  

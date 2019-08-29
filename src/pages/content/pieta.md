@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/pietaweber.jpg']
+images: ['pietaweber']
 videos: []
 ---
 9' x 5' x 2'

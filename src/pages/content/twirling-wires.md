@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/Twirlingwires2001.jpg']
+images: ['twirlingwires2001']
 videos: []
 ---

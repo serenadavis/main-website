@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/art_fall13_kim_0.jpg']
+images: ['art_fall13_kim_0']
 videos: []
 ---

@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/166_0.jpg']
+images: ['166_0']
 videos: []
 ---

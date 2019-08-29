@@ -25,7 +25,7 @@ export default ({ data }) => {
                     post.frontmatter.images[0] &&
                     post.frontmatter.images.map(image => (
                         <figure>
-                            <img src={data.metadata.siteMetadata.mediaUrl+image} className="header-image img-responsive" alt="" />
+                            <img src={data.metadata.siteMetadata.mediaUrl+'images/'+image} className="header-image img-responsive" alt="" />
                         </figure>
                     ))
                 }

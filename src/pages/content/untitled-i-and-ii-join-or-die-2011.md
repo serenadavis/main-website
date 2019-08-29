@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/ART_C11_Kase15.jpg']
+images: ['art_c11_kase15']
 videos: []
 ---

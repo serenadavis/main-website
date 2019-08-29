@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/ChaivaranonOilCharcoalChalkLinen22x692views.jpg']
+images: ['chaivaranonoilcharcoalchalklinen22x692views']
 videos: []
 ---
 Two views of one piece to show the work font and back-lit. The work is exhibited standing in the open space of a room. The artist thinks through what it means to make an acheiropoieton-- an image 'without human hands'.

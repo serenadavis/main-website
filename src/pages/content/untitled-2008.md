@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sites/default/files/Ligonuntitledamerica.png']
+images: ['ligonuntitledamerica']
 videos: []
 ---
 24 x 168 inches
