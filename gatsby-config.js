@@ -29,6 +29,8 @@ module.exports = {
         name: 'content',
       }
     },
-    sourceS3
+    sourceS3,
+    `gatsby-transformer-sharp`, 
+    `gatsby-plugin-sharp`
   ]
 }
