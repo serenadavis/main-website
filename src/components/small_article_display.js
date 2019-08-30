@@ -15,7 +15,6 @@ class SmallArticleDisplay extends React.Component {
 
     render(){
         const data = this.props.data;
-        const metadata = this.props.metadata
         return (
             <Link to={"/content/"+data.node.frontmatter.slug}>
                 <div class="container-left-quarter small_feature">

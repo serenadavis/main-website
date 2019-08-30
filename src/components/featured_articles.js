@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link, StaticQuery, graphql } from "gatsby"
+import { Link } from "gatsby"
 import Image from "../components/image"
 
 function convertToSlug(Text)
@@ -28,8 +28,6 @@ class FeaturedArticlesComponent extends React.Component {
 
     render(){
         const data = this.props.data;
-        const metadata = this.props.metadata;
-        const all_images = this.props.all_images;
         const featured = this.state.featured ? this.state.featured : data.allMarkdownRemark.edges[0];
         return (
             <div className="container">

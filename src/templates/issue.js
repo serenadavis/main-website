@@ -2,6 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import { Link } from "gatsby"
+import Image from "../components/image"
 
 function convertToSlug(Text)
 {
@@ -12,17 +13,17 @@ function convertToSlug(Text)
         ;
 }
 
-export default ({ data }) => {
+export default ({ data, pageContext }) => {
   return (
     <Layout>
         <div class="container">
-            <h1 class="header"> {data.fiction.edges[0].node.frontmatter.issue_full_name} </h1>
+            <h1 class="header"> {pageContext.issue_full_name} </h1>
             <div class = "row">
                 <div class="col-sm-6">
                     {/* <H2 class="subheader"> Buy this issue <u><Link to="/shop">here</Link></u></H2> */}
                     <figure>
                         <a href="{% url 'shop' %}">
-                            <img class='img-responsive' alt="" style={{margin: "0 auto"}} src={"https://harvard-advocate.s3.amazonaws.com/covers/"+convertToSlug(data.fiction.edges[0].node.frontmatter.issue_full_name)}/>
+                            <Image name={convertToSlug(pageContext.issue_full_name) + ".png"}/>
                         </a>
                     </figure>
                 </div>
