@@ -3,6 +3,7 @@ import Layout from "../components/layout"
 import { graphql } from "gatsby"
 import SmallArticleDisplay from "../components/small_article_display"
 import { Link } from "gatsby"
+import Image from "../components/image"
 
 function convertToSlug(Text)
 {
@@ -109,7 +110,7 @@ export default ({data}) => (
                         </div>
                         <div class="feature-image-container-large">
                         <div class="feature-image" id="feature-1-image">
-                            <img style={{width: "100%", overflow:"hidden"}} src={data.metadata.siteMetadata.mediaUrl + "building-shot.png"} alt=""/>
+                            <Image name="building-shot.png"/>
                         </div>
                         </div>
                         <div class="feature-title-large">
@@ -146,7 +147,7 @@ export default ({data}) => (
                         <Link to='/issue/spring-2019'>
                             <div class="feature-image-container-current-issue">
                                 <div class="feature-image" id="feature-current-issue-image">
-                                    <img style={{width: "100%"}} src={data.metadata.siteMetadata.mediaUrl + 'spring-2019.png'} alt=""/>
+                                    <Image name = "spring-2019.png"/>
                                 </div>
                             </div>
                         </Link>
