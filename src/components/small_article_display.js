@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from "gatsby"
+import Image from "../components/image"
 
 function convertToSlug(Text)
 {
@@ -27,7 +28,7 @@ class SmallArticleDisplay extends React.Component {
                     { data.node.frontmatter.section === "art" ?
                         <div className="feature-image-container-small">
                             <div class="feature-image" id="feature-3-image">
-                                <img style={{width: "100%"}} src={metadata.siteMetadata.mediaUrl + data.node.frontmatter.images[0]} alt=""/>
+                                <Image name={data.node.frontmatter.images[0]}/>
                             </div>
                         </div>
                     :

@@ -1,6 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 import { graphql, Link } from "gatsby"
+import Image from "../components/image"
 
 export const query = graphql`
 {
@@ -35,7 +36,8 @@ export default ({data}) => (
                                     <h2 class="subheader" style={{fontSize: "16px", padding: "0"}}>{issue_full_name}</h2>
                                     <figure>
                                         <Link to={"issue/"+convertToSlug(issue_full_name)} className="no-decoration">
-                                            <img class='img-responsive' style={{margin: "0 auto;"}} src={data.metadata.siteMetadata.mediaUrl+'covers/'+convertToSlug(issue_full_name)} alt=""/>
+                                            {/* <img class='img-responsive' style={{margin: "0 auto;"}} src={data.metadata.siteMetadata.mediaUrl+'covers/'+convertToSlug(issue_full_name)} alt=""/> */}
+                                            <Image name={convertToSlug(issue_full_name)+".png"}/>
                                         </Link>
                                     </figure>
                                 </div>
