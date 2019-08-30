@@ -51,7 +51,7 @@ exports.createPages = ({ actions, graphql }) => {
       createPage({
         path: 'content/'+node.frontmatter.slug,
         component: postTemplate,
-        context: { slug: node.frontmatter.slug}
+        context: { slug: node.frontmatter.slug, images: node.frontmatter.images}
       })
     })
 

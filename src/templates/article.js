@@ -1,6 +1,7 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
+import Img from "gatsby-image"
 
 function convertToSlug(Text)
 {
@@ -25,7 +26,7 @@ export default ({ data }) => {
                     post.frontmatter.images[0] &&
                     post.frontmatter.images.map(image => (
                         <figure>
-                            <img src={data.metadata.siteMetadata.mediaUrl+image} className="header-image img-responsive" alt="" />
+                            <Img fluid={data.images.edges[0].node.childImageSharp.fluid} />
                         </figure>
                     ))
                 }
@@ -36,7 +37,7 @@ export default ({ data }) => {
   )
 }
 export const query = graphql`
-query($slug: String!) {
+query($slug: String!, $images: [String]!) {
     markdownRemark(frontmatter: { slug: { eq: $slug } }) {
       html
       frontmatter {
@@ -52,6 +53,17 @@ query($slug: String!) {
     metadata: site {
         siteMetadata {
             mediaUrl
+        }
+    },
+    images: allS3ImageAsset(filter: {Key: {in: $images}}) {
+        edges {
+            node {
+                childImageSharp {
+                    fluid {
+                        ...GatsbyImageSharpFluid
+                    }
+                }
+            }
         }
     }
   }
