@@ -7,7 +7,7 @@ export default () => (
             <nav class="navbar navbar-default advo-navbar footer-navbar" role="navigation">
                 <ul class="nav navbar-nav footer-navbar">
                     <li ><Link to="advertise">ADVERTISE</Link></li>
-                    <li ><Link to="alumni">ALUMNI</Link></li>
+                    {/* <li ><Link to="alumni">ALUMNI</Link></li> */}
                     <li ><Link to="contact">CONTACT US</Link></li>
                     <li ><Link to="comp">COMP</Link></li>
                     <li ><Link to="submit">SUBMIT</Link></li>
