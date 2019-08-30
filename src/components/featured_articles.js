@@ -1,5 +1,6 @@
 import React from 'react'
-import { Link } from "gatsby"
+import { Link, StaticQuery, graphql } from "gatsby"
+import Image from "../components/image"
 
 function convertToSlug(Text)
 {
@@ -28,6 +29,7 @@ class FeaturedArticlesComponent extends React.Component {
     render(){
         const data = this.props.data;
         const metadata = this.props.metadata;
+        const all_images = this.props.all_images;
         const featured = this.state.featured ? this.state.featured : data.allMarkdownRemark.edges[0];
         return (
             <div className="container">
@@ -56,7 +58,8 @@ class FeaturedArticlesComponent extends React.Component {
                         { featured.node.frontmatter.section === "art" ?
                             <div class="item-sample">
                                 <Link to={"/content/"+featured.node.frontmatter.slug}>
-                                    <img src={metadata.siteMetadata.mediaUrl + featured.node.frontmatter.images[0]} alt=""/>
+                                    {/* <img src={metadata.siteMetadata.mediaUrl + featured.node.frontmatter.images[0]} alt=""/> */}
+                                    <Image name={featured.node.frontmatter.images[0]} />
                                 </Link>
                             </div>
                             :
