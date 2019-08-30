@@ -7,9 +7,7 @@
 const sourceS3 = {
   resolve: 'gatsby-source-s3-image',
   options: {
-    bucketName: 'theharvardadvocate',
-    accessKeyId: 'AKIAZK742CRBSFAJ5PP5',
-    secretAccessKey: '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'
+    bucketName: 'theharvardadvocate'
   },
 }
 
