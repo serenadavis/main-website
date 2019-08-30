@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['2014_1_06-masterfile_advocate_trialp074-copy']
+images: ['2014_1_06-masterfile_advocate_trialp074-copy.jpg']
 videos: []
 ---
  

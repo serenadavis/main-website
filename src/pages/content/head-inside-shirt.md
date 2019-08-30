@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['headinsideshirt2001']
+images: ['headinsideshirt2001.jpg']
 videos: []
 ---

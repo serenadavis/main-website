@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['lalorwindowsadvocate']
+images: ['lalorwindowsadvocate.jpg']
 videos: []
 ---
 Oil on canvas

@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['sdm5dtalkingheadcrosssectionsketch']
+images: ['sdm5dtalkingheadcrosssectionsketch.jpeg']
 videos: []
 ---

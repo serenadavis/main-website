@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['deependms13003']
+images: ['deependms13003.jpg']
 videos: []
 ---
 2013  

@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['pinpt1641lores']
+images: ['pinpt1641lores.jpg']
 videos: []
 ---

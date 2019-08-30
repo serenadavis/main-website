@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['long-print-resize']
+images: ['long-print-resize.jpg']
 videos: []
 ---

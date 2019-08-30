@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['volatile']
+images: ['volatile.jpg']
 videos: []
 ---
 Ink on paper  

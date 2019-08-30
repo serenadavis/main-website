@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['on-patroclus_0']
+images: ['on-patroclus_0.jpg']
 videos: []
 ---

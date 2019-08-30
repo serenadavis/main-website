@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['fall2014final-12_small']
+images: ['fall2014final-12_small.jpg']
 videos: []
 ---
 35mm reversal film

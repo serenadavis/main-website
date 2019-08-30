@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['21']
+images: ['21.png']
 videos: []
 ---
 https://www.youtube.com/watch?v=aYXpq-bzIBo

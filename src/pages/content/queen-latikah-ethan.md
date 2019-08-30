@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['art_w12_dektar']
+images: ['art_w12_dektar.jpg']
 videos: []
 ---

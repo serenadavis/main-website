@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['debling']
+images: ['debling.png']
 videos: []
 ---
 Single-channel video

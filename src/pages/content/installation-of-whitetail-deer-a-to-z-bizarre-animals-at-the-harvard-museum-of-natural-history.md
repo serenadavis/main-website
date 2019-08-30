@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['liebermanbizarre_c2010']
+images: ['liebermanbizarre_c2010.jpg']
 videos: []
 ---

@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['art_wtr12_luo']
+images: ['art_wtr12_luo.jpg']
 videos: []
 ---

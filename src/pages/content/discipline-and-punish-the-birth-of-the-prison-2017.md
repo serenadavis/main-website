@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['bornsteinkaydiscipline2017']
+images: ['bornsteinkaydiscipline2017.png']
 videos: []
 ---

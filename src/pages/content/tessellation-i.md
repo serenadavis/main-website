@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['tesselation-i-spr13-sally-scopa']
+images: ['tesselation-i-spr13-sally-scopa.jpg']
 videos: []
 ---

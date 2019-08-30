@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['dewbreaker']
+images: ['dewbreaker.jpg']
 videos: []
 ---
 Pigment, ink, oil, graphite and paper on canvas

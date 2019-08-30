@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['spring2010_art_something']
+images: ['spring2010_art_something.jpg']
 videos: []
 ---

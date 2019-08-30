@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['bornsteincellphone1']
+images: ['bornsteincellphone1.png']
 videos: []
 ---

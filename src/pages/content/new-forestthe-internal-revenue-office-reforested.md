@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['131021efrossardeharveypting2244']
+images: ['131021efrossardeharveypting2244.jpg']
 videos: []
 ---

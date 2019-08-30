@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['lebain92x78perelli']
+images: ['lebain92x78perelli.jpg']
 videos: []
 ---
 92” X 78”

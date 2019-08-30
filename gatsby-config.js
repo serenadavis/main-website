@@ -4,13 +4,22 @@
  * See: https://www.gatsbyjs.org/docs/gatsby-config/
  */
 
+const sourceS3 = {
+  resolve: 'gatsby-source-s3-image',
+  options: {
+    bucketName: 'theharvardadvocate'
+  },
+}
+
+
 module.exports = {
   siteMetadata: {
     title: `The Harvard Advocate`,
     description: `The Harvard Advocate, founded in 1866, is the oldest continuously published collegiate literary magazine in the USA.`,
     author: `Daniel Inge`,
-    mediaUrl: `https://harvard-advocate.s3.amazonaws.com/`
+    mediaUrl: `https://theharvardadvocate.s3.amazonaws.com/`
   },
+
   plugins: [
     `gatsby-transformer-remark`,
     {
@@ -20,5 +29,6 @@ module.exports = {
         name: 'content',
       }
     },
+    sourceS3
   ]
 }

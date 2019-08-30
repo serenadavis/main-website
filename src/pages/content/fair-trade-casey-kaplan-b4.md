@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['art_wtr12_dis-magazine']
+images: ['art_wtr12_dis-magazine.jpg']
 videos: []
 ---

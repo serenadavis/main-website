@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['2andreasgeorgiouartoffalling']
+images: ['2andreasgeorgiouartoffalling.jpg']
 videos: []
 ---

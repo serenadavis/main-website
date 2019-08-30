@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['scherlisinterstice']
+images: ['scherlisinterstice.png']
 videos: []
 ---
 Visual rendering for computerized audio of a two-week text conversation

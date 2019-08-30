@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['ccvatheater0156']
+images: ['ccvatheater0156.jpg']
 videos: []
 ---
 2013  

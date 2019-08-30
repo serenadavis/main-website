@@ -109,7 +109,7 @@ export default ({data}) => (
                         </div>
                         <div class="feature-image-container-large">
                         <div class="feature-image" id="feature-1-image">
-                            <img style={{width: "100%", overflow:"hidden"}} src={data.metadata.siteMetadata.mediaUrl + "images/building-shot"} alt=""/>
+                            <img style={{width: "100%", overflow:"hidden"}} src={data.metadata.siteMetadata.mediaUrl + "building-shot.png"} alt=""/>
                         </div>
                         </div>
                         <div class="feature-title-large">
@@ -146,7 +146,7 @@ export default ({data}) => (
                         <Link to='/issue/spring-2019'>
                             <div class="feature-image-container-current-issue">
                                 <div class="feature-image" id="feature-current-issue-image">
-                                    <img style={{width: "100%"}} src={data.metadata.siteMetadata.mediaUrl + 'covers/spring-2019'} alt=""/>
+                                    <img style={{width: "100%"}} src={data.metadata.siteMetadata.mediaUrl + 'spring-2019.png'} alt=""/>
                                 </div>
                             </div>
                         </Link>

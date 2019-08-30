@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['screenshot20160426at15651pm']
+images: ['screenshot20160426at15651pm.png']
 videos: []
 ---
 Full video can be viewed [here](https://vimeo.com/162292825). 

@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['eggersbathingsuitoil3x4']
+images: ['eggersbathingsuitoil3x4.jpg']
 videos: []
 ---
 3' x 4'

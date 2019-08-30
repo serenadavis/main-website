@@ -10,6 +10,6 @@ section: "news"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['picture-6']
+images: ['picture-6.png']
 videos: []
 ---

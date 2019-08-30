@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['scherliswindowstill2']
+images: ['scherliswindowstill2.png']
 videos: []
 ---

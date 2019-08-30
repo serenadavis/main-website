@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['d9e069c780824df2bb0d89ff37f5cc17']
+images: ['d9e069c780824df2bb0d89ff37f5cc17.jpg']
 videos: []
 ---
 Video 

@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['relievesinseguros']
+images: ['relievesinseguros.png']
 videos: []
 ---
 Tree slices, plaster, printed paper maps

@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['kapharjerome']
+images: ['kapharjerome.png']
 videos: []
 ---
 Drawing: 49 x 35 1/2 inches  

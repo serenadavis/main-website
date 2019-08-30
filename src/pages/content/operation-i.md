@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['image121']
+images: ['image121.JPG']
 videos: []
 ---
 Silkscreen, collage.

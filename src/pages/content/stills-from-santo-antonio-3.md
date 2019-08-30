@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['winter2015final17']
+images: ['winter2015final17.jpg']
 videos: []
 ---
   

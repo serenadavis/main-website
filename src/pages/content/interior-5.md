@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['azizcucherinterior5']
+images: ['azizcucherinterior5.png']
 videos: []
 ---
 50 x 72 inches

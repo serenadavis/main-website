@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['mementomori2012']
+images: ['mementomori2012.jpg']
 videos: []
 ---

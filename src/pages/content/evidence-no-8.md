@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['evidence8']
+images: ['evidence8.jpg']
 videos: []
 ---

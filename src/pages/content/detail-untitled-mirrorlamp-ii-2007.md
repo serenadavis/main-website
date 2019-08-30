@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['krausmirrorlampdetail2']
+images: ['krausmirrorlampdetail2.png']
 videos: []
 ---
 7 x 22 x 30 cm

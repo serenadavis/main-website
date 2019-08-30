@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['beekeeper']
+images: ['beekeeper.png']
 videos: []
 ---

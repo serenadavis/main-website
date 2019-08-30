@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['06lemieuxfume']
+images: ['06lemieuxfume.png']
 videos: []
 ---
 Self-portrait of the artist

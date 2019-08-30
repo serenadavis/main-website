@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['andrews-jeopardy_0']
+images: ['andrews-jeopardy_0.jpg']
 videos: []
 ---

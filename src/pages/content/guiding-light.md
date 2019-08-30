@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['christianlavista']
+images: ['christianlavista.png']
 videos: []
 ---
 Digital

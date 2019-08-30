@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['winedarkseaimage1_vq2o4lu']
+images: ['winedarkseaimage1_vq2o4lu.jpg']
 videos: []
 ---

@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['euclide2deeperholding']
+images: ['euclide2deeperholding.png']
 videos: []
 ---

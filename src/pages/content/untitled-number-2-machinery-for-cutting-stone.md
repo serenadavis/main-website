@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['dayno']
+images: ['dayno.jpg']
 videos: []
 ---

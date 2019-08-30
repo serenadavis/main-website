@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['chaivaranoncharcoaldrypoint22x9']
+images: ['chaivaranoncharcoaldrypoint22x9.jpg']
 videos: []
 ---
 22"x9"

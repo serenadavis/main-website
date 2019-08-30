@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['hemispheregeode']
+images: ['hemispheregeode.jpg']
 videos: []
 ---
 Each 11.5” diameter

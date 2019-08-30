@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['2a-altar-reseize']
+images: ['2a-altar-reseize.jpg']
 videos: []
 ---

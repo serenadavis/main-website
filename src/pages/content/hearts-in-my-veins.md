@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['image131']
+images: ['image131.JPG']
 videos: []
 ---
 Acrylic, artichokes, pencil, gel transfer on canvas.

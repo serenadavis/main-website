@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['panic2ms12072']
+images: ['panic2ms12072.jpg']
 videos: []
 ---
 2013  

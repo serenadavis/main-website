@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['bryanderballatcpsf6067']
+images: ['bryanderballatcpsf6067.jpg']
 videos: []
 ---

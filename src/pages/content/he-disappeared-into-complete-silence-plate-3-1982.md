@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['bourgeoisplate2']
+images: ['bourgeoisplate2.png']
 videos: []
 ---
 EXCERPTED FROM 1982 SUMMER ISSUE

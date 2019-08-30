@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['2014_1_06-masterfile_advocate_trialp084']
+images: ['2014_1_06-masterfile_advocate_trialp084.png']
 videos: []
 ---
 Painted pots (clay), pieces of mirror, paper dye

@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['escobado-big']
+images: ['escobado-big.jpg']
 videos: []
 ---

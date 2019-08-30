@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['w11_art_escobedo_057']
+images: ['w11_art_escobedo_057.jpg']
 videos: []
 ---

@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['koeferlmakewater2822x2822']
+images: ['koeferlmakewater2822x2822.jpg']
 videos: []
 ---
 28" x 28"

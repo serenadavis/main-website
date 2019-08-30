@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['monty_in_cancer_by_leviathan_whale']
+images: ['monty_in_cancer_by_leviathan_whale.jpg']
 videos: []
 ---

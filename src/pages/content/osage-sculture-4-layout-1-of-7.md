@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['mao_c2010_0']
+images: ['mao_c2010_0.jpg']
 videos: []
 ---

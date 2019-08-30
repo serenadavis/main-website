@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['ligondiptych2']
+images: ['ligondiptych2.png']
 videos: []
 ---
 Diptych

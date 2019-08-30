@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['2014_1_06-masterfile_advocate_trialp033']
+images: ['2014_1_06-masterfile_advocate_trialp033.png']
 videos: []
 ---
 (In order of appearance from top to bottom)

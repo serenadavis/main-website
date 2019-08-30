@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['gookeyes2014detail']
+images: ['gookeyes2014detail.jpg']
 videos: []
 ---

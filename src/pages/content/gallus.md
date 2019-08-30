@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['art_f11_pan']
+images: ['art_f11_pan.jpg']
 videos: []
 ---

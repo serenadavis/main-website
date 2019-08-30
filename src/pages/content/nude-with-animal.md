@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['ivandemonbrison265x50cm']
+images: ['ivandemonbrison265x50cm.JPG']
 videos: []
 ---
 Ink and acrylic on paper  

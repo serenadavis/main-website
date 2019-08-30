@@ -10,7 +10,7 @@ section: "poetry"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['page1image1']
+images: ['page1image1.jpg']
 videos: []
 ---
  

@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['art_c11_ianni']
+images: ['art_c11_ianni.jpg']
 videos: []
 ---

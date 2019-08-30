@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['brandomagdalene']
+images: ['brandomagdalene.jpg']
 videos: []
 ---
 24"x10"

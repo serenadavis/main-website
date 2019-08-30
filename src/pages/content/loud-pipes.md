@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['loud_pipes']
+images: ['loud_pipes.png']
 videos: []
 ---

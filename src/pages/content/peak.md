@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['goldfederpeak_c2010']
+images: ['goldfederpeak_c2010.jpg']
 videos: []
 ---

@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['under-my-wings-resize']
+images: ['under-my-wings-resize.jpg']
 videos: []
 ---

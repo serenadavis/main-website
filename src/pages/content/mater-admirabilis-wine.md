@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['eggerswineencaustic8x10in']
+images: ['eggerswineencaustic8x10in.jpg']
 videos: []
 ---
 8" x 10"

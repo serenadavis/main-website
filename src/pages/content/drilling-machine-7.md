@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['drillingmachine7']
+images: ['drillingmachine7.jpg']
 videos: []
 ---
 Video instllation with 2-channel audio  

@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['if-kayla-opened-her-mouth-so-wide-she-fell-in-spr13-kayla-escobedo']
+images: ['if-kayla-opened-her-mouth-so-wide-she-fell-in-spr13-kayla-escobedo.jpg']
 videos: []
 ---

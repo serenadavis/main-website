@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['hemispheresglobe']
+images: ['hemispheresglobe.jpg']
 videos: []
 ---
 1 square foot

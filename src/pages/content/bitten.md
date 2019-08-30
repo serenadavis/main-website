@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['bitten2004']
+images: ['bitten2004.jpg']
 videos: []
 ---

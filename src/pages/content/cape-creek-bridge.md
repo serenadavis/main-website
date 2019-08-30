@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['laszlo35mm']
+images: ['laszlo35mm.jpg']
 videos: []
 ---

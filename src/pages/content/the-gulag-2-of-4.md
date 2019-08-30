@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['gulag2_0']
+images: ['gulag2_0.jpg']
 videos: []
 ---

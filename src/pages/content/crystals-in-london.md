@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['spring2010_art_crystalslondon']
+images: ['spring2010_art_crystalslondon.jpg']
 videos: []
 ---

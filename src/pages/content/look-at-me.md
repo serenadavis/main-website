@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['lookatmefinal']
+images: ['lookatmefinal.jpg']
 videos: []
 ---
   

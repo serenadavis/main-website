@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['cerithwynevans']
+images: ['cerithwynevans.jpg']
 videos: []
 ---

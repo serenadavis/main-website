@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['mccoll-1']
+images: ['mccoll-1.png']
 videos: []
 ---
 Black spray paint and charcoal powder on paper  

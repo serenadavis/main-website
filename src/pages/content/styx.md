@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['styx']
+images: ['styx.jpg']
 videos: []
 ---
 Handmade kozo paper, reed, waxed linen thread

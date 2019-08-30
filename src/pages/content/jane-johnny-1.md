@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['janejohnnysaunders']
+images: ['janejohnnysaunders.jpeg']
 videos: []
 ---
 Oil paint, linen, color ink, plastic, and matte color photo paper  

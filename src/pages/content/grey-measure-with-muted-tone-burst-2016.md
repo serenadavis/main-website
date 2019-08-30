@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['jcj16123']
+images: ['jcj16123.jpg']
 videos: []
 ---
 All artworks © Jennie C. Jones, courtesy of Sikkema Jenkins & Co., New York.

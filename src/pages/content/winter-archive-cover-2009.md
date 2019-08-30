@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['33858524431089cover2009winter']
+images: ['33858524431089cover2009winter.png']
 videos: []
 ---

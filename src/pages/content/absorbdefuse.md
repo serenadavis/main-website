@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['jcjthekitchenphotodavidallison']
+images: ['jcjthekitchenphotodavidallison.jpg']
 videos: []
 ---
 The Kitchen, New York, NY, 2011. Installation view.

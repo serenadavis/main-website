@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['art_fall13_adibi_0']
+images: ['art_fall13_adibi_0.jpg']
 videos: []
 ---

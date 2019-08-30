@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['wintersbloom']
+images: ['wintersbloom.png']
 videos: []
 ---
 60 x 45 inches

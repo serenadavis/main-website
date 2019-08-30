@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['backofahead2-resize']
+images: ['backofahead2-resize.jpg']
 videos: []
 ---

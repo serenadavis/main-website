@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['fall2014final-16_small']
+images: ['fall2014final-16_small.jpg']
 videos: []
 ---
 Silicon carbide ink on canvas  

@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['grid-high-res-resize']
+images: ['grid-high-res-resize.jpg']
 videos: []
 ---

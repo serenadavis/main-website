@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['perellik41stolenacrylicandoilonpaperonwood64x302010']
+images: ['perellik41stolenacrylicandoilonpaperonwood64x302010.jpg']
 videos: []
 ---
 30” x 64” x 2”

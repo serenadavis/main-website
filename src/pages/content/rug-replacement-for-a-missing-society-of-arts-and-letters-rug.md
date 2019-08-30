@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['rug']
+images: ['rug.png']
 videos: []
 ---

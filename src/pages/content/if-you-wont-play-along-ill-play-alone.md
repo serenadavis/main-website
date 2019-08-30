@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['25_600']
+images: ['25_600.png']
 videos: []
 ---

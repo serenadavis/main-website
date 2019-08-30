@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['isolation1']
+images: ['isolation1.png']
 videos: []
 ---

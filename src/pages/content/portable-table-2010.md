@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['art_s11_goldfederbanaydenison']
+images: ['art_s11_goldfederbanaydenison.jpg']
 videos: []
 ---

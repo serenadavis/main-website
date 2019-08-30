@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['screenshot20180501at82744pm']
+images: ['screenshot20180501at82744pm.png']
 videos: []
 ---

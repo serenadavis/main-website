@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['klaus-nomi-the-twist-kayla-escobedo-small-version']
+images: ['klaus-nomi-the-twist-kayla-escobedo-small-version.jpg']
 videos: []
 ---

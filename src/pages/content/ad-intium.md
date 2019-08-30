@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['art_wtr12_thayer']
+images: ['art_wtr12_thayer.jpg']
 videos: []
 ---

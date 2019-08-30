@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['obrien_c2010_0']
+images: ['obrien_c2010_0.jpg']
 videos: []
 ---

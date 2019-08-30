@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['lithgow_msdmeqc']
+images: ['lithgow_msdmeqc.png']
 videos: []
 ---
  

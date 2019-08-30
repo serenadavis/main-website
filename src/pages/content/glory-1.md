@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['azizcucherglory']
+images: ['azizcucherglory.png']
 videos: []
 ---
 72 x 36 inches

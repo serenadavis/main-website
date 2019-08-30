@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['mg1875edit']
+images: ['mg1875edit.jpg']
 videos: []
 ---

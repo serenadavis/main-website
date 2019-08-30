@@ -10,7 +10,7 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['kapharjerome3']
+images: ['kapharjerome3.png']
 videos: []
 ---
 10 x 7 x 1 inches

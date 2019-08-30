@@ -10,6 +10,6 @@ section: "art"
 audio: []
 main_image: ""
 banner_image: ""
-images: ['wr57ph']
+images: ['wr57ph.jpg']
 videos: []
 ---
