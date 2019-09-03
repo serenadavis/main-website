@@ -27,8 +27,10 @@ class FeaturedArticlesComponent extends React.Component {
     }
 
     render(){
-        const data = this.props.data;
-        const featured = this.state.featured ? this.state.featured : data.allMarkdownRemark.edges[0];
+        const articles = this.props.articles;
+        const featured = this.state.featured ? this.state.featured : articles[0];
+        console.log(articles)
+        console.log(featured)
         return (
             <div className="container">
                 <h3 class="section-title">
@@ -36,8 +38,8 @@ class FeaturedArticlesComponent extends React.Component {
                 </h3>
                 <div class="features fiction-page">
                 <ul class="featured-item-links">
-                    {data.allMarkdownRemark.edges.map((post, index) => (
-                        <li className={this.state.featured_index === index && "selected"} data-item-id="post.node.frontmatter.slug" key={index} onClick={() => this.updateFeatured(data.allMarkdownRemark.edges[index], index)}>
+                    {articles.map((post, index) => (
+                        <li className={this.state.featured_index === index && "selected"} data-item-id="post.node.frontmatter.slug" key={index} onClick={() => this.updateFeatured(articles[index], index)}>
                         <span class="item-title">{post.node.frontmatter.title}</span>
                         <span class="item-author">
                             By {post.node.frontmatter.authors.map(author => (

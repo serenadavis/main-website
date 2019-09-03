@@ -15,7 +15,9 @@ exports.createPages = ({ actions, graphql }) => {
   const postTemplate = path.resolve('src/templates/article.js')
   const issueTemplate = path.resolve('src/templates/issue.js')
   const contributorTemplate = path.resolve('src/templates/contributor.js')
+  const sectionPageTemplate = path.resolve('src/templates/section_page.js')
 
+  const sections = ["fiction", "poetry", "art", "features", "columns"]
   return graphql(`
   {
     all: allMarkdownRemark {
@@ -68,7 +70,18 @@ exports.createPages = ({ actions, graphql }) => {
             path: 'contributor/'+convertToSlug(author),
             component: contributorTemplate,
             context: { author: author}
-          })
+        })
     })
+
+    sections.forEach( section => {
+        res.data.issue_names.distinct.forEach( issue_name  => {
+            createPage({
+                path: section+"/"+convertToSlug(issue_name),
+                component: sectionPageTemplate,
+                context: { issue_full_name: issue_name, section: section}
+            })
+        })
+    })
+
   })
 }
