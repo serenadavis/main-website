@@ -130,7 +130,7 @@ export default ({data}) => (
                     <SmallArticleDisplay data={data.features.edges[1]} metadata={data.metadata}/>
                     <SmallArticleDisplay data={data.fiction.edges[0]} metadata={data.metadata}/>
                     <SmallArticleDisplay data={data.poetry.edges[0]} metadata={data.metadata}/>
-                    <SmallArticleDisplay data={data.art.edges[4]} metadata={data.metadata}/>
+                    <SmallArticleDisplay data={data.art.edges[0]} metadata={data.metadata}/>
                 </div>
                 </Link>
                 <div class="clearfix"></div>
@@ -147,7 +147,7 @@ export default ({data}) => (
                         <Link to={'issue/'+convertToSlug(data.metadata.siteMetadata.current_issue)}>
                             <div class="feature-image-container-current-issue">
                                 <div class="feature-image" id="feature-current-issue-image">
-                                    <Image name = "spring-2019.png"/>
+                                    <Image name = "summer-2019.png"/>
                                 </div>
                             </div>
                         </Link>
