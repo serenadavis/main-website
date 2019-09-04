@@ -8,7 +8,7 @@ date: "2019-06-01"
 authors: ['Katherine Liu']
 section: "fiction"
 audio: []
-main_image: ""
+main_image: "real-person.jpg"
 banner_image: ""
 images: []
 videos: []

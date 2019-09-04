@@ -8,7 +8,7 @@ date: "2019-06-01"
 authors: ['Eli Zuzovsky']
 section: "features"
 audio: []
-main_image: ""
+main_image: "the-king.jpg"
 banner_image: ""
 images: []
 videos: []

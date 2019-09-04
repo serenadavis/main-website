@@ -8,7 +8,7 @@ date: "2019-06-01"
 authors: ['Kate Folk']
 section: "fiction"
 audio: []
-main_image: ""
+main_image: "last-woman.png"
 banner_image: ""
 images: []
 videos: []

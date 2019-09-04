@@ -8,7 +8,7 @@ date: "2019-06-01"
 authors: ['Malaika Tapper']
 section: "features"
 audio: []
-main_image: ""
+main_image: "at-home-with-peter-bradley.jpg"
 banner_image: ""
 images: []
 videos: []
