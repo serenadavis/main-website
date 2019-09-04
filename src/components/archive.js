@@ -17,8 +17,8 @@ function make_archive_item(a) {
 var photo = a.frontmatter.images ? (<Link to={"/content/"+a.frontmatter.slug}><Image name={a.frontmatter.images[0]} /></Link>) : "";
 	return (
 	  <li class="archive-item">
-        <span class="item-title"><Link to="/content/{a.frontmatter.slug}">{a.frontmatter.title}</Link></span>
-        <span class="item-author"><Link to="/content/{a.frontmatter.slug}">By {by}</Link></span>
+        <span class="item-title"><Link to={"/content/"+a.frontmatter.slug}>{a.frontmatter.title}</Link></span>
+        <span class="item-author"><Link to={"/content/"+a.frontmatter.slug}>By {by}</Link></span>
         <span class="title-underline"></span>
         <div class="item-sample">{photo}{a.excerpt}</div>
         <div class="shadow"></div>
