@@ -1,7 +1,7 @@
 ---
 title: "Small American Fires"
 slug: "small-american-fires"
-issue: "summer"
+issue: "Summer"
 issue_full_name: "Summer 2019"
 year: "2019"
 date: "2019-06-01"
