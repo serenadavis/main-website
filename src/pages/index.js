@@ -110,7 +110,7 @@ export default ({data}) => (
                         </div>
                         <div class="feature-image-container-large">
                         <div class="feature-image" id="feature-1-image">
-                            <Image name="building-shot.png"/>
+                            <Image name="at-home-with-peter-bradley.jpg"/>
                         </div>
                         </div>
                         <div class="feature-title-large">
