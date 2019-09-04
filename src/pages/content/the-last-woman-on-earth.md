@@ -1,10 +1,10 @@
 ---
 title: "The Last Woman on Earth"
 slug: "the-last-woman-on-earth"
-issue: "Spring"
-issue_full_name: "Spring 2019"
+issue: "summer"
+issue_full_name: "Summer 2019"
 year: "2019"
-date: "2019-03-01"
+date: "2019-06-01"
 authors: ['Kate Folk']
 section: "fiction"
 audio: []

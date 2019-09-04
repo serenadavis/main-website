@@ -1,10 +1,10 @@
 ---
 title: "Small American Fires"
 slug: "small-american-fires"
-issue: "Spring"
-issue_full_name: "Spring 2019"
+issue: "summer"
+issue_full_name: "Summer 2019"
 year: "2019"
-date: "2019-03-01"
+date: "2019-06-01"
 authors: ['Caroline Tsai']
 section: "fiction"
 audio: []
