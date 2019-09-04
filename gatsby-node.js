@@ -18,6 +18,7 @@ exports.createPages = ({ actions, graphql }) => {
   const sectionPageTemplate = path.resolve('src/templates/section_page.js')
 
   const sections = ["fiction", "poetry", "art", "features", "columns"]
+
   return graphql(`
   {
     all: allMarkdownRemark {
@@ -42,12 +43,19 @@ exports.createPages = ({ actions, graphql }) => {
     },
     authors: allMarkdownRemark {
         distinct(field: frontmatter___authors)
-    }
+    },
+    metadata: site {
+        siteMetadata {
+            current_issue
+        }
+      }  
   }
     `).then(res => {
     if (res.errors) {
       return Promise.reject(res.errors)
     }
+
+    const CURRENT_ISSUE = res.data.metadata.siteMetadata.current_issue
 
     res.data.all.edges.forEach(({ node }) => {
       createPage({
@@ -83,5 +91,12 @@ exports.createPages = ({ actions, graphql }) => {
         })
     })
 
+    sections.forEach( section => {
+        createPage({
+            path: section,
+            component: sectionPageTemplate,
+            context: { issue_full_name: CURRENT_ISSUE, section: section}
+        })        
+    })
   })
 }

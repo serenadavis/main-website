@@ -14,6 +14,7 @@ query($section: String!, $issue_full_name: String!) {
             authors
             slug
             section
+            images
           }
           excerpt(pruneLength: 2000)
         }
@@ -31,14 +32,9 @@ query($section: String!, $issue_full_name: String!) {
                 section
                 year
             }
-            excerpt
+            excerpt(pruneLength: 2000)
             }
         }
-    },
-    metadata: site {
-      siteMetadata {
-          mediaUrl
-      }
     },
     issue_full_names: allMarkdownRemark {
       distinct(field: frontmatter___issue_full_name)

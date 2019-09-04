@@ -49,11 +49,6 @@ query($slug: String!) {
         year
         slug
       }
-    },
-    metadata: site {
-        siteMetadata {
-            mediaUrl
-        }
     }
   }
 `

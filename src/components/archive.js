@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link, navigate } from "gatsby"
 import Image from "./image"
-import axios from "axios"
 
 function convertToSlug(Text)
 {
@@ -14,8 +13,8 @@ function convertToSlug(Text)
 
 function make_archive_item(a) {
 	var by = a.frontmatter.authors.join(" ")
-    var message = a.frontmatter.section == "art" ? "See More >>" : "Continue Reading >>";
-    var photo = a.frontmatter.images ? (<Link to="/content/{a.frontmatter.slug}"><Image name="{a.frontmatter.images[0]}" /></Link>) : "";
+    var message = a.frontmatter.section === "art" ? "See More >>" : "Continue Reading >>";
+var photo = a.frontmatter.images ? (<Link to={"/content/"+a.frontmatter.slug}><Image name={a.frontmatter.images[0]} /></Link>) : "";
 	return (
 	  <li class="archive-item">
         <span class="item-title"><Link to="/content/{a.frontmatter.slug}">{a.frontmatter.title}</Link></span>
@@ -36,16 +35,7 @@ class Archive extends React.Component {
         this.onChange = this.onChange.bind(this)
     }
 
-    convertToSlug(Text) {
-        return Text
-            .toLowerCase()
-            .replace(/ /g,'-')
-            .replace(/[^\w-]+/g,'')
-            ;
-    }
-
     onChange(selectedOption) {
-        console.log(selectedOption)
         navigate('/'+this.props.section+'/'+selectedOption.target.value+"#archive")
     };
 

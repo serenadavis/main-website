@@ -7,11 +7,6 @@ export const query = graphql`
 {
     issue_full_names: allMarkdownRemark {
         distinct(field: frontmatter___issue_full_name)
-    },
-    metadata: site {
-        siteMetadata {
-            mediaUrl
-        }
     }
 }
 `

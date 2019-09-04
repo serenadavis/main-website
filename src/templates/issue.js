@@ -142,11 +142,6 @@ query($issue_full_name: String!) {
             }
           }
         }
-      },
-      metadata: site {
-        siteMetadata {
-            mediaUrl
-        }
-    }      
+      }     
   }
 `

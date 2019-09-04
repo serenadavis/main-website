@@ -28,9 +28,9 @@ class FeaturedArticlesComponent extends React.Component {
 
     render(){
         const articles = this.props.articles;
-        const featured = this.state.featured ? this.state.featured : articles[0];
+        console.log("articles")
         console.log(articles)
-        console.log(featured)
+        const featured = this.state.featured ? this.state.featured : articles[0];
         return (
             <div className="container">
                 <h3 class="section-title">
@@ -58,8 +58,7 @@ class FeaturedArticlesComponent extends React.Component {
                         { featured.node.frontmatter.section === "art" ?
                             <div class="item-sample">
                                 <Link to={"/content/"+featured.node.frontmatter.slug}>
-                                    {/* <img src={metadata.siteMetadata.mediaUrl + featured.node.frontmatter.images[0]} alt=""/> */}
-                                    <Image name={featured.node.frontmatter.images[0]} />
+                                    <Image name={featured.node.frontmatter.images[0]}/>
                                 </Link>
                             </div>
                             :

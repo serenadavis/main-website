@@ -76,11 +76,6 @@ export const query = graphql`
         }
         }
     },
-    metadata: site {
-        siteMetadata {
-            mediaUrl
-        }
-    },
     editors_picks: allMarkdownRemark(limit: 10) {
         edges {
             node {
@@ -94,6 +89,11 @@ export const query = graphql`
             }
             excerpt
             }
+        }
+    },
+    metadata: site {
+        siteMetadata {
+            current_issue
         }
     }
 }
@@ -142,9 +142,9 @@ export default ({data}) => (
                         <h4 class="category-label">Current Issue</h4>
                         </div>
                         <div class="current-issue-label">
-                        <Link to='/issue/spring-2019'>Spring 2019</Link>
+                        <Link to={'issue/'+convertToSlug(data.metadata.siteMetadata.current_issue)}>{data.metadata.siteMetadata.current_issue}</Link>
                         </div>
-                        <Link to='/issue/spring-2019'>
+                        <Link to={'issue/'+convertToSlug(data.metadata.siteMetadata.current_issue)}>
                             <div class="feature-image-container-current-issue">
                                 <div class="feature-image" id="feature-current-issue-image">
                                     <Image name = "spring-2019.png"/>

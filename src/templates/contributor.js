@@ -48,11 +48,6 @@ query($author: String!) {
         }
       }
     }
-  },
-  metadata: site {
-    siteMetadata {
-        mediaUrl
-    }
-  }      
+  }     
 }
 `
