@@ -1,10 +1,10 @@
 ---
 title: "Of Nazareth"
 slug: "of-nazareth"
-issue: "Spring"
-issue_full_name: "Spring 2019"
+issue: "Summer"
+issue_full_name: "Summer 2019"
 year: "2019"
-date: "2019-03-01"
+date: "2019-06-01"
 authors: ['Owen Torrey']
 section: "poetry"
 audio: []
