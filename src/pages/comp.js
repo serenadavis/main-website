@@ -7,7 +7,7 @@ export default () => (
         <div class="container">
             <h1 class="header">FALL 2019 COMP</h1>
                 <figure>
-                    <Image name="fall-2019-comp.jpg" style="margin:auto; width:75%" align="middle"/>
+                    <Image name="fall-2019-comp.jpg" style={{margin:"auto", width:"75%"}} align="middle"/>
                 </figure>
 
             <p class="text">
