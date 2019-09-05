@@ -103,21 +103,27 @@ export default ({data}) => (
     <Layout>
         <div class="homepage">
             <section class="top-features">
-                <Link to={"/content/"+data.features.edges[0].node.frontmatter.slug}>
+                {/* <Link to={"/content/"+data.features.edges[0].node.frontmatter.slug}> */}
                     <div class="container-left-half" id="feature-1">
                         <div class="category-rule">
                         <h4 class="category-label">Featured</h4>
                         </div>
                         <div class="feature-image-container-large">
                         <div class="feature-image" id="feature-1-image">
+                        <Link to={"/content/"+data.features.edges[0].node.frontmatter.slug}>
                             <Image name="at-home-with-peter-bradley.jpg"/>
+                        </Link>
                         </div>
                         </div>
                         <div class="feature-title-large">
+                        <Link to={"/content/"+data.features.edges[0].node.frontmatter.slug}>
                         {data.features.edges[0].node.frontmatter.title}
+                        </Link>
                         </div>
                         <div class="feature-description-large">
+                        <Link to={"/content/"+data.features.edges[0].node.frontmatter.slug}>
                         {data.features.edges[0].node.excerpt}
+                        </Link>
                         </div>
                         <span class="feature-author">
                             {data.features.edges[0].node.frontmatter.authors.map(author => (
@@ -126,7 +132,7 @@ export default ({data}) => (
                         </span>
                         <div class="feature-release-date">{data.features.edges[0].node.frontmatter.date}</div>
                     </div>
-                </Link>
+                {/* </Link> */}
                 <div className="container-right-half">
                     <SmallArticleDisplay data={data.features.edges[1]} metadata={data.metadata}/>
                     <SmallArticleDisplay data={data.fiction.edges[0]} metadata={data.metadata}/>
