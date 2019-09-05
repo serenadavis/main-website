@@ -30,7 +30,7 @@ export default () => (
                         <li>
                         <Link className="no-decoration top-line" to="/submit">Submit</Link>
                         {/* <a className="no-decoration top-line" href="{% url 'subscribe' %}">Subscribe</a> */}
-                        <Link className="no-decoration top-line" to="/shop">Shop</Link>
+                        <a className="no-decoration top-line" href="/shop">Shop</a>
                         <Link className="no-decoration top-line" to="/donate">Donate</Link>
                         </li>
                     </ul>

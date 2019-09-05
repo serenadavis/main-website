@@ -1,12 +1,11 @@
 import React from "react"
-import Layout from "../components/layout"
 
 export default () => 
     (
-    <Layout>
         <div className="container">
+        <a className="no-decoration no-underline" href="/"> <h1 className="main-title">The Harvard Advocate</h1></a>
         <h1 class="header">SHOP</h1>
-         <p class = "text">Welcome to <i>The Harvard Advocate</i>'s Store. Below you can find back issues that you may purchase. To purchase other issues, contact <a href = "mailto:president@theharvardadvocate.com">president@theharvardadvocate.com</a>.</p>
+         <p class = "text center">Welcome to <i>The Harvard Advocate</i>'s Store. Below you can find back issues that you may purchase. To purchase other issues, contact <a href = "mailto:president@theharvardadvocate.com">president@theharvardadvocate.com</a>.</p>
         <div id='collection-component-06224d29f8a'></div>
         <script type="text/javascript" dangerouslySetInnerHTML= {{ __html: ` 
     /*<![CDATA[*/
@@ -164,5 +163,4 @@ export default () =>
         /*]]>*/
         `}} />
         </div>
-    </Layout>
 )
