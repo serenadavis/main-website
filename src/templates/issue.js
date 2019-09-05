@@ -22,7 +22,7 @@ export default ({ data, pageContext }) => {
                 <div class="col-sm-6">
                     {/* <H2 class="subheader"> Buy this issue <u><Link to="/shop">here</Link></u></H2> */}
                     <figure>
-                        <a href="{% url 'shop' %}">
+                        <a href="/shop">
                             <Image name={convertToSlug(pageContext.issue_full_name) + ".png"}/>
                         </a>
                     </figure>
