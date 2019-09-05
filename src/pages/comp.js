@@ -9,7 +9,7 @@ export default () => (
                 <figure>
                     <Image name="fall-2019-comp.jpg" style={{margin:"auto", width:"75%"}} align="middle"/>
                 </figure>
-
+            <p></p>
             <p class="text">
                 Between its seven boards:  Art, Business, Design, Features, Fiction, Poetry and Technology, The Harvard Advocate 
                 provides a home for writers, artists, critics, designers, coders, dealmakers, and all others with an interest in the arts and 
@@ -22,6 +22,7 @@ export default () => (
                 questions about the comp to the <Link to="about">editor of the board</Link> that you are interested 
                 in comping.
             </p>
+            <p></p>
             <p class="text">
             For more information about the Advocate and this semester’s comp, come to one of our introductory meetings, held at our building at 21 South Street:
             </p>
