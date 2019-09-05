@@ -1,5 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
+import DropdownMenu from "./dropdown_menu";
 
 /* eslint-disable */
 
@@ -20,11 +21,11 @@ export default () => (
             </div>
             <div className="col-xs-12 col-sm-12 col-md-3 col-lg-3 top-line" style={{paddingLeft : '13px'}}>
                 <div className="form-group search-group">
-                    <form type="get" action="/search/" className="search-form" role="search">
+                    {/* <form type="get" action="/search/" className="search-form" role="search">
                         <input type="text" name="q" className="typeahead tt-query" autoComplete="off" spellCheck="false" placeholder="Search"></input>
                         <div className="clearfix"></div>
                         <hr className="search-bottom-border"/>
-                    </form>
+                    </form> */}
 
                     <ul className="search-form-links list-unstyled">
                         <li>
@@ -38,18 +39,9 @@ export default () => (
                 </div>
             </div>
     </header>
-    <div id="nav" className="container behind-search" data-spy="affix" data-offset-top="187" data-offset-bottom="0" >
+    <div id="nav" className="container behind-search non-mobile-only" data-spy="affix" data-offset-top="187" data-offset-bottom="0" >
         <nav className="navbar navbar-default  advo-navbar" role="navigation" >
-        <div className="navbar-header">
-            <button type="button" className="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                <span className="sr-only">Toggle navigation</span>
-                <span className="icon-bar"></span>
-                <span className="icon-bar"></span>
-                <span className="icon-bar"></span>
-            </button>
-            <a className="navbar-brand mobile-only" href="/">The Harvard Advocate</a>
-        </div>
-        <div className="collapse navbar-collapse navbar-ex1-collapse ">
+        <div className="navbar-collapse navbar-ex1-collapse">
         <div className="nav-header"> </div>
             <ul className="nav navbar-nav">
                 <li ><Link to="/about">ABOUT</Link></li>
@@ -66,5 +58,6 @@ export default () => (
         </div>
         </nav>
     </div>
+    <DropdownMenu />
 </div>
 )
