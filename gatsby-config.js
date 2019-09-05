@@ -11,6 +11,12 @@ const sourceS3 = {
   },
 }
 
+const analytics = {
+  resolve: `gatsby-plugin-google-analytics`,
+  options: {
+    trackingId: "UA-147260932-1",
+  },
+}
 
 module.exports = {
   siteMetadata: {
@@ -31,6 +37,7 @@ module.exports = {
     },
     sourceS3,
     `gatsby-transformer-sharp`, 
-    `gatsby-plugin-sharp`
+    `gatsby-plugin-sharp`,
+    analytics
   ]
 }
