@@ -31,6 +31,7 @@ module.exports = {
     },
     sourceS3,
     `gatsby-transformer-sharp`, 
-    `gatsby-plugin-sharp`
+    `gatsby-plugin-sharp`,
+    `gatsby-plugin-react-helmet`
   ]
 }
