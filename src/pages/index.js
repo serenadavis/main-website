@@ -152,7 +152,7 @@ export default ({data}) => (
                             </div>
                         </Link>
                         <div class="current-issue-shop">
-                        <Link to="/shop">See Shop</Link>
+                        <a href="/shop">See Shop</a>
                         </div>
                     </div>
 
