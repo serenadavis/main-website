@@ -126,13 +126,13 @@ export default ({data}) => (
                         </span>
                         <div class="feature-release-date">{data.features.edges[0].node.frontmatter.date}</div>
                     </div>
+                </Link>
                 <div className="container-right-half">
                     <SmallArticleDisplay data={data.features.edges[1]} metadata={data.metadata}/>
                     <SmallArticleDisplay data={data.fiction.edges[0]} metadata={data.metadata}/>
                     <SmallArticleDisplay data={data.poetry.edges[0]} metadata={data.metadata}/>
                     <SmallArticleDisplay data={data.art.edges[0]} metadata={data.metadata}/>
                 </div>
-                </Link>
                 <div class="clearfix"></div>
             </section>
             <section class="bottom-features">
@@ -182,7 +182,7 @@ export default ({data}) => (
                         </ol>
                     </div>
                 </div>
-                <div class="clearfix"></div>
+            <div class="clearfix"></div>
             </section>
         </div>
     </Layout>)
