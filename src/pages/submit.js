@@ -5,7 +5,10 @@ export default () => (
     <Layout>
         <div class="container">
             <h1 class="header">SUBMISSION GUIDELINES</h1>
-            <p><i>The Harvard Advocate</i> accepts submissions of art, fiction, and poetry of any form or length created by members of the Harvard community, as well as outside contributors at our discretion. All submissions are considered anonymously. Submissions may be uploaded online:</p>
+            <div className="center">
+                <p><i>The Harvard Advocate</i> accepts submissions of art, fiction, and poetry of any form or length created by members of the Harvard community, as well as outside contributors at our discretion. All submissions are considered anonymously. Submissions may be uploaded online:</p>
+                <p>We are currently accepting submissions for our Fall 2019 issue. Our spring review period ends on October 18, 2019.</p>
+            </div>
             <div class="center"> 
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdHCYzDkX4ZAuip4NwjCeWXODfQSrheQDGEcgFApdhLrF35sg/viewform?usp=sf_link" class="btn btn-primary btn-150th">FICTION</a>
             </div>
