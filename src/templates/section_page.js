@@ -6,11 +6,12 @@ import Archive from "../components/archive";
 
 export const query = graphql`
 query($section: String!, $issue_full_name: String!) {
-    top_five_articles: allMarkdownRemark(filter: {frontmatter: {section: {eq: $section}}}, limit: 5) {
+    top_five_articles: allMarkdownRemark(filter: {frontmatter: {section: {eq: $section}}}, limit: 5, sort: {order: DESC, fields: frontmatter___date}) {
       edges {
         node {
           frontmatter {
             title
+            date
             authors
             slug
             section
