@@ -24,19 +24,8 @@ export default () => (
             </p>
             <p></p>
             <p class="text">
-            For more information about the Advocate and this semester’s comp, come to one of our introductory meetings, held at our building at 21 South Street:
+            For more information about the Advocate and this semester’s comp, register your interest by filling out <a href="https://docs.google.com/forms/d/1ARVRyC6RoRrAwzrV0sI_RAoCFGuPs-DsacYZm4XIiXU/edit"><u>this form.</u></a> 
             </p>
-            <div className="center">
-            <p class="text">
-            Tuesday 9/10 at 9pm 
-            </p>
-            <p class="text">
-            Wednesday 9/11 at 9pm
-            </p>
-            <p class="text">
-            Thursday 9/12 at 9pm
-            </p>
-            </div>
                 {/* If you are interested in learning more about our comp, please contact the relevant board head:
                 <div class="center">
                     <ul>
