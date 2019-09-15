@@ -14,6 +14,13 @@ All images are stored in our S3 bucket named `theharvardadvocate`.
 
 `pip3 install awscli --upgrade --user`
 
+Create an Amazon IAM user using your personal Amazon account [here](https://aws.amazon.com/iam/). The user doesn't need to have any permissions. Once you have the Access Key and the Secret Key run:
+
+`aws configure`
+
+on your terminal and follow the prompts to type them in. The region is `us-east-1`.
+
+
 ### Install the Gatsby Cli
 
 `npm install -g gatsby-cli`
