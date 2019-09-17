@@ -29,6 +29,19 @@ var photo = a.frontmatter.images ? (<Link to={"/content/"+a.frontmatter.slug}><I
   	);
 }
 
+function issue_full_date_compare(a, b) {
+    const a_parts = a.split(" ")
+    const b_parts = b.split(" ")
+    const issue_order = ['Spring', 'Summer', 'Commencement', 'Fall', 'Winter']
+
+    // If the issue have different years, we can compare the years directly
+    if (a_parts[1] !== b_parts[1]) {
+        return parseInt(a_parts[1]) - parseInt(b_parts[1])
+    } else {
+        return issue_order.indexOf(a_parts[0]) - issue_order.indexOf(b_parts[0])
+    }
+}
+
 class Archive extends React.Component {
     constructor(props) {
         super(props);
@@ -41,7 +54,9 @@ class Archive extends React.Component {
 
     render() {
         const articles = this.props.articles;
-        const issue_full_names = this.props.issue_full_names;
+        var issue_full_names = this.props.issue_full_names.distinct;
+        issue_full_names.sort(issue_full_date_compare);
+        issue_full_names.reverse();
         const issue_full_name = this.props.issue_full_name;
         const section = this.props.section;
         return (
@@ -53,7 +68,7 @@ class Archive extends React.Component {
                 <div class="issue-selector">
                     <span class="select-issue-label">Select an issue: </span>
                     <select class="select-issue-dropdown" onChange={this.onChange} value={convertToSlug(issue_full_name)}>
-                        {issue_full_names.distinct.map(name => (
+                        {issue_full_names.map(name => (
                             <option key={convertToSlug(name)}
                                     value={convertToSlug(name)}>{name}</option>
                         ))}
