@@ -23,21 +23,21 @@ export default () => (
                 in comping.
             </p>
             <p></p>
-            <p class="text">
-            For more information about the Advocate and this semester’s comp, register your interest by filling out <a href="https://docs.google.com/forms/d/1ARVRyC6RoRrAwzrV0sI_RAoCFGuPs-DsacYZm4XIiXU/edit"><u>this form.</u></a> 
+            <p className="text center">
+            If you are interested in learning more about our comp, please contact the relevant board head:
             </p>
-                {/* If you are interested in learning more about our comp, please contact the relevant board head:
-                <div class="center">
-                    <ul>
-                        <li style={{listStyleType: "none"}}>art@theharvardadvocate.com</li>
-                        <li style={{listStyleType: "none"}}>design@theharvardadvocate.com</li>
-                        <li style={{listStyleType: "none"}}>business@theharvardadvocate.com</li>
-                        <li style={{listStyleType: "none"}}>features@theharvardadvocate.com</li>
-                        <li style={{listStyleType: "none"}}>fiction@theharvardadvocate.com</li>
-                        <li style={{listStyleType: "none"}}>poetry@theharvardadvocate.com</li>
-                        <li style={{listStyleType: "none"}}>tech@theharvardadvocate.com</li>
-                    </ul>
-                </div> */}
+            <p></p>
+            <div class="center">
+                <ul>
+                    <li style={{listStyleType: "none"}}>art@theharvardadvocate.com</li>
+                    <li style={{listStyleType: "none"}}>design@theharvardadvocate.com</li>
+                    <li style={{listStyleType: "none"}}>business@theharvardadvocate.com</li>
+                    <li style={{listStyleType: "none"}}>features@theharvardadvocate.com</li>
+                    <li style={{listStyleType: "none"}}>fiction@theharvardadvocate.com</li>
+                    <li style={{listStyleType: "none"}}>poetry@theharvardadvocate.com</li>
+                    <li style={{listStyleType: "none"}}>tech@theharvardadvocate.com</li>
+                </ul>
+            </div>
         </div>
    </Layout>
 )
