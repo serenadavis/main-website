@@ -406,10 +406,10 @@ body{
 }
 
 article p {
-  padding: 0px;
+  padding-bottom: 16px;
   margin: 0px;
   border: 0px;
-  text-indent: 2em;
+  text-indent: 0em;
 }
 
 article span {
