@@ -12,9 +12,9 @@ All images are stored in our S3 bucket named `theharvardadvocate`.
 
 ### Install the AWS Cli
 
-Follow the guide here
-
 `pip3 install awscli --upgrade --user`
+
+If you have problems check [this](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html#install-tool-pip) page.
 
 Ask us for an Access Key and a Secret Key. Once you have them run:
 
