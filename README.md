@@ -12,9 +12,11 @@ All images are stored in our S3 bucket named `theharvardadvocate`.
 
 ### Install the AWS Cli
 
+Follow the guide here
+
 `pip3 install awscli --upgrade --user`
 
-Create an Amazon IAM user using your personal Amazon account [here](https://aws.amazon.com/iam/). The user doesn't need to have any permissions. Once you have the Access Key and the Secret Key run:
+Ask us for an Access Key and a Secret Key. Once you have them run:
 
 `aws configure`
 
