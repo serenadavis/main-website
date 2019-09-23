@@ -43,6 +43,10 @@ Install the Gatsby CLI.
 
 `cd main-website`
 
+### npm install
+
+Run `npm install`
+
 ### Build the site
 
 `GATSBY_CONCURRENT_DOWNLOAD=20 gatsby develop`
