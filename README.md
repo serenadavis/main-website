@@ -23,12 +23,15 @@ Ask us for an Access Key and a Secret Key. Once you have them run:
 on your terminal and follow the prompts to type them in. The region is `us-east-1`.
 
 
-### Install the Gatsby Cli
+### Set up Gatsby
 
 Check if you have NodeJS installed:
+
 `which node`
 
 If there is no output, you can install NodeJS [directly](https://nodejs.org/en/) or via a version manager like [nvm](https://github.com/nvm-sh/nvm).
+
+Install the Gatsby CLI.
 
 `npm install -g gatsby-cli`
 
