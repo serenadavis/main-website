@@ -25,6 +25,11 @@ on your terminal and follow the prompts to type them in. The region is `us-east-
 
 ### Install the Gatsby Cli
 
+Check if you have NodeJS installed:
+`which node`
+
+If there is no output, you can install NodeJS [directly](https://nodejs.org/en/) or via a version manager like [nvm](https://github.com/nvm-sh/nvm).
+
 `npm install -g gatsby-cli`
 
 ### Fork this repository and then clone your fork:
