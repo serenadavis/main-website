@@ -12,16 +12,26 @@ All images are stored in our S3 bucket named `theharvardadvocate`.
 
 ### Install the AWS Cli
 
-`pip3 install awscli --upgrade --user`
+`brew install awscli`
 
-Create an Amazon IAM user using your personal Amazon account [here](https://aws.amazon.com/iam/). The user doesn't need to have any permissions. Once you have the Access Key and the Secret Key run:
+If you have problems check [this](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html#install-tool-pip) page.
+
+Ask us for an Access Key and a Secret Key. Once you have them run:
 
 `aws configure`
 
 on your terminal and follow the prompts to type them in. The region is `us-east-1`.
 
 
-### Install the Gatsby Cli
+### Set up Gatsby
+
+Check if you have NodeJS installed:
+
+`which node`
+
+If there is no output, you can install NodeJS [directly](https://nodejs.org/en/) or via a version manager like [nvm](https://github.com/nvm-sh/nvm).
+
+Install the Gatsby CLI.
 
 `npm install -g gatsby-cli`
 
@@ -32,6 +42,10 @@ on your terminal and follow the prompts to type them in. The region is `us-east-
 ### Move to the cloned directory
 
 `cd main-website`
+
+### npm install
+
+Run `npm install`
 
 ### Build the site
 
