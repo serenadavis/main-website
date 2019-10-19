@@ -16,6 +16,7 @@
     "gatsby": "^2.15.1",
     "gatsby-image": "^2.2.15",
     "gatsby-plugin-google-analytics": "^2.1.14",
+    "gatsby-plugin-netlify-cache": "^1.2.0",
     "gatsby-plugin-react-helmet": "^3.1.6",
     "gatsby-plugin-sharp": "^2.2.18",
     "gatsby-plugin-stripe": "^1.2.3",

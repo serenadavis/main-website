@@ -26,7 +26,7 @@ export default () => (
                         <div className="clearfix"></div>
                         <hr className="search-bottom-border"/>
                     </form> */}
-                    <div class="gcse-search"></div>
+                    {/* <div class="gcse-search"></div> */}
                     <ul className="list-unstyled">
                         <li>
                         <Link className="no-decoration top-line" to="/submit">Submit</Link>
