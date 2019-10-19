@@ -52,7 +52,6 @@ export default () => (
                 <li ><Link to="/poetry">POETRY</Link></li>
                 <li ><Link to="/columns">COLUMNS</Link></li>
                 <li> <Link to="/blog" >BLOG</Link></li>
-                <li> <a href="https://womens.theharvardadvocate.com" >WOMEN'S ISSUE</a></li>
             </ul>
 
         </div>
