@@ -27,7 +27,7 @@ export default () => (
                         <hr className="search-bottom-border"/>
                     </form> */}
 
-                    <ul className="search-form-links list-unstyled">
+                    <ul className="list-unstyled">
                         <li>
                         <Link className="no-decoration top-line" to="/submit">Submit</Link>
                         <Link className="no-decoration top-line" to="/subscribe">Subscribe</Link>
