@@ -28,8 +28,6 @@ class FeaturedArticlesComponent extends React.Component {
 
     render(){
         const articles = this.props.articles;
-        console.log("articles")
-        console.log(articles)
         const featured = this.state.featured ? this.state.featured : articles[0];
         return (
             <div className="container">
