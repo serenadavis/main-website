@@ -8,7 +8,7 @@ export default () => (
 <div>
     <header className="container">
         <div className="row">
-            <div className="col-xs-12 col-sm-12 col-md-3 col-lg-3 f-t-links top-line"> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/> 
+            <div className="col-xs-12 col-sm-12 col-md-3 col-lg-3 f-t-links top-line non-mobile-only"> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/> 
                 <a  className = "fa fa-facebook" href = "https://www.facebook.com/harvardadvocate" target="_blank"></a>
                 <a className = "fa fa-twitter"  href="https://twitter.com/harvardadvocate" target="_blank"></a>
                 <a className = "fa fa-instagram"  href="https://www.instagram.com/harvardadvocate/" target="_blank"></a>
@@ -19,7 +19,7 @@ export default () => (
             <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6" >
                 <Link className="no-decoration no-underline" to="/"> <h1 className="main-title">The Harvard Advocate</h1></Link>
             </div>
-            <div className="col-xs-12 col-sm-12 col-md-3 col-lg-3 top-line" style={{paddingLeft : '13px'}}>
+            <div className="col-xs-12 col-sm-12 col-md-3 col-lg-3 top-line non-mobile-only" style={{paddingLeft : '13px'}}>
                 <div className="form-group search-group">
                     {/* <form type="get" action="/search/" className="search-form" role="search">
                         <input type="text" name="q" className="typeahead tt-query" autoComplete="off" spellCheck="false" placeholder="Search"></input>

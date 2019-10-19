@@ -11,6 +11,9 @@ export default () => (
                     <li ><Link to="contact">CONTACT US</Link></li>
                     <li ><Link to="comp">COMP</Link></li>
                     <li ><Link to="submit">SUBMIT</Link></li>
+                    <li ><Link to="subscribe">SUBSCRIBE</Link></li>
+                    <li ><Link to="shop">SHOP</Link></li>
+                    <li ><Link to="donate">DONATE</Link></li>
                 </ul>
             </nav>
             <div class="copyright">
