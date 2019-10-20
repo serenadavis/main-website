@@ -23,6 +23,7 @@ export default ({ data }) => {
                         <Link to={"contributor/"+convertToSlug(author)} class="no-decoration"> <h2 class="article-author"> {author}</h2></Link>
                     ))}
                 {
+                    post.frontmatter.images &&
                     post.frontmatter.images[0] &&
                     post.frontmatter.images.map(image => (
                         <figure>
