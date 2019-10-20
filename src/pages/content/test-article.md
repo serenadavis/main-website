@@ -6,5 +6,6 @@ year: 2019
 section: fiction
 authors:
   - Daniel Inge
+  - Jimmy Chen
 ---
 Test body
