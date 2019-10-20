@@ -41,6 +41,6 @@ module.exports = {
     analytics,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-stripe`,
-    'gatsby-plugin-netlify-cache'
+    `gatsby-plugin-netlify-cms`
   ]
 }
