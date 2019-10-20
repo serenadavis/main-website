@@ -7,16 +7,27 @@ public_folder: /img
 
 collections:
   - name: "article"
-    label: "Website Article"
+    label: "Articles"
     folder: "src/pages/content"
     create: true
     delete: false
     extension: "md"
     slug: "{{slug}}"
     editor:
-     preview: false
+     preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD" }
+      - { label: "Slug", name: "slug", widget: "text", default: "{{ slug }}", hint: "This should be the title of the article in lower case, with no punctuation or special characters. The words should be separated by dashes rather than spaces. For example the slug for the piece At Home With Peter Bradley would be at-home-with-peter-bradley"}
+      # - { label: "Issue full name", name: "issue_full_name", widget: "string" }
+      - { label: "Issue", name: "issue", widget: "select", options: ["Fall", "Winter", "Spring", "Summer", "Commencement"] }
+      - { label: "Year", name: "year", widget: "string", hint: "The full year, for example 2009 or 2019"}
+      - { label: "Issue Full Name", name: "issue_full_name", widget: "string", hint: "This should be the full issue name. For example \"Winter 2019\" or \"Commencement 2010\" "}
+      - { label: "Section", name: "section", widget: "select", options: ["features", "fiction", "poetry", "art", "columns"] }
+      - { label: "Authors", name: "authors", widget: "list", hint: "This should be a list of full author names, separated by commas. For example: John Doe, Jane Doe"}
+      - { label: "Image files", required: false, name: "images", widget: "list", hint: "This should be a list of image names, separated by commas. For example: blue_dog.jpg, red_balloon.png", default: []}
+      - { label: "Video files", required: false, name: "videos", widget: "list", hint: "We don't use this yet. Leave this empty.", default: []}
+      - { label: "Audio files", required: false, name: "audio", widget: "list", hint: "We don't use this yet. Leave this empty.", default: []}
+      - { label: "Article graphic", required: false, name: "main_image", widget: "string", hint: "The filename of the feature graphic that should appear at the top of the article. This is not the main image, it is just the decorative image at the top. For example: cool_top_logo.jpg", default: ""}
+      - { label: "Banner image", required: false, name: "banner_image", widget: "string", hint: "We don't use this yet. Leave this empty. Be free!", default: ""}
       - { label: "Body", name: "body", widget: "markdown" }
