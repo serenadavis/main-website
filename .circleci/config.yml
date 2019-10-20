@@ -7,28 +7,16 @@ commands:
   gatsby-build:
     steps:
       - checkout
-      - restore_cache:
-          keys:
-            - yarn-cache-{{ checksum "yarn.lock" }}
       - run:
-          name: Install Dependencies
-          command: yarn install
-      - save_cache:
-          key: yarn-cache-{{ checksum "yarn.lock" }}
-          paths:
-            - ./node_modules
+          name: Install npm packages
+          command: npm install
       - run:
-          name: Gatsby Build
-          command: yarn build
+          name: Build site
+          command: GATSBY_CPU_COUNT=2 gatsby build
 workflows:
   version: 2
   build-deploy:
     jobs:
-      - build:
-          filters:
-            branches:
-              ignore:
-                - master
       - release:
           filters:
             branches:
@@ -37,7 +25,7 @@ workflows:
 jobs:
   build:
     executor: node-executor
-    working_directory: ~/repo
+    working_directory: ~/main-website
     steps:
       - gatsby-build
       - run:
@@ -45,7 +33,6 @@ jobs:
           command: ./node_modules/.bin/netlify deploy --dir=public
   release:
     executor: node-executor
-    working_directory: ~/repo
     steps:
       - gatsby-build
       - run:
