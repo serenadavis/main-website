@@ -3,7 +3,7 @@ import Layout from "../components/layout"
 
 export default () => (
     <Layout>
-        <div class="container">
+        {/* <div class="container">
             <h1 class="header">SUBMISSION GUIDELINES</h1>
             <div className="center">
                 <p><i>The Harvard Advocate</i> accepts submissions of art, fiction, and poetry of any form or length created by members of the Harvard community, as well as outside contributors at our discretion. All submissions are considered anonymously. Submissions may be uploaded online:</p>
@@ -43,6 +43,34 @@ export default () => (
             </div>
             <div class="center">
                 Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSef_QSgKgXlagI-MPmkXclEfr-Cpi025ulL4sf3wFs8RKtuMA/viewform?usp=sf_link">here</a> to upload your submission or you can email it to: <a  href="mailto:art@theharvardadvocate.com ">art@theharvardadvocate.com </a>
+            </div>
+        </div> */}
+        <div class="container">
+            <h1 class="header">SUBMISSION GUIDELINES</h1>
+            <div className="center">
+                {/* <p><i>The Harvard Advocate</i> accepts submissions of art, fiction, and poetry of any form or length created by members of the Harvard community, as well as outside contributors at our discretion. All submissions are considered anonymously. Submissions may be uploaded online:</p> */}
+                <p>We are currently accepting submissions for our special Migration issue:</p>
+            </div>
+            <div></div>
+            <div className="center">
+            <p><i>The Migration Issue will focus on exploring the themes of immigration/emigration, borders, diaspora, and nationhood. Through art, fiction, poetry, and personal essays, the Migration Issue will address these themes as they apply to broad and particular experiences. The issue will include voices from both the Harvard and non-Harvard community, with the goal of a sustained dialogue around these topics and what they mean. This project ultimately seeks to build community and mutual understanding through creative power, and to uplift the experiences and expressions of those who connected to migration--however people may interpret this word. In addition to the publication itself, the project will also include panels, discussions, and workshops. The Migration Issue is produced in collaboration with Palabritas, Act on a Dream, Stories from the Border, and Harvard Scholars at Risk.</i></p>
+            </div>
+            <div className="center">
+                <p>We are accepting submissions until November 1st. We invite submissions from individuals of all identities who feel strongly about the themes the publication addresses! Any and all art forms welcome. Submitted writing should be no longer than ~10 pages double spaced. </p>
+            </div>
+            <div className="center">
+            <p>
+            Submit art to: <a href="mailto: migrationissueart@gmail.com">migrationissueart@gmail.com</a>
+            </p>
+            <p>
+            Submit fiction to: <a href="mailto: migrationissuefiction@gmail.com">migrationissuefiction@gmail.com</a>
+            </p>
+            <p>
+            Submit poetry to: <a href="mailto: migrationissuepoetry@gmail.com">migrationissuepoetry@gmail.com</a>
+            </p>
+            <p>
+            Submit creative nonfiction/personal essays to: <a href="mailto: migrationissuecnf@gmail.com">migrationissuecnf@gmail.com</a>
+            </p>
             </div>
         </div>
     </Layout>
