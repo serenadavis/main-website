@@ -3,11 +3,11 @@ import Layout from "../components/layout"
 
 export default () => (
     <Layout>
-        {/* <div class="container">
+        <div class="container">
             <h1 class="header">SUBMISSION GUIDELINES</h1>
             <div className="center">
                 <p><i>The Harvard Advocate</i> accepts submissions of art, fiction, and poetry of any form or length created by members of the Harvard community, as well as outside contributors at our discretion. All submissions are considered anonymously. Submissions may be uploaded online:</p>
-                <p>We are currently accepting submissions for our Fall 2019 issue. Our spring review period ends on October 18, 2019.</p>
+                <p>We are currently accepting submissions for our Winter 2019 issue "Feast". Our winter review period ends on December 6, 2019.</p>
             </div>
             <div class="center"> 
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdHCYzDkX4ZAuip4NwjCeWXODfQSrheQDGEcgFApdhLrF35sg/viewform?usp=sf_link" class="btn btn-primary btn-150th">FICTION</a>
@@ -44,12 +44,12 @@ export default () => (
             <div class="center">
                 Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSef_QSgKgXlagI-MPmkXclEfr-Cpi025ulL4sf3wFs8RKtuMA/viewform?usp=sf_link">here</a> to upload your submission or you can email it to: <a  href="mailto:art@theharvardadvocate.com ">art@theharvardadvocate.com </a>
             </div>
-        </div> */}
+        </div>
         <div class="container">
-            <h1 class="header">SUBMISSION GUIDELINES</h1>
+            <h1 class="header">MIGRATION ISSUE</h1>
             <div className="center">
                 {/* <p><i>The Harvard Advocate</i> accepts submissions of art, fiction, and poetry of any form or length created by members of the Harvard community, as well as outside contributors at our discretion. All submissions are considered anonymously. Submissions may be uploaded online:</p> */}
-                <p>We are currently accepting submissions for our special Migration issue:</p>
+                <p>We are also currently accepting submissions for our special Migration issue:</p>
             </div>
             <div></div>
             <div className="center">
