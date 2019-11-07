@@ -411,6 +411,11 @@ article p {
   text-indent: 0em;
 }
 
+article t {
+	text-indent: 1em;
+	display: inline-block;
+}
+
 article span {
   text-indent: 2em;
   padding-bottom: .5em;
