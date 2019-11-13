@@ -101,7 +101,9 @@ A few weeks earlier I’d had my final appointment with the hospital breast spec
 After that, I still had the lumps. They were the same lumps as before; but now they were lumps I was supposed to be not worried about. I still feel them, roll them in between my thumb and index finger when I’m getting distracted. Instead, the site of damage was relocated about six inches to the left, where my implant was experiencing the inverse problem. It was supposed to be discernable by touch just beneath the skin, but it was buried so deep that it couldn’t be felt at all.
 
 The surgery was scheduled to take the morning but took the day. Nurses rotated through, each one draping me with a heated blanket, which was a warmed-up regular blanket. As one nurse rolled me in a wheelchair down to the imaging room, I saw one of the giant heaters where the warm blankets were stacked, which looked like a refrigerator but did the opposite thing a refrigerator would normally do. By the end of the day I was a shapeless mass covered in room-temperature blankets. I went under and woke back up. I left the hospital with a nice thick gash. A cold front came through that night, and I fell on the ice on my front porch, turning the rest of my arm purple and brown. It was funny to think that only now that these problems had been resolved had they become visible to the outside world.
-*
+
+
+\*
 
 The wounds were not yet done fading when I entered the era of my body called peacetime. It arrived quickly, taking a strange form. It was the form of an urge. The urge could get pretty strong in the restaurant where I worked. Like when the owner would come in on weekday mornings and leave his crossword on the counter when he left again. We would stand around and fill it out between rushes. There was a woman who came in on those slow days with her baby. The slowness made the mornings more agonizing, since I had plenty of time to think about how the baby was right there at the table in the far back corner, and how you can’t ask to touch the babies of strangers. So the crossword was a good distraction, if not the final line of defense keeping me at bay.
 
@@ -121,7 +123,7 @@ _In my thoughts I sit next to you every evening,_ Anna signed one July 1930 lett
 
 Later that month: _All sorts of things are going through my head, but I will have to see what settles down and remain when I am with all of you_. In the last words of the phrase she let slip the metaphysical secret known between friends and mothers and daughters and some other selected creatures: presence and absence are not the same but they often take place at the same time. Part of Eva is already there with her. 
 
-In the meantime, she concludes, keep your fingers crossed for our ship!
+_In the meantime_, she concludes, _keep your fingers crossed for our ship!_
 
 \*
 
