@@ -14,7 +14,7 @@ audio: []
 main_image: ''
 banner_image: ''
 ---
-In the end, what came to seem the most significant about my lumps was not how they caused me pain or fear, but how their meaning kept on changing even as the lumps themselves stayed the same. The night I first found them, they offered a nice, charged sense of drama. I was staging a performance art piece in my dorm room. The materials—a camcorder, a crocodile mask, a few boxes of wine, friends, the kind of multicolored parachute you would find in a child’s gym class—were spread out on the floor. These were fall days, and the air outside was still warm, and my bed was pulled up right next to my window on the second story over DeWolfe street. I spent a few hours each day sitting up against my bedframe, watching people passing by on the street below, and calling out if I knew them. That evening I flagged down my friend Owen as he walked by, asking him to come take part in my performance piece, and he agreed. I needed six people to hold the parachute in order to pull of the piece successfully, so I was glad I’d spotted Owen.
+In the end, what came to seem the most significant about my lumps was not how they caused me pain or fear, but how their meaning kept on changing even as the lumps themselves stayed the same. The night I first found them, they offered a nice, charged sense of drama. I was staging a performance art piece in my dorm room. The materials—a camcorder, a crocodile mask, a few boxes of wine, friends, the kind of multicolored parachute you would find in a child’s gym class—were spread out on the floor. These were fall days, and the air outside was still warm, and my bed was pulled up right next to my window on the second story over DeWolfe street. I spent a few hours each day sitting up against my bedframe, watching people passing by on the street below, and calling out if I knew them. That evening I flagged down my friend Owen as he walked by, asking him to come take part in my performance piece, and he agreed. I needed six people to hold the parachute in order to pull off the piece successfully, so I was glad I’d spotted Owen.
 
 Owen didn’t show up, though, and neither did a few other people. In the end I was short one participant. I sat in the middle of my parachute on the cold tile floor and thought, _sigh no one came to my performance piece._ Yes, I thought the word “sigh”, accepting the moment as an early taste of what was to come, which was a long sad life as an artist who would never be able to get anyone to come to her performance pieces. Later Owen told me his dog had died that night, and his mom had called on the phone, just as he walked out of sight of my window, to tell him the news.
 
@@ -119,7 +119,7 @@ _She did not love me, I only reminded her of someone!_—said the man on the scr
 
 _In my thoughts I sit next to you every evening,_ Anna signed one July 1930 letter to Eva. She often conjured images of physical presence when signing off. A favorite was, _Your voice over the phone sounded so near._
 
-Later that month: All sorts of things are going through my head, but I will have to see what settles down and remain when I am with all of you. In the last words of the phrase she let slip the metaphysical secret known between friends and mothers and daughters and some other selected creatures: presence and absence are not the same but they often take place at the same time. Part of Eva is already there with her. 
+Later that month: _All sorts of things are going through my head, but I will have to see what settles down and remain when I am with all of you_. In the last words of the phrase she let slip the metaphysical secret known between friends and mothers and daughters and some other selected creatures: presence and absence are not the same but they often take place at the same time. Part of Eva is already there with her. 
 
 In the meantime, she concludes, keep your fingers crossed for our ship!
 
@@ -138,7 +138,6 @@ _I would like to be a little bit of Madi for you_, Anna wrote to Eva that same J
 > In the meantime, I see that you have an oddly shaped hole somewhere in the vicinity of your gut. I have the perfect thing to fill it. I will send it to you in the mail.
 >
 > A kiss and I am ever your
->
 >
 > Eva
 
