@@ -139,6 +139,29 @@ export default ({data}) => (
                 </div>
                 <div class="clearfix"></div>
             </section>
+            <section class="banner-advertisement">
+                <div class="col-md-4">
+                    <article>
+                        <a href="/advertise" class="sponsored-link"> Sponsored </a>
+                        <a href="https://www.vrai.com/"><Image name="vrai.png"/></a>
+                    </article>
+                </div>
+                <div class="col-md-4">
+                    <article>
+                        <a href="/advertise" class="sponsored-link"> Sponsored </a>
+                            <a href="https://divacup.com/"> 
+                                <Image name="diva_cup.png"/> 
+                            </a>
+                    </article>
+                </div>
+                <div class="col-md-4">
+                    <article>
+                        <a href="/advertise" class="sponsored-link"> Sponsored </a>
+                        <a href="https://www.vrai.com/"><Image name="vrai.png"/></a>
+                    </article>
+                </div>
+                <div class="clearfix"></div>
+            </section>
             <section class="bottom-features">
                 <div class="container-left-half">
                     <div id="feature-current-issue">
