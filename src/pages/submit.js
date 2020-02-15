@@ -8,11 +8,11 @@ export default () => (
             <div className="center">
                 <p><i>The Harvard Advocate</i> accepts submissions of art, fiction, and poetry of any form or length created by members of the Harvard community, as well as outside contributors at our discretion. All submissions are considered anonymously</p>
             </div>
-            <h1 class="header">Winter 2019 Issue</h1>
+            <h1 class="header">Spring 2020 Issue</h1>
             <div className='center'>
-                <p>We are currently accepting submissions for our Winter 2019 issue "Feast":</p>
+                <p>We are currently accepting submissions for our Spring 2020 issue "Feast":</p>
                 <p><i>What do we choose to feast on? What are we eating to fill? In this themed issue, we want to capture the quiet, starved anticipation before the meal, the gluttony of collective consumption, the radiance and laziness of being full. We want to explore feast as a warm, familial ritual, hands turning a lazy susan round and round. What happens when individual hunger turns communal? What does the desire to be fed allow us to rationalize? Feast is the violence of squeaky silverware, the squelch of chicken legs parting with undercooked flesh. Feast is warm soup. Feast is the fancy china that is not meant for eating, that you are not allowed to touch, that your mother assures you is meant for something more.</i></p>
-                <p>Our Winter 2019 review period ends on December 6, 2019.</p>
+                <p>Our Spring 2020 review period ends on March 6, 2020.</p>
             </div>
             <p></p>
             <p></p>
